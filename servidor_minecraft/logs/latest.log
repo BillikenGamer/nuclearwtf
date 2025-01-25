@@ -1,0 +1,566 @@
+[22:15:12] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[22:15:12] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[22:15:12] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[22:15:12] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[22:15:12] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_432, running on Linux:amd64:6.5.0-1025-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[22:15:13] [main/INFO] [FML]: Searching /workspaces/nuclearwtf/servidor_minecraft/./mods for mods
+[22:15:13] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from !mixinbooter-10.4.jar
+[22:15:13] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from `FermiumBooter-1.1.1.jar
+[22:15:13] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in ForgeEndertech-1.12.2-4.5.6.1-build.0648.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[22:15:13] [main/WARN] [FML]: The coremod com.endertech.minecraft.forge.coremod.CorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:15:13] [main/WARN] [FML]: The coremod CorePlugin (com.endertech.minecraft.forge.coremod.CorePlugin) is not signed!
+[22:15:13] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Mekanism-1.12.2-9.8.3.390.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[22:15:13] [main/WARN] [FML]: The coremod mekanism.coremod.MekanismCoremod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:15:13] [main/WARN] [FML]: The coremod MekanismCoremod (mekanism.coremod.MekanismCoremod) is not signed!
+[22:15:13] [main/WARN] [FML]: The coremod ObfuscatePlugin (com.mrcrayfish.obfuscate.asm.ObfuscatePlugin) is not signed!
+[22:15:13] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from responsiveshields-2.3-mc1.12.x.jar
+[22:15:13] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in SereneSeasons-1.12.2-1.2.18-universal.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[22:15:13] [main/WARN] [FML]: The coremod sereneseasons.asm.SSLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:15:13] [main/WARN] [FML]: The coremod SSLoadingPlugin (sereneseasons.asm.SSLoadingPlugin) is not signed!
+[22:15:13] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from The-Hordes-1.12.2-1.5.3a.jar
+[22:15:13] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:15:13] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[22:15:13] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/nuclearwtf/servidor_minecraft/./mods/!mixinbooter-10.4.jar Service=LaunchWrapper Env=SERVER
+[22:15:13] [main/WARN] [FML]: The coremod zone.rong.mixinbooter.MixinBooterPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[22:15:13] [main/WARN] [FML]: The coremod MixinBooter (zone.rong.mixinbooter.MixinBooterPlugin) is not signed!
+[22:15:13] [main/INFO] [MixinBooter]: Initializing Mixins...
+[22:15:13] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[22:15:13] [main/INFO] [MixinBooter]: Initializing MixinExtras...
+[22:15:13] [main/INFO] [MixinBooter]: Gathering present mods...
+[22:15:13] [main/INFO] [MixinBooter]: Finished gathering 7 coremods...
+[22:15:13] [main/WARN] [FML]: The coremod FermiumBooter (fermiumbooter.FermiumPlugin) is not signed!
+[22:15:13] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[22:15:13] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[22:15:13] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[22:15:13] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:15:13] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:15:13] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[22:15:13] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:15:14] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[22:15:14] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:15:14] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:15:14] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:15:14] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[22:15:14] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@77cb9cd1
+[22:15:14] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[22:15:14] [main/INFO] [MixinExtras|Service]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.5.0-beta.5).
+[22:15:15] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:15:15] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[22:15:15] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:15:15] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[22:15:15] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[22:15:15] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[22:15:15] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[22:15:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[22:15:18] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[22:15:18] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[22:15:18] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[22:15:18] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[22:15:18] [Server thread/INFO] [MixinBooter]: Initializing MixinBooter's Mod Container.
+[22:15:18] [Server thread/INFO] [FML]: Searching /workspaces/nuclearwtf/servidor_minecraft/./mods for mods
+[22:15:19] [Server thread/WARN] [FML]: Mod cavern is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 2.3.1
+[22:15:19] [Server thread/WARN] [FML]: Mod cosmeticarmorreworked is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-v5a
+[22:15:19] [Server thread/WARN] [FML]: Mod mekanismgenerators is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-9.8.3.390
+[22:15:19] [Server thread/WARN] [FML]: Mod mekanismtools is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.12.2-9.8.3.390
+[22:15:19] [Server thread/WARN] [FML]: Mod patchouli is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 1.0-23.6
+[22:15:19] [Server thread/WARN] [FML]: Mod trashslot is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version 8.4.10
+[22:15:20] [Server thread/INFO] [FML]: Forge Mod Loader has identified 50 mods to load
+[22:15:20] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[22:15:20] [Server thread/WARN] [FML]: Missing English translation for movillages: assets/movillages/lang/en_us.lang
+[22:15:20] [Server thread/WARN] [FML]: Missing English translation for fermiumbooter: assets/fermiumbooter/lang/en_us.lang
+[22:15:20] [Server thread/WARN] [FML]: Missing English translation for bettercaves: assets/bettercaves/lang/en_us.lang
+[22:15:20] [Server thread/WARN] [FML]: Missing English translation for clumps: assets/clumps/lang/en_us.lang
+[22:15:20] [Server thread/WARN] [FML]: Missing English translation for collective: assets/collective/lang/en_us.lang
+[22:15:20] [Server thread/WARN] [FML]: Missing English translation for extendedrenderer: assets/extendedrenderer/lang/en_us.lang
+[22:15:20] [Server thread/WARN] [FML]: Missing English translation for configmod: assets/configmod/lang/en_us.lang
+[22:15:20] [Server thread/WARN] [FML]: Missing English translation for forgeendertech: assets/forgeendertech/lang/en_us.lang
+[22:15:20] [Server thread/WARN] [FML]: Missing English translation for mekanismgenerators: assets/mekanismgenerators/lang/en_us.lang
+[22:15:20] [Server thread/WARN] [FML]: Missing English translation for mekanismtools: assets/mekanismtools/lang/en_us.lang
+[22:15:20] [Server thread/WARN] [FML]: Missing English translation for morpheus: assets/morpheus/lang/en_us.lang
+[22:15:20] [Server thread/WARN] [FML]: Missing English translation for responsiveshields: assets/responsiveshields/lang/en_us.lang
+[22:15:20] [Server thread/WARN] [FML]: Missing English translation for villagespawnpoint: assets/villagespawnpoint/lang/en_us.lang
+[22:15:20] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, mixinbooter, obfuscate, movillages, fermiumbooter, adhooks, adlods, aether_legacy, artifacts, atlaslib, baubles, bettercaves, bountifulbaubles, camera, cavern, clumps, collective, extendedrenderer, coroutil, configmod, corpse, cosmeticarmorreworked, followme, forgeendertech, cgm, hats, ichunutil, jei, mahoutsukai, mekanism, mekanismgenerators, mekanismtools, morpheus, hbm, patchouli, responsiveshields, roguelike, sereneseasons, simpledivegear, hordes, trashslot, twilightforest, uteamcore, usefulbackpacks, vehicle, villagespawnpoint, zombieawareness] at CLIENT
+[22:15:20] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, mixinbooter, obfuscate, movillages, fermiumbooter, adhooks, adlods, aether_legacy, artifacts, atlaslib, baubles, bettercaves, bountifulbaubles, camera, cavern, clumps, collective, extendedrenderer, coroutil, configmod, corpse, cosmeticarmorreworked, followme, forgeendertech, cgm, hats, ichunutil, jei, mahoutsukai, mekanism, mekanismgenerators, mekanismtools, morpheus, hbm, patchouli, responsiveshields, roguelike, sereneseasons, simpledivegear, hordes, trashslot, twilightforest, uteamcore, usefulbackpacks, vehicle, villagespawnpoint, zombieawareness] at SERVER
+[22:15:22] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[22:15:22] [Server thread/INFO] [FML]: Found 1604 ObjectHolder annotations
+[22:15:22] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[22:15:22] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[22:15:22] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[22:15:22] [Forge Version Check/INFO] [forge.VersionCheck]: [aether_legacy] Starting version check at https://raw.githubusercontent.com/Modding-Legacy/Aether-Legacy/master/aether-legacy-changelog.json
+[22:15:22] [Server thread/INFO] [Obfuscate]: Successfully injected SyncedPlayerData capability
+[22:15:22] [Server thread/INFO] [FML]: [MoVillages] Generated Village Customization Config!
+[22:15:22] [Forge Version Check/INFO] [forge.VersionCheck]: [camera] Starting version check at https://maxhenkel.de/update/camera.json
+[22:15:23] [Server thread/INFO] [hordes]: Trying to load config
+[22:15:23] [Server thread/INFO] [Follow Me]: Trying to load config
+[22:15:23] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.mrcrayfish.guns.event.CommonEvents
+[22:15:23] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class com.mrcrayfish.guns.event.CommonEvents
+[22:15:23] [Hats Mod Mob Support Thread/INFO] [STDERR]: [me.ichun.mods.hats.common.thread.ThreadGetModMobSupport:run:90]: java.io.FileNotFoundException: https://raw.githubusercontent.com/iChun/Hats/master/src/main/resources/assets/hats/mod/HatModMobSupport.json
+[22:15:23] [Hats Mod Mob Support Thread/INFO] [STDERR]: [me.ichun.mods.hats.common.thread.ThreadGetModMobSupport:run:90]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1913)
+[22:15:23] [Hats Mod Mob Support Thread/INFO] [STDERR]: [me.ichun.mods.hats.common.thread.ThreadGetModMobSupport:run:90]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:92)
+[22:15:23] [Hats Mod Mob Support Thread/INFO] [STDERR]: [me.ichun.mods.hats.common.thread.ThreadGetModMobSupport:run:90]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1507)
+[22:15:23] [Hats Mod Mob Support Thread/INFO] [STDERR]: [me.ichun.mods.hats.common.thread.ThreadGetModMobSupport:run:90]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1505)
+[22:15:23] [Hats Mod Mob Support Thread/INFO] [STDERR]: [me.ichun.mods.hats.common.thread.ThreadGetModMobSupport:run:90]: 	at java.security.AccessController.doPrivileged(Native Method)
+[22:15:23] [Hats Mod Mob Support Thread/INFO] [STDERR]: [me.ichun.mods.hats.common.thread.ThreadGetModMobSupport:run:90]: 	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:784)
+[22:15:23] [Hats Mod Mob Support Thread/INFO] [STDERR]: [me.ichun.mods.hats.common.thread.ThreadGetModMobSupport:run:90]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1504)
+[22:15:23] [Hats Mod Mob Support Thread/INFO] [STDERR]: [me.ichun.mods.hats.common.thread.ThreadGetModMobSupport:run:90]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+[22:15:23] [Hats Mod Mob Support Thread/INFO] [STDERR]: [me.ichun.mods.hats.common.thread.ThreadGetModMobSupport:run:90]: 	at java.net.URL.openStream(URL.java:1093)
+[22:15:23] [Hats Mod Mob Support Thread/INFO] [STDERR]: [me.ichun.mods.hats.common.thread.ThreadGetModMobSupport:run:90]: 	at me.ichun.mods.hats.common.thread.ThreadGetModMobSupport.run(ThreadGetModMobSupport.java:41)
+[22:15:24] [Server thread/INFO] [Mekanism]: Didn't detect MCMP, ignoring compatibility package
+[22:15:24] [Forge Version Check/INFO] [forge.VersionCheck]: [camera] Found status: UP_TO_DATE Target: null
+[22:15:24] [Forge Version Check/INFO] [forge.VersionCheck]: [cavern] Starting version check at https://raw.githubusercontent.com/kegare/Cavern2/master/cavern2.json
+[22:15:24] [Server thread/INFO] [morpheus]: Loading configuration
+[22:15:24] [Server thread/ERROR] [hbm]: Warning - Open GL 3.3 not supported! Disabling 3.3 effects...
+[22:15:24] [Server thread/ERROR] [hbm]: Shader effects manually disabled
+[22:15:24] [Forge Version Check/INFO] [forge.VersionCheck]: [cavern] Found status: UP_TO_DATE Target: null
+[22:15:24] [Forge Version Check/INFO] [forge.VersionCheck]: [uteamcore] Starting version check at https://api.u-team.info/update/uteamcore.json
+[22:15:24] [Forge Version Check/INFO] [forge.VersionCheck]: [uteamcore] Found status: UP_TO_DATE Target: null
+[22:15:24] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[22:15:24] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[22:15:24] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Starting version check at https://raw.githubusercontent.com/TeamTwilight/twilightforest/1.12.x/update.json
+[22:15:24] [Forge Version Check/INFO] [forge.VersionCheck]: [twilightforest] Found status: AHEAD Target: null
+[22:15:24] [Forge Version Check/INFO] [forge.VersionCheck]: [artifacts] Starting version check at https://raw.githubusercontent.com/ochotonida/artifacts/1.12/update.json
+[22:15:24] [Forge Version Check/INFO] [forge.VersionCheck]: [artifacts] Found status: AHEAD Target: null
+[22:15:24] [Forge Version Check/INFO] [forge.VersionCheck]: [usefulbackpacks] Starting version check at https://api.u-team.info/update/usefulbackpacks.json
+[22:15:24] [Forge Version Check/INFO] [forge.VersionCheck]: [usefulbackpacks] Found status: UP_TO_DATE Target: null
+[22:15:24] [Forge Version Check/INFO] [forge.VersionCheck]: [corpse] Starting version check at https://maxhenkel.de/update/corpse.json
+[22:15:24] [Hats Download/Read Hats Thread/INFO] [Hats]: [7.1.1] Loaded 198 hats. 68 are contributor hats.
+[22:15:25] [Forge Version Check/INFO] [forge.VersionCheck]: [corpse] Found status: UP_TO_DATE Target: null
+[22:15:26] [Server thread/INFO] [hbm]: Searching for new versions...
+[22:15:26] [Server thread/INFO] [hbm]: Found version NTM-Extended-1.12.2-2.0.2
+[22:15:26] [Server thread/INFO] [hbm]: Found changelog Added more Conveyor stuff$Added 1.7 Gerald Crater$Added RBMK Fuel Uncrafting JEI Tab$Added onArmor Jetpack fueling$Added rare earth ore chunk$Optimized Nuke TPS/Speed/FPS$Changed Desh and Saturnite battery balance$Changed DFC to explode after overheating 60s even with jamming$Fixed Meteor Dungeons$Fixed HE-RF Converters$Fixed MKU and 40 more bugs$Removed chemplant oil processing by default
+[22:15:26] [Server thread/INFO] [hbm]: Version checker ended.
+[22:15:27] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `season_sensor`, expected `sereneseasons`. This could be a intended override, but in most cases indicates a broken mod.
+[22:15:27] [Server thread/INFO] [SIMPDIVEGEAR]: Hello Minecraft, how are you? Did you know that Tony loves Amy? 8 years and 3 months together. <3
+[22:15:27] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Baubles.
+[22:15:27] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Chisel.
+[22:15:27] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Forestry.
+[22:15:27] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Immersive Engineering.
+[22:15:27] [Server thread/INFO] [twilightforest]: Loaded compatibility for mod Just Enough Items.
+[22:15:27] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Tinkers' Construct.
+[22:15:27] [Server thread/INFO] [twilightforest]: Skipped compatibility for mod Thaumcraft.
+[22:15:30] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `portal`, expected `mekanism`. This could be a intended override, but in most cases indicates a broken mod.
+[22:15:30] [Server thread/INFO] [FML]: Applying holder lookups
+[22:15:30] [Server thread/INFO] [FML]: Holder lookups applied
+[22:15:30] [Server thread/INFO] [FML]: Applying holder lookups
+[22:15:30] [Server thread/INFO] [FML]: Holder lookups applied
+[22:15:30] [Server thread/INFO] [FML]: Applying holder lookups
+[22:15:30] [Server thread/INFO] [FML]: Holder lookups applied
+[22:15:30] [Server thread/INFO] [FML]: Applying holder lookups
+[22:15:30] [Server thread/INFO] [FML]: Holder lookups applied
+[22:15:30] [Server thread/INFO] [FML]: Injecting itemstacks
+[22:15:30] [Server thread/INFO] [FML]: Itemstack injection complete
+[22:15:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[22:15:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[22:15:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[22:15:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[22:15:30] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[22:15:30] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:15:30] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[22:15:30] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:15:30] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:15:31] [Server thread/INFO] [STDOUT]: [com.hbm.main.ModEventHandler:craftingRegister:1195]: Memory usage before: 1928596256
+[22:15:31] [Server thread/INFO] [STDOUT]: [com.hbm.main.ModEventHandler:craftingRegister:1200]: Memory usage after: 420006160
+[22:15:31] [Server thread/INFO] [STDOUT]: [com.hbm.main.ModEventHandler:doesArrayContain:1221]: On Recipe Register
+[22:15:31] [Server thread/INFO] [FML]: Applying holder lookups
+[22:15:31] [Server thread/INFO] [FML]: Holder lookups applied
+[22:15:32] [iChunUtil Online Resource Thread/WARN] [iChunUtil]: Error retrieving mods versions list.
+[22:15:32] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: java.io.FileNotFoundException: https://raw.githubusercontent.com/iChun/iChunUtil/master/src/main/resources/assets/ichunutil/mod/versions.json
+[22:15:32] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1913)
+[22:15:32] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at sun.net.www.protocol.http.HttpURLConnection.access$200(HttpURLConnection.java:92)
+[22:15:32] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1507)
+[22:15:32] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at sun.net.www.protocol.http.HttpURLConnection$9.run(HttpURLConnection.java:1505)
+[22:15:32] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at java.security.AccessController.doPrivileged(Native Method)
+[22:15:32] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at java.security.AccessController.doPrivilegedWithCombiner(AccessController.java:784)
+[22:15:32] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1504)
+[22:15:32] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getInputStream(HttpsURLConnectionImpl.java:268)
+[22:15:32] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at java.net.URL.openStream(URL.java:1093)
+[22:15:32] [iChunUtil Online Resource Thread/INFO] [STDERR]: [me.ichun.mods.ichunutil.common.thread.ThreadGetResources:run:77]: 	at me.ichun.mods.ichunutil.common.thread.ThreadGetResources.run(ThreadGetResources.java:67)
+[22:15:32] [Server thread/INFO] [Mekanism]: Version 9.8.3 initializing...
+[22:15:32] [Server thread/INFO] [Mekanism]: Loading complete.
+[22:15:32] [Server thread/INFO] [Mekanism]: Mod loaded.
+[22:15:32] [Server thread/INFO] [Mekanism]: Loaded MekanismGenerators module.
+[22:15:32] [Server thread/INFO] [Mekanism]: Loaded 'Mekanism: Tools' module.
+[22:15:32] [Server thread/INFO] [hbm]: OreDict: Re-registration for ingotTcAlloy to ingotAnyResistantAlloy
+[22:15:32] [Server thread/INFO] [hbm]: OreDict: Re-registration for dustTcAlloy to dustAnyResistantAlloy
+[22:15:32] [Server thread/INFO] [hbm]: OreDict: Re-registration for ingotCdAlloy to ingotAnyResistantAlloy
+[22:15:32] [Server thread/INFO] [hbm]: OreDict: Re-registration for dustCdAlloy to dustAnyResistantAlloy
+[22:15:32] [Server thread/INFO] [hbm]: OreDict: Re-registration for ingotPolymer to ingotAnyPlastic
+[22:15:32] [Server thread/INFO] [hbm]: OreDict: Re-registration for dustPolymer to dustAnyPlastic
+[22:15:32] [Server thread/INFO] [hbm]: OreDict: Re-registration for blockPolymer to blockAnyPlastic
+[22:15:32] [Server thread/INFO] [hbm]: OreDict: Re-registration for ingotBakelite to ingotAnyPlastic
+[22:15:32] [Server thread/INFO] [hbm]: OreDict: Re-registration for dustBakelite to dustAnyPlastic
+[22:15:32] [Server thread/INFO] [hbm]: OreDict: Re-registration for blockBakelite to blockAnyPlastic
+[22:15:32] [Server thread/INFO] [hbm]: OreDict: Re-registration for ingotRubber to ingotAnyRubber
+[22:15:32] [Server thread/INFO] [hbm]: OreDict: Re-registration for ingotLatex to ingotAnyRubber
+[22:15:32] [Server thread/INFO] [hbm]: OreDict: Re-registration for oiltar to anyTar
+[22:15:32] [Server thread/INFO] [FML]: Injecting itemstacks
+[22:15:32] [Server thread/INFO] [FML]: Itemstack injection complete
+[22:15:32] [Server thread/WARN] [FML]: No types have been added to Biome mahoutsukai:realitymarble, types have been assigned on a best-effort guess: [PLAINS, DRY, HOT, SANDY]
+[22:15:32] [Server thread/INFO] [hordes]: Loaded entity minecraft:zombie as class net.minecraft.entity.monster.EntityZombie with weight 35, min day 0 and max day 20
+[22:15:32] [Server thread/INFO] [hordes]: Loaded entity minecraft:zombie_villager as class net.minecraft.entity.monster.EntityZombieVillager with weight 1, min day 0 and max day 20
+[22:15:32] [Server thread/INFO] [hordes]: Loaded entity minecraft:zombie_horse as class net.minecraft.entity.passive.EntityZombieHorse with weight 3, min day 20 and max day 0
+[22:15:32] [Server thread/INFO] [hordes]: Loaded entity minecraft:husk as class net.minecraft.entity.monster.EntityHusk with weight 40, min day 20 and max day 0
+[22:15:32] [Server thread/INFO] [hordes]: loaded horde table hordes:default
+[22:15:32] [Server thread/INFO] [hordes]: Loaded entity minecraft:skeleton as class net.minecraft.entity.monster.EntitySkeleton with weight 10, min day 0 and max day 20
+[22:15:32] [Server thread/INFO] [hordes]: Loaded entity minecraft:skeleton as class net.minecraft.entity.monster.EntitySkeleton with weight 20, min day 0 and max day 30
+[22:15:32] [Server thread/INFO] [hordes]: Loaded entity minecraft:skeleton_horse as class net.minecraft.entity.passive.EntitySkeletonHorse with weight 5, min day 20 and max day 50
+[22:15:32] [Server thread/INFO] [hordes]: Loaded entity minecraft:stray as class net.minecraft.entity.monster.EntityStray with weight 10, min day 20 and max day 0
+[22:15:32] [Server thread/INFO] [hordes]: Loaded entity minecraft:wither_skeleton as class net.minecraft.entity.monster.EntityWitherSkeleton with weight 10, min day 40 and max day 0
+[22:15:32] [Server thread/INFO] [hordes]: Loaded entity minecraft:skeleton_horse as class net.minecraft.entity.passive.EntitySkeletonHorse with weight 5, min day 40 and max day 0
+[22:15:32] [Server thread/INFO] [hordes]: loaded horde table hordes:skeletons
+[22:15:32] [Server thread/INFO] [hordes]: Loaded entity minecraft:zombie as class net.minecraft.entity.monster.EntityZombie with weight 20, min day 0 and max day 20
+[22:15:32] [Server thread/INFO] [hordes]: Loaded entity minecraft:skeleton as class net.minecraft.entity.monster.EntitySkeleton with weight 10, min day 20 and max day 30
+[22:15:32] [Server thread/INFO] [hordes]: Loaded entity minecraft:spider as class net.minecraft.entity.monster.EntitySpider with weight 15, min day 20 and max day 30
+[22:15:32] [Server thread/INFO] [hordes]: Loaded entity minecraft:creeper as class net.minecraft.entity.monster.EntityCreeper with weight 5, min day 30 and max day 30
+[22:15:32] [Server thread/INFO] [hordes]: Loaded entity minecraft:husk as class net.minecraft.entity.monster.EntityHusk with weight 20, min day 30 and max day 50
+[22:15:32] [Server thread/INFO] [hordes]: Loaded entity minecraft:stray as class net.minecraft.entity.monster.EntityStray with weight 10, min day 40 and max day 50
+[22:15:32] [Server thread/INFO] [hordes]: Loaded entity minecraft:cave_spider as class net.minecraft.entity.monster.EntityCaveSpider with weight 10, min day 40 and max day 50
+[22:15:32] [Server thread/INFO] [hordes]: Loaded entity minecraft:witch as class net.minecraft.entity.monster.EntityWitch with weight 5, min day 40 and max day 50
+[22:15:32] [Server thread/INFO] [hordes]: Loaded entity minecraft:zombie_horse as class net.minecraft.entity.passive.EntityZombieHorse with weight 3, min day 40 and max day 0
+[22:15:32] [Server thread/INFO] [hordes]: Loaded entity minecraft:vindication_illager as class net.minecraft.entity.monster.EntityVindicator with weight 5, min day 50 and max day 0
+[22:15:32] [Server thread/INFO] [hordes]: Loaded entity minecraft:wither_skeleton as class net.minecraft.entity.monster.EntityWitherSkeleton with weight 10, min day 50 and max day 0
+[22:15:32] [Server thread/INFO] [hordes]: Loaded entity minecraft:cave_spider as class net.minecraft.entity.monster.EntityCaveSpider with weight 15, min day 60 and max day 0
+[22:15:32] [Server thread/INFO] [hordes]: Loaded entity minecraft:skeleton_horse as class net.minecraft.entity.passive.EntitySkeletonHorse with weight 3, min day 40 and max day 0
+[22:15:32] [Server thread/INFO] [hordes]: loaded horde table hordes:mixed_mobs
+[22:15:32] [Server thread/INFO] [hordes]: loaded horde script hordes:default
+[22:15:32] [Server thread/INFO] [hordes]: Loading infection cures
+[22:15:32] [Server thread/INFO] [hordes]: Loaded infection cure 1xitem.appleGold@32767
+[22:15:32] [Server thread/INFO] [hordes]: Loading infection entities
+[22:15:32] [Server thread/INFO] [hordes]: Loaded infection entity minecraft:zombie as class net.minecraft.entity.monster.EntityZombie
+[22:15:32] [Server thread/INFO] [hordes]: Loaded infection entity minecraft:zombie_villager as class net.minecraft.entity.monster.EntityZombieVillager
+[22:15:32] [Server thread/INFO] [hordes]: Loaded infection entity minecraft:husk as class net.minecraft.entity.monster.EntityHusk
+[22:15:32] [Server thread/INFO] [hordes]: Loaded infection entity minecraft:zombie_horse as class net.minecraft.entity.passive.EntityZombieHorse
+[22:15:32] [Server thread/INFO] [hordes]: Loaded infection entity hordes:zombie_player as class net.smileycorp.hordes.common.entities.EntityZombiePlayer
+[22:15:32] [Server thread/INFO] [hordes]: Loading conversion tables
+[22:15:32] [Server thread/INFO] [hordes]: Loaded conversion class net.minecraft.entity.passive.EntityHorse to class net.minecraft.entity.passive.EntityZombieHorse with chance of 0.65
+[22:15:32] [Server thread/INFO] [hordes]: Loading immunity item list
+[22:15:32] [Server thread/INFO] [hordes]: Loaded immunity item 1xitem.appleGold@1 with duration 150
+[22:15:32] [Server thread/INFO] [hordes]: Loading wearables protection list
+[22:15:32] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:leather_boots with modifier 0.95
+[22:15:32] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:leather_leggings with modifier 0.95
+[22:15:32] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:leather_chestplate with modifier 0.95
+[22:15:32] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:leather_helmet with modifier 0.95
+[22:15:32] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:chainmail_boots with modifier 0.95
+[22:15:32] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:chainmail_leggings with modifier 0.95
+[22:15:32] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:chainmail_chestplate with modifier 0.95
+[22:15:32] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:chainmail_helmet with modifier 0.95
+[22:15:32] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:iron_boots with modifier 0.9
+[22:15:32] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:iron_leggings with modifier 0.9
+[22:15:32] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:iron_chestplate with modifier 0.9
+[22:15:32] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:iron_helmet with modifier 0.9
+[22:15:32] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:golden_boots with modifier 0.9
+[22:15:32] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:golden_leggings with modifier 0.9
+[22:15:32] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:golden_chestplate with modifier 0.9
+[22:15:32] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:golden_helmet with modifier 0.9
+[22:15:32] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:diamond_boots with modifier 0.86
+[22:15:32] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:diamond_leggings with modifier 0.86
+[22:15:32] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:diamond_chestplate with modifier 0.86
+[22:15:32] [Server thread/INFO] [hordes]: Loaded wearable protection minecraft:diamond_helmet with modifier 0.86
+[22:15:32] [Server thread/INFO] [Follow Me]: Trying to read config
+[22:15:32] [Server thread/ERROR] [Follow Me]: Failed to read config, null Value entityWhitelist in config is empty
+[22:15:32] [Server thread/INFO] [STDERR]: [net.smileycorp.followme.common.FollowMe:logError:48]: java.lang.Exception: Value entityWhitelist in config is empty
+[22:15:32] [Server thread/INFO] [STDERR]: [net.smileycorp.followme.common.FollowMe:logError:48]: 	at net.smileycorp.followme.common.ConfigHandler.initWhitelist(ConfigHandler.java:48)
+[22:15:32] [Server thread/INFO] [STDERR]: [net.smileycorp.followme.common.FollowMe:logError:48]: 	at net.smileycorp.followme.common.FollowMe.postInit(FollowMe.java:39)
+[22:15:32] [Server thread/INFO] [STDERR]: [net.smileycorp.followme.common.FollowMe:logError:48]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:15:32] [Server thread/INFO] [STDERR]: [net.smileycorp.followme.common.FollowMe:logError:48]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:15:32] [Server thread/INFO] [STDERR]: [net.smileycorp.followme.common.FollowMe:logError:48]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:15:32] [Server thread/INFO] [STDERR]: [net.smileycorp.followme.common.FollowMe:logError:48]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[22:15:32] [Server thread/INFO] [STDERR]: [net.smileycorp.followme.common.FollowMe:logError:48]: 	at net.minecraftforge.fml.common.FMLModContainer.handleModStateEvent(FMLModContainer.java:637)
+[22:15:32] [Server thread/INFO] [STDERR]: [net.smileycorp.followme.common.FollowMe:logError:48]: 	at sun.reflect.GeneratedMethodAccessor9.invoke(Unknown Source)
+[22:15:32] [Server thread/INFO] [STDERR]: [net.smileycorp.followme.common.FollowMe:logError:48]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:15:32] [Server thread/INFO] [STDERR]: [net.smileycorp.followme.common.FollowMe:logError:48]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[22:15:32] [Server thread/INFO] [STDERR]: [net.smileycorp.followme.common.FollowMe:logError:48]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[22:15:32] [Server thread/INFO] [STDERR]: [net.smileycorp.followme.common.FollowMe:logError:48]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[22:15:32] [Server thread/INFO] [STDERR]: [net.smileycorp.followme.common.FollowMe:logError:48]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[22:15:32] [Server thread/INFO] [STDERR]: [net.smileycorp.followme.common.FollowMe:logError:48]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[22:15:32] [Server thread/INFO] [STDERR]: [net.smileycorp.followme.common.FollowMe:logError:48]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[22:15:32] [Server thread/INFO] [STDERR]: [net.smileycorp.followme.common.FollowMe:logError:48]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[22:15:32] [Server thread/INFO] [STDERR]: [net.smileycorp.followme.common.FollowMe:logError:48]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[22:15:32] [Server thread/INFO] [STDERR]: [net.smileycorp.followme.common.FollowMe:logError:48]: 	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+[22:15:32] [Server thread/INFO] [STDERR]: [net.smileycorp.followme.common.FollowMe:logError:48]: 	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+[22:15:32] [Server thread/INFO] [STDERR]: [net.smileycorp.followme.common.FollowMe:logError:48]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[22:15:32] [Server thread/INFO] [STDERR]: [net.smileycorp.followme.common.FollowMe:logError:48]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+[22:15:32] [Server thread/INFO] [STDERR]: [net.smileycorp.followme.common.FollowMe:logError:48]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[22:15:32] [Server thread/INFO] [STDERR]: [net.smileycorp.followme.common.FollowMe:logError:48]: 	at java.lang.reflect.Method.invoke(Method.java:498)
+[22:15:32] [Server thread/INFO] [STDERR]: [net.smileycorp.followme.common.FollowMe:logError:48]: 	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+[22:15:32] [Server thread/INFO] [STDERR]: [net.smileycorp.followme.common.FollowMe:logError:48]: 	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+[22:15:32] [Server thread/INFO] [STDERR]: [net.smileycorp.followme.common.FollowMe:logError:48]: 	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+[22:15:32] [Server thread/INFO] [STDERR]: [net.smileycorp.followme.common.FollowMe:logError:48]: 	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+[22:15:32] [Server thread/INFO] [STDERR]: [net.smileycorp.followme.common.FollowMe:logError:48]: 	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+[22:15:32] [Server thread/INFO] [STDERR]: [net.smileycorp.followme.common.FollowMe:logError:48]: 	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+[22:15:32] [Server thread/INFO] [STDERR]: [net.smileycorp.followme.common.FollowMe:logError:48]: 	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+[22:15:32] [Server thread/INFO] [STDERR]: [net.smileycorp.followme.common.FollowMe:logError:48]: 	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)
+[22:15:32] [Server thread/INFO] [STDERR]: [net.smileycorp.followme.common.FollowMe:logError:48]: 	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:754)
+[22:15:32] [Server thread/INFO] [STDERR]: [net.smileycorp.followme.common.FollowMe:logError:48]: 	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108)
+[22:15:32] [Server thread/INFO] [STDERR]: [net.smileycorp.followme.common.FollowMe:logError:48]: 	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338)
+[22:15:32] [Server thread/INFO] [STDERR]: [net.smileycorp.followme.common.FollowMe:logError:48]: 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219)
+[22:15:32] [Server thread/INFO] [STDERR]: [net.smileycorp.followme.common.FollowMe:logError:48]: 	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486)
+[22:15:32] [Server thread/INFO] [STDERR]: [net.smileycorp.followme.common.FollowMe:logError:48]: 	at java.lang.Thread.run(Thread.java:750)
+[22:15:32] [Server thread/INFO] [iChunUtil]: =============================================================
+[22:15:32] [Server thread/INFO] [iChunUtil]: By using iChunUtil you therefore agree to the EULA of the mod. It may be found in the jar file of the mod. The latest version will be available on iChun's website or on GitHub.
+[22:15:32] [Server thread/INFO] [iChunUtil]: You can disable this console message by going to the iChunUtil config and setting the "eulaAcknowledged" config to "true" (no quotes).
+[22:15:32] [Server thread/INFO] [iChunUtil]: =============================================================
+[22:15:32] [Server thread/INFO] [Mekanism]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
+[22:15:32] [Server thread/INFO] [Mekanism]: Finished loading Cardboard Box blacklist (loaded 0 entries)
+[22:15:32] [Server thread/INFO] [Mekanism]: Hooking complete.
+[22:15:32] [Server thread/INFO] [hbm]: CraftTweaker integration decativated
+[22:15:32] [Server thread/INFO] [SIMPDIVEGEAR]: Checking for compatibility modules
+[22:15:33] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 50 mods
+[22:15:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[22:15:33] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[22:15:34] [Server thread/INFO] [FML]: Applying holder lookups
+[22:15:34] [Server thread/INFO] [FML]: Holder lookups applied
+[22:15:34] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@1b5fcd63)
+[22:15:34] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 935 advancements
+[22:15:34] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@1b5fcd63)
+[22:15:34] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@1b5fcd63)
+[22:15:34] [Server thread/INFO] [FML]: Loading dimension 4 (world) (net.minecraft.server.dedicated.DedicatedServer@1b5fcd63)
+[22:15:34] [Server thread/INFO] [FML]: Loading dimension -50 (world) (net.minecraft.server.dedicated.DedicatedServer@1b5fcd63)
+[22:15:34] [Server thread/INFO] [FML]: Loading dimension -51 (world) (net.minecraft.server.dedicated.DedicatedServer@1b5fcd63)
+[22:15:34] [Server thread/INFO] [FML]: Loading dimension -52 (world) (net.minecraft.server.dedicated.DedicatedServer@1b5fcd63)
+[22:15:34] [Server thread/INFO] [FML]: Loading dimension -53 (world) (net.minecraft.server.dedicated.DedicatedServer@1b5fcd63)
+[22:15:34] [Server thread/INFO] [FML]: Loading dimension -54 (world) (net.minecraft.server.dedicated.DedicatedServer@1b5fcd63)
+[22:15:34] [Server thread/INFO] [FML]: Loading dimension -55 (world) (net.minecraft.server.dedicated.DedicatedServer@1b5fcd63)
+[22:15:34] [Server thread/INFO] [FML]: Loading dimension -56 (world) (net.minecraft.server.dedicated.DedicatedServer@1b5fcd63)
+[22:15:34] [Server thread/INFO] [FML]: Loading dimension -57 (world) (net.minecraft.server.dedicated.DedicatedServer@1b5fcd63)
+[22:15:34] [Server thread/INFO] [FML]: Loading dimension -58 (world) (net.minecraft.server.dedicated.DedicatedServer@1b5fcd63)
+[22:15:34] [Server thread/INFO] [FML]: Loading dimension -59 (world) (net.minecraft.server.dedicated.DedicatedServer@1b5fcd63)
+[22:15:34] [Server thread/INFO] [FML]: Loading dimension -60 (world) (net.minecraft.server.dedicated.DedicatedServer@1b5fcd63)
+[22:15:34] [Server thread/INFO] [FML]: Loading dimension 2 (world) (net.minecraft.server.dedicated.DedicatedServer@1b5fcd63)
+[22:15:34] [Server thread/INFO] [FML]: Loading dimension 7 (world) (net.minecraft.server.dedicated.DedicatedServer@1b5fcd63)
+[22:15:34] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[22:15:34] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[22:15:34] [Server thread/INFO] [coroutil]: CoroUtil detected Infernal Mobs Not Installed for use
+[22:15:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (2.468s)! For help, type "help" or "?"
+[22:15:35] [Server thread/INFO] [coroutil]: CoroUtil being reinitialized
+[22:15:35] [Server thread/INFO] [FML]: Unloading dimension -1
+[22:15:35] [Server thread/INFO] [FML]: Unloading dimension 1
+[22:15:35] [Server thread/INFO] [FML]: Unloading dimension 4
+[22:15:36] [Server thread/INFO] [FML]: Unloading dimension -50
+[22:15:36] [Server thread/INFO] [FML]: Unloading dimension -51
+[22:15:36] [Server thread/INFO] [FML]: Unloading dimension -52
+[22:15:36] [Server thread/INFO] [FML]: Unloading dimension -53
+[22:15:36] [Server thread/INFO] [FML]: Unloading dimension -54
+[22:15:36] [Server thread/INFO] [FML]: Unloading dimension -55
+[22:15:36] [Server thread/INFO] [FML]: Unloading dimension -56
+[22:15:36] [Server thread/INFO] [FML]: Unloading dimension -57
+[22:15:36] [Server thread/INFO] [FML]: Unloading dimension -58
+[22:15:36] [Server thread/INFO] [FML]: Unloading dimension -59
+[22:15:36] [Server thread/INFO] [FML]: Unloading dimension -60
+[22:15:36] [Server thread/INFO] [FML]: Unloading dimension 2
+[22:15:36] [Server thread/INFO] [FML]: Unloading dimension 7
+[22:15:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[22:15:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] aa
+[22:16:05] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[22:16:05] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 68 mods : extendedrenderer@v1.0,mixinbooter@10.4,trashslot@8.4.10,cgm@0.15.3,hats@7.1.1,wi-zoom@1.0,bountifulbaubles@0.0.1,configmod@v1.0,mmorpg@1.9.6,jei@4.16.1.1013,mekanism@1.12.2-9.8.3.390,bettercaves@1.12.2,forgeendertech@1.12.2-4.5.6.1,mcp@9.42,clumps@3.1.2,controlling@3.0.10,ctm@MC1.12.2-1.0.2.31,xaeroworldmap@1.39.2,artifacts@1.12.2-1.2.4,sereneseasons@1.2.18,zombieawareness@1.12.1-1.11.16,adhooks@1.12.2-3.3.1.0,uteamcore@2.2.5.339,morpheus@1.12.2-3.5.106,mahoutsukai@1.12.2-v1.19.55,resourcify@1.6.1,hordes@1.5.3a,normalasm@5.24,mekanismgenerators@1.12.2-9.8.3.390,ichunutil@7.2.2,hbm@NTM-Extended-1.12.2-2.0.2,skinlayers3d@1.2.0,forge@14.23.5.2859,xaeroworldmap_core@1.12.2-1.0,twilightforest@3.11.1021,corpse@1.12.2-1.0.8,simpledivegear@1.1.1,minecraft@1.12.2,usefulbackpacks@1.5.4.85,mousetweaks@2.10.1,baubles@1.5.2,adlods@1.12.2-1.0.8.0,vehicle@0.44.1,vintagefix@0.5.1,fermiumbooter@1.1.1,villagespawnpoint@1.8,roguelike@2.4.6,patchouli@1.0-23.6,xaerominimap@25.0.0,collective@3.0,camera@1.0.10,entityculling@@VER@,offlineskins@1.12.2-v6,FML@8.0.99.99,obfuscate@0.4.2,farsight@1.6,atlaslib@1.1.6,coroutil@1.12.1-1.2.37,mekanismtools@1.12.2-9.8.3.390,appleskin@1.0.14,xaerominimap_core@1.12.2-1.0,backtools@7.0.1,aether_legacy@1.5.3.2,cavern@2.3.1,followme@1.1.5a,cosmeticarmorreworked@1.12.2-v5a,movillages@1.5.4,responsiveshields@2.3
+[22:16:07] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:16:07] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Chrisus[/127.179.226.202:60695] logged in with entity id 204 at (-235.5, 64.0, -133.5)
+[22:16:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus joined the game
+[22:16:07] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player Chrisus
+[22:16:07] [Server thread/INFO] [Mekanism]: Sent config to 'Chrisus.'
+[22:18:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] IShowSpeed
+[22:19:45] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[22:19:45] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[22:19:45] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[22:19:45] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[22:19:45] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[22:19:45] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[22:20:15] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-27, 2] in dimension 0 (overworld) while populating chunk [-27, 3], causing cascading worldgen lag.
+[22:20:15] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:20:36] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-28, -13] in dimension 0 (overworld) while populating chunk [-28, -12], causing cascading worldgen lag.
+[22:20:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:20:36] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-29, -13] in dimension 0 (overworld) while populating chunk [-28, -12], causing cascading worldgen lag.
+[22:20:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:20:36] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-28, -15] in dimension 0 (overworld) while populating chunk [-28, -14], causing cascading worldgen lag.
+[22:20:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:20:36] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-28, -16] in dimension 0 (overworld) while populating chunk [-28, -15], causing cascading worldgen lag.
+[22:20:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:20:39] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-30, -6] in dimension 0 (overworld) while populating chunk [-29, -5], causing cascading worldgen lag.
+[22:20:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:20:39] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-29, 1] in dimension 0 (overworld) while populating chunk [-29, 0], causing cascading worldgen lag.
+[22:20:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:22:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus fell from a high place
+[22:22:00] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class de.maxhenkel.corpse.entities.EntityCorpse from class de.maxhenkel.corpse.entities.EntityCorpseInventoryBase
+[22:22:23] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Chrisus lost connection: Disconnected
+[22:22:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus left the game
+[22:26:34] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[22:26:34] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 68 mods : extendedrenderer@v1.0,mixinbooter@10.4,trashslot@8.4.10,cgm@0.15.3,hats@7.1.1,wi-zoom@1.0,bountifulbaubles@0.0.1,configmod@v1.0,mmorpg@1.9.6,jei@4.16.1.1013,mekanism@1.12.2-9.8.3.390,bettercaves@1.12.2,forgeendertech@1.12.2-4.5.6.1,mcp@9.42,clumps@3.1.2,controlling@3.0.10,ctm@MC1.12.2-1.0.2.31,xaeroworldmap@1.39.2,artifacts@1.12.2-1.2.4,sereneseasons@1.2.18,zombieawareness@1.12.1-1.11.16,adhooks@1.12.2-3.3.1.0,uteamcore@2.2.5.339,morpheus@1.12.2-3.5.106,mahoutsukai@1.12.2-v1.19.55,resourcify@1.6.1,hordes@1.5.3a,normalasm@5.24,mekanismgenerators@1.12.2-9.8.3.390,ichunutil@7.2.2,hbm@NTM-Extended-1.12.2-2.0.2,skinlayers3d@1.2.0,forge@14.23.5.2859,xaeroworldmap_core@1.12.2-1.0,twilightforest@3.11.1021,corpse@1.12.2-1.0.8,simpledivegear@1.1.1,minecraft@1.12.2,usefulbackpacks@1.5.4.85,mousetweaks@2.10.1,baubles@1.5.2,adlods@1.12.2-1.0.8.0,vehicle@0.44.1,vintagefix@0.5.1,fermiumbooter@1.1.1,villagespawnpoint@1.8,roguelike@2.4.6,patchouli@1.0-23.6,xaerominimap@25.0.0,collective@3.0,camera@1.0.10,entityculling@@VER@,offlineskins@1.12.2-v6,FML@8.0.99.99,obfuscate@0.4.2,farsight@1.6,atlaslib@1.1.6,coroutil@1.12.1-1.2.37,mekanismtools@1.12.2-9.8.3.390,appleskin@1.0.14,xaerominimap_core@1.12.2-1.0,backtools@7.0.1,aether_legacy@1.5.3.2,cavern@2.3.1,followme@1.1.5a,cosmeticarmorreworked@1.12.2-v5a,movillages@1.5.4,responsiveshields@2.3
+[22:26:36] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:26:36] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Chrisus[/127.179.226.202:57325] logged in with entity id 9676 at (-280.5770807982267, 75.0, -96.07201417938414)
+[22:26:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus joined the game
+[22:26:36] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player Chrisus
+[22:26:36] [Server thread/INFO] [Mekanism]: Sent config to 'Chrisus.'
+[22:26:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] aa
+[22:26:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Usage: /time <set|add|query> <value>
+[22:27:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set the time to 1000
+[22:29:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Set game difficulty to Hard
+[22:30:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus fell from a high place
+[22:30:53] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-31, -11] in dimension 0 (overworld) while populating chunk [-30, -11], causing cascading worldgen lag.
+[22:30:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:53] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX -30 and chunkZ 0...
+[22:30:54] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id builtin:mountain at {"x": -630, "y": 0, "z": -128}...
+[22:30:54] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-40, -9] in dimension 0 (overworld) while populating chunk [-30, 0], causing cascading worldgen lag.
+[22:30:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:54] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-40, -10] in dimension 0 (overworld) while populating chunk [-30, 0], causing cascading worldgen lag.
+[22:30:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:54] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-41, -10] in dimension 0 (overworld) while populating chunk [-40, -10], causing cascading worldgen lag.
+[22:30:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:54] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-42, -10] in dimension 0 (overworld) while populating chunk [-41, -10], causing cascading worldgen lag.
+[22:30:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:54] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-42, -11] in dimension 0 (overworld) while populating chunk [-42, -10], causing cascading worldgen lag.
+[22:30:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:54] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-43, -11] in dimension 0 (overworld) while populating chunk [-42, -11], causing cascading worldgen lag.
+[22:30:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:54] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-43, -12] in dimension 0 (overworld) while populating chunk [-42, -11], causing cascading worldgen lag.
+[22:30:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:54] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-44, -12] in dimension 0 (overworld) while populating chunk [-43, -12], causing cascading worldgen lag.
+[22:30:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:54] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-44, -13] in dimension 0 (overworld) while populating chunk [-43, -12], causing cascading worldgen lag.
+[22:30:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:54] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-45, -13] in dimension 0 (overworld) while populating chunk [-44, -13], causing cascading worldgen lag.
+[22:30:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:54] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-43, -10] in dimension 0 (overworld) while populating chunk [-42, -10], causing cascading worldgen lag.
+[22:30:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:54] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-44, -11] in dimension 0 (overworld) while populating chunk [-43, -10], causing cascading worldgen lag.
+[22:30:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:54] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-45, -12] in dimension 0 (overworld) while populating chunk [-44, -11], causing cascading worldgen lag.
+[22:30:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:54] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-41, -11] in dimension 0 (overworld) while populating chunk [-40, -10], causing cascading worldgen lag.
+[22:30:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:54] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-42, -12] in dimension 0 (overworld) while populating chunk [-41, -11], causing cascading worldgen lag.
+[22:30:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:54] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-43, -13] in dimension 0 (overworld) while populating chunk [-42, -12], causing cascading worldgen lag.
+[22:30:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:54] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-41, -12] in dimension 0 (overworld) while populating chunk [-30, 0], causing cascading worldgen lag.
+[22:30:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:55] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-42, -13] in dimension 0 (overworld) while populating chunk [-41, -12], causing cascading worldgen lag.
+[22:30:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:55] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-40, -8] in dimension 0 (overworld) while populating chunk [-30, 0], causing cascading worldgen lag.
+[22:30:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:55] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-41, -9] in dimension 0 (overworld) while populating chunk [-40, -8], causing cascading worldgen lag.
+[22:30:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:55] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-41, -8] in dimension 0 (overworld) while populating chunk [-40, -8], causing cascading worldgen lag.
+[22:30:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:55] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-42, -9] in dimension 0 (overworld) while populating chunk [-41, -8], causing cascading worldgen lag.
+[22:30:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:55] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-40, -7] in dimension 0 (overworld) while populating chunk [-30, 0], causing cascading worldgen lag.
+[22:30:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:55] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-39, -9] in dimension 0 (overworld) while populating chunk [-30, 0], causing cascading worldgen lag.
+[22:30:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:55] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-39, -10] in dimension 0 (overworld) while populating chunk [-39, -9], causing cascading worldgen lag.
+[22:30:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:55] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-40, -11] in dimension 0 (overworld) while populating chunk [-39, -10], causing cascading worldgen lag.
+[22:30:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:55] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-39, -11] in dimension 0 (overworld) while populating chunk [-30, 0], causing cascading worldgen lag.
+[22:30:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:55] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-40, -12] in dimension 0 (overworld) while populating chunk [-39, -11], causing cascading worldgen lag.
+[22:30:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:55] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-41, -13] in dimension 0 (overworld) while populating chunk [-40, -12], causing cascading worldgen lag.
+[22:30:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:55] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-40, -6] in dimension 0 (overworld) while populating chunk [-30, 0], causing cascading worldgen lag.
+[22:30:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:55] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-41, -7] in dimension 0 (overworld) while populating chunk [-40, -6], causing cascading worldgen lag.
+[22:30:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:55] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-42, -8] in dimension 0 (overworld) while populating chunk [-41, -7], causing cascading worldgen lag.
+[22:30:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:55] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-43, -9] in dimension 0 (overworld) while populating chunk [-42, -8], causing cascading worldgen lag.
+[22:30:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:55] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-44, -10] in dimension 0 (overworld) while populating chunk [-43, -9], causing cascading worldgen lag.
+[22:30:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:55] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-45, -11] in dimension 0 (overworld) while populating chunk [-44, -10], causing cascading worldgen lag.
+[22:30:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:55] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-46, -12] in dimension 0 (overworld) while populating chunk [-45, -11], causing cascading worldgen lag.
+[22:30:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:55] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-46, -13] in dimension 0 (overworld) while populating chunk [-46, -12], causing cascading worldgen lag.
+[22:30:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:55] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-39, -5] in dimension 0 (overworld) while populating chunk [-30, 0], causing cascading worldgen lag.
+[22:30:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:55] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-39, -8] in dimension 0 (overworld) while populating chunk [-30, 0], causing cascading worldgen lag.
+[22:30:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:55] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-39, -6] in dimension 0 (overworld) while populating chunk [-30, 0], causing cascading worldgen lag.
+[22:30:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:55] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-39, -7] in dimension 0 (overworld) while populating chunk [-30, 0], causing cascading worldgen lag.
+[22:30:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:55] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-38, -7] in dimension 0 (overworld) while populating chunk [-30, 0], causing cascading worldgen lag.
+[22:30:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:55] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-37, -7] in dimension 0 (overworld) while populating chunk [-30, 0], causing cascading worldgen lag.
+[22:30:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:55] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-38, -8] in dimension 0 (overworld) while populating chunk [-37, -7], causing cascading worldgen lag.
+[22:30:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:55] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-38, -9] in dimension 0 (overworld) while populating chunk [-30, 0], causing cascading worldgen lag.
+[22:30:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:55] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-38, -10] in dimension 0 (overworld) while populating chunk [-30, 0], causing cascading worldgen lag.
+[22:30:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:55] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-37, -8] in dimension 0 (overworld) while populating chunk [-30, 0], causing cascading worldgen lag.
+[22:30:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:55] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-41, -6] in dimension 0 (overworld) while populating chunk [-30, 0], causing cascading worldgen lag.
+[22:30:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:55] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-42, -7] in dimension 0 (overworld) while populating chunk [-41, -6], causing cascading worldgen lag.
+[22:30:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:55] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-43, -8] in dimension 0 (overworld) while populating chunk [-42, -7], causing cascading worldgen lag.
+[22:30:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:55] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-44, -9] in dimension 0 (overworld) while populating chunk [-43, -8], causing cascading worldgen lag.
+[22:30:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:55] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-45, -10] in dimension 0 (overworld) while populating chunk [-44, -9], causing cascading worldgen lag.
+[22:30:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:55] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-46, -11] in dimension 0 (overworld) while populating chunk [-45, -10], causing cascading worldgen lag.
+[22:30:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:56] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-47, -12] in dimension 0 (overworld) while populating chunk [-46, -11], causing cascading worldgen lag.
+[22:30:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:56] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-42, -6] in dimension 0 (overworld) while populating chunk [-42, -7], causing cascading worldgen lag.
+[22:30:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:56] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-43, -7] in dimension 0 (overworld) while populating chunk [-42, -6], causing cascading worldgen lag.
+[22:30:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:56] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-44, -8] in dimension 0 (overworld) while populating chunk [-43, -7], causing cascading worldgen lag.
+[22:30:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:56] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-45, -9] in dimension 0 (overworld) while populating chunk [-44, -8], causing cascading worldgen lag.
+[22:30:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:56] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-46, -10] in dimension 0 (overworld) while populating chunk [-45, -9], causing cascading worldgen lag.
+[22:30:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:56] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-47, -11] in dimension 0 (overworld) while populating chunk [-46, -10], causing cascading worldgen lag.
+[22:30:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:56] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-40, -5] in dimension 0 (overworld) while populating chunk [-30, 0], causing cascading worldgen lag.
+[22:30:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:56] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-38, -6] in dimension 0 (overworld) while populating chunk [-30, 0], causing cascading worldgen lag.
+[22:30:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:56] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-41, -5] in dimension 0 (overworld) while populating chunk [-30, 0], causing cascading worldgen lag.
+[22:30:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:56] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-37, -9] in dimension 0 (overworld) while populating chunk [-30, 0], causing cascading worldgen lag.
+[22:30:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:56] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-37, -10] in dimension 0 (overworld) while populating chunk [-30, 0], causing cascading worldgen lag.
+[22:30:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:56] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-38, -11] in dimension 0 (overworld) while populating chunk [-37, -10], causing cascading worldgen lag.
+[22:30:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:56] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-39, -12] in dimension 0 (overworld) while populating chunk [-38, -11], causing cascading worldgen lag.
+[22:30:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:56] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-40, -13] in dimension 0 (overworld) while populating chunk [-39, -12], causing cascading worldgen lag.
+[22:30:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:56] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-38, -12] in dimension 0 (overworld) while populating chunk [-38, -11], causing cascading worldgen lag.
+[22:30:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:56] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-39, -13] in dimension 0 (overworld) while populating chunk [-38, -12], causing cascading worldgen lag.
+[22:30:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:56] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-36, -8] in dimension 0 (overworld) while populating chunk [-30, 0], causing cascading worldgen lag.
+[22:30:56] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:57] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-36, -7] in dimension 0 (overworld) while populating chunk [-30, 0], causing cascading worldgen lag.
+[22:30:57] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:57] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-37, -6] in dimension 0 (overworld) while populating chunk [-30, 0], causing cascading worldgen lag.
+[22:30:57] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:58] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-38, -5] in dimension 0 (overworld) while populating chunk [-30, 0], causing cascading worldgen lag.
+[22:30:58] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:30:58] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id builtin:mountain at {"x": -630, "y": 0, "z": -128}.
+[22:30:58] [Server thread/INFO] [roguelike]: Task Dungeon.generate() completed in 3776 milliseconds.
+[22:30:58] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chrisus moved too quickly! 7.696811984070848,-3.1661092609382138,5.768503330533605
+[22:30:58] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4658ms behind, skipping 93 tick(s)
+[22:31:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus has made the advancement [Monster Hunter]
+[22:31:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus has made the advancement [Stone Age]
+[22:32:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus was shot by Skeleton
+[22:32:42] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Chrisus lost connection: Disconnected
+[22:32:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus left the game
+[22:34:44] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[22:34:44] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 68 mods : extendedrenderer@v1.0,mixinbooter@10.4,trashslot@8.4.10,cgm@0.15.3,hats@7.1.1,wi-zoom@1.0,bountifulbaubles@0.0.1,configmod@v1.0,mmorpg@1.9.6,jei@4.16.1.1013,mekanism@1.12.2-9.8.3.390,bettercaves@1.12.2,forgeendertech@1.12.2-4.5.6.1,mcp@9.42,clumps@3.1.2,controlling@3.0.10,ctm@MC1.12.2-1.0.2.31,xaeroworldmap@1.39.2,artifacts@1.12.2-1.2.4,sereneseasons@1.2.18,zombieawareness@1.12.1-1.11.16,adhooks@1.12.2-3.3.1.0,uteamcore@2.2.5.339,morpheus@1.12.2-3.5.106,mahoutsukai@1.12.2-v1.19.55,resourcify@1.6.1,hordes@1.5.3a,normalasm@5.24,mekanismgenerators@1.12.2-9.8.3.390,ichunutil@7.2.2,hbm@NTM-Extended-1.12.2-2.0.2,skinlayers3d@1.2.0,forge@14.23.5.2859,xaeroworldmap_core@1.12.2-1.0,twilightforest@3.11.1021,corpse@1.12.2-1.0.8,simpledivegear@1.1.1,minecraft@1.12.2,usefulbackpacks@1.5.4.85,mousetweaks@2.10.1,baubles@1.5.2,adlods@1.12.2-1.0.8.0,vehicle@0.44.1,vintagefix@0.5.1,fermiumbooter@1.1.1,villagespawnpoint@1.8,roguelike@2.4.6,patchouli@1.0-23.6,xaerominimap@25.0.0,collective@3.0,camera@1.0.10,entityculling@@VER@,offlineskins@1.12.2-v6,FML@8.0.99.99,obfuscate@0.4.2,farsight@1.6,atlaslib@1.1.6,coroutil@1.12.1-1.2.37,mekanismtools@1.12.2-9.8.3.390,appleskin@1.0.14,xaerominimap_core@1.12.2-1.0,backtools@7.0.1,aether_legacy@1.5.3.2,cavern@2.3.1,followme@1.1.5a,cosmeticarmorreworked@1.12.2-v5a,movillages@1.5.4,responsiveshields@2.3
+[22:34:46] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:34:46] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Chrisus[/127.179.226.202:59871] logged in with entity id 16858 at (-237.5, 65.0, -133.5)
+[22:34:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus joined the game
+[22:34:46] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player Chrisus
+[22:34:46] [Server thread/INFO] [Mekanism]: Sent config to 'Chrisus.'
+[22:35:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus was shot by Skeleton

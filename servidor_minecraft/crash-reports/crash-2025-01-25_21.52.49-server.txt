@@ -1,0 +1,197 @@
+---- Minecraft Crash Report ----
+// Crash report modified by FermiumASM.
+// FermiumASM deobfuscated this stacktrace using MCP's stable-39 mappings.
+// I just don't know what went wrong :(
+
+Time: 2025-01-25 21:52:49 UTC
+Description: Exception in server tick loop
+
+java.lang.NoClassDefFoundError: net/minecraft/client/gui/GuiButton
+    at java.lang.Class.getDeclaredMethods0(Native Method)
+    at java.lang.Class.privateGetDeclaredMethods(Class.java:2701)
+    at java.lang.Class.getDeclaredMethods(Class.java:1975)
+    at net.minecraftforge.fml.common.FMLModContainer.gatherAnnotations(FMLModContainer.java:400)
+    at net.minecraftforge.fml.common.FMLModContainer.constructMod(FMLModContainer.java:595)
+    at sun.reflect.GeneratedMethodAccessor11.invoke(Unknown Source)
+    at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+    at java.lang.reflect.Method.invoke(Method.java:498)
+    at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+    at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+    at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+    at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+    at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+    at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+    at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+    at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:219)
+    at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:197)
+    at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+    at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+    at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+    at java.lang.reflect.Method.invoke(Method.java:498)
+    at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+    at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+    at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+    at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+    at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+    at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+    at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+    at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:136)
+    at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:595)
+    at net.minecraftforge.fml.server.FMLServerHandler.beginServerLoading(FMLServerHandler.java:98)
+    at net.minecraftforge.fml.common.FMLCommonHandler.onServerStart(FMLCommonHandler.java:333)
+    at net.minecraft.server.dedicated.DedicatedServer.init(DedicatedServer.java:125)
+    at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:1802)
+    at java.lang.Thread.run(Thread.java:750)
+Caused by: java.lang.ClassNotFoundException: net.minecraft.client.gui.GuiButton
+    at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191)
+    at java.lang.ClassLoader.loadClass(ClassLoader.java:418)
+    at java.lang.ClassLoader.loadClass(ClassLoader.java:351)
+    ... 35 more
+Caused by: net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerException: Exception in class transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer@7c9bdee9 from coremod FMLCorePlugin
+    at net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerWrapper.transform(ASMTransformerWrapper.java:260)
+    at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279)
+    at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176)
+    ... 37 more
+Caused by: java.lang.RuntimeException: Attempted to load class bja for invalid side SERVER
+    at net.minecraftforge.fml.common.asm.transformers.SideTransformer.transform(SideTransformer.java:62)
+    at net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerWrapper.transform(ASMTransformerWrapper.java:256)
+    ... 39 more
+
+No Mixin Metadata is found in the Stacktrace.
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+  Minecraft Version: 1.12.2
+  Operating System: Linux (amd64) version 6.5.0-1025-azure
+  Java Version: 1.8.0_432, Private Build
+  Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Private Build
+  Memory: 2126825960 bytes (2028 MB) / 2576875520 bytes (2457 MB) up to 11453595648 bytes (10923 MB)
+  JVM Flags: 2 total; -Xms2G -Xmx12G
+  IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+  FML: MCP 9.42 FermiumASM 5.24 VintageFix 0.5.1 Powered by Forge 14.23.5.2860 64 mods loaded, 64 mods active
+       States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+       
+       | State | ID                    | Version                   | Source                                        | Signature                                |
+       |:----- |:--------------------- |:------------------------- |:--------------------------------------------- |:---------------------------------------- |
+       | LC    | minecraft             | 1.12.2                    | minecraft.jar                                 | None                                     |
+       | LC    | mcp                   | 9.42                      | minecraft.jar                                 | None                                     |
+       | LC    | FML                   | 8.0.99.99                 | forge-1.12.2-14.23.5.2860.jar                 | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+       | LC    | forge                 | 14.23.5.2860              | forge-1.12.2-14.23.5.2860.jar                 | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+       | LC    | creativecoredummy     | 1.0.0                     | minecraft.jar                                 | None                                     |
+       | LC    | xaerominimap_core     | 1.12.2-1.0                | minecraft.jar                                 | None                                     |
+       | LC    | xaeroworldmap_core    | 1.12.2-1.0                | minecraft.jar                                 | None                                     |
+       | LC    | mixinbooter           | 10.4                      | minecraft.jar                                 | None                                     |
+       | LC    | obfuscate             | 0.4.2                     | minecraft.jar                                 | None                                     |
+       | LC    | movillages            | 1.5.4                     | [1.12]MoVillages-1.5.4.jar                    | None                                     |
+       | LC    | fermiumbooter         | 1.1.1                     | `FermiumBooter-1.1.1.jar                      | None                                     |
+       | LC    | forgeendertech        | 1.12.2-4.5.6.1            | ForgeEndertech-1.12.2-4.5.6.1-build.0648.jar  | None                                     |
+       | LC    | adhooks               | 1.12.2-3.3.1.0            | AdHooks-1.12.2-3.3.1.0-build.0626.jar         | None                                     |
+       | LC    | adlods                | 1.12.2-1.0.8.0            | AdLods-1.12.2-1.0.8.0-build.0504.jar          | None                                     |
+       | LC    | aether_legacy         | 1.5.3.2                   | aether-1.12.2-v1.5.4.0.jar                    | None                                     |
+       | LC    | atlaslib              | 1.1.6                     | Atlas-Lib-1.12.2-1.1.6.jar                    | None                                     |
+       | LC    | baubles               | 1.5.2                     | Baubles-1.12-1.5.2.jar                        | None                                     |
+       | LC    | hordes                | 1.5.3a                    | The-Hordes-1.12.2-1.5.3a.jar                  | None                                     |
+       | LC    | jei                   | 4.16.1.1013               | jei_1.12.2-4.16.1.1013.jar                    | None                                     |
+       | LC    | appleskin             | 1.0.14                    | AppleSkin-mc1.12-1.0.14.jar                   | None                                     |
+       | LC    | artifacts             | 1.12.2-1.2.4              | artifacts-1.12.2-1.2.4.jar                    | None                                     |
+       | LC    | bettercaves           | 1.12.2                    | bettercaves-1.12.2-2.0.4.jar                  | None                                     |
+       | LC    | bountifulbaubles      | 0.0.1                     | Bountiful Baubles-1.12.2-0.1.8.jar            | None                                     |
+       | LC    | camera                | 1.0.10                    | camera-1.0.11.jar                             | None                                     |
+       | LC    | carryon               | 1.12.3                    | carryon-1.12.2-1.12.7.23.jar                  | None                                     |
+       | LC    | cavern                | 2.3.1                     | Cavern_1.12.2-v2.3.1.jar                      | None                                     |
+       | LC    | clumps                | 3.1.2                     | Clumps-3.1.2.jar                              | None                                     |
+       | LC    | collective            | 3.0                       | collective-1.12.2-3.0.jar                     | None                                     |
+       | LC    | extendedrenderer      | v1.0                      | coroutil-1.12.1-1.2.37.jar                    | None                                     |
+       | LC    | coroutil              | 1.12.1-1.2.37             | coroutil-1.12.1-1.2.37.jar                    | None                                     |
+       | LC    | configmod             | v1.0                      | coroutil-1.12.1-1.2.37.jar                    | None                                     |
+       | LC    | corpse                | 1.12.2-1.0.8              | corpse-1.12.2-1.0.8.jar                       | None                                     |
+       | LC    | cosmeticarmorreworked | 1.12.2-v5a                | CosmeticArmorReworked-1.12.2-v5a.jar          | aaaf83332a11df02406e9f266b1b65c1306f0f76 |
+       | LC    | creativecore          | 1.10.0                    | CreativeCore_v1.10.71_mc1.12.2.jar            | None                                     |
+       | L     | customcursormod       | 1.2.2                     | CustomCursorMod-1.2.2.jar                     | None                                     |
+       | L     | farsight              | 1.6                       | farsight-1.6.jar                              | None                                     |
+       | L     | normalasm             | 5.24                      | fermiumasm-5.24.jar                           | None                                     |
+       | L     | followme              | 1.1.5a                    | Follow-Me-1.12.2-1.1.5a.jar                   | None                                     |
+       | L     | cgm                   | 0.15.3                    | guns-0.15.3-1.12.2.jar                        | None                                     |
+       | L     | ichunutil             | 7.2.2                     | iChunUtil-1.12.2-7.2.2.jar                    | None                                     |
+       | L     | hats                  | 7.1.1                     | Hats-1.12.2-7.1.1.jar                         | None                                     |
+       | L     | mahoutsukai           | 1.12.2-v1.19.55           | mahoutsukai-1.12.2-v1.19.56.jar               | None                                     |
+       | L     | mekanism              | 1.12.2-9.8.3.390          | Mekanism-1.12.2-9.8.3.390.jar                 | None                                     |
+       | L     | mekanismgenerators    | 1.12.2-9.8.3.390          | MekanismGenerators-1.12.2-9.8.3.390.jar       | None                                     |
+       | L     | mekanismtools         | 1.12.2-9.8.3.390          | MekanismTools-1.12.2-9.8.3.390.jar            | None                                     |
+       | L     | morpheus              | 1.12.2-3.5.106            | Morpheus-1.12.2-3.5.106.jar                   | None                                     |
+       | L     | hbm                   | NTM-Extended-1.12.2-2.0.2 | NTM-Extended-1.12.2-2.0.2.jar                 | None                                     |
+       | L     | opframe               | 1.4.0                     | OnlinePicFrame_v1.5.0-pre1_mc1.12.2.jar       | None                                     |
+       | L     | patchouli             | 1.0-23.6                  | Patchouli-1.0-23.6.jar                        | None                                     |
+       | L     | responsiveshields     | 2.3                       | responsiveshields-2.3-mc1.12.x.jar            | None                                     |
+       | L     | roguelike             | 2.4.6                     | RoguelikeDungeonsFnarEdition-1.12.2-2.4.6.jar | None                                     |
+       | L     | sereneseasons         | 1.2.18                    | SereneSeasons-1.12.2-1.2.18-universal.jar     | None                                     |
+       | L     | simpledivegear        | 1.1.1                     | SimpleDivingGear-1.1.1 mc 1.12.2.jar          | None                                     |
+       | L     | trashslot             | 8.4.10                    | TrashSlot_1.12.2-8.4.10.jar                   | None                                     |
+       | L     | twilightforest        | 3.11.1021                 | twilightforest-1.12.2-3.11.1021-universal.jar | None                                     |
+       | L     | uteamcore             | 2.2.5.339                 | u_team_core-forge-1.12.2-2.2.5.339.jar        | None                                     |
+       | L     | usefulbackpacks       | 1.5.4.85                  | useful_backpacks-1.12.2-1.5.4.85.jar          | None                                     |
+       | L     | vehicle               | 0.44.1                    | vehicle-mod-0.44.1-1.12.2.jar                 | None                                     |
+       | L     | villagespawnpoint     | 1.8                       | villagespawnpoint_1.12.2-1.8.jar              | None                                     |
+       | L     | vintagefix            | 0.5.1                     | vintagefix-0.5.1.jar                          | None                                     |
+       | L     | wi-zoom               | 1.0                       | WI-Zoom-1.1-MC1.12.2-Forge.jar                | None                                     |
+       | L     | xaerominimap          | 25.0.0                    | Xaeros_Minimap_25.0.0_Forge_1.12.jar          | None                                     |
+       | L     | xaeroworldmap         | 1.39.2                    | XaerosWorldMap_1.39.2_Forge_1.12.jar          | None                                     |
+       | L     | zombieawareness       | 1.12.1-1.11.16            | zombieawareness-1.12.1-1.11.16.jar            | None                                     |
+  Loaded coremods (and transformers): XaeroMinimapPlugin (Xaeros_Minimap_25.0.0_Forge_1.12.jar)
+                                        xaero.common.core.transformer.ChunkTransformer
+                                        xaero.common.core.transformer.NetHandlerPlayClientTransformer
+                                        xaero.common.core.transformer.EntityPlayerTransformer
+                                        xaero.common.core.transformer.AbstractClientPlayerTransformer
+                                        xaero.common.core.transformer.WorldClientTransformer
+                                        xaero.common.core.transformer.EntityPlayerMPTransformer
+                                        xaero.common.core.transformer.EntityPlayerSPTransformer
+                                        xaero.common.core.transformer.PlayerListTransformer
+                                        xaero.common.core.transformer.SaveFormatTransformer
+                                        xaero.common.core.transformer.GuiIngameForgeTransformer
+                                        xaero.common.core.transformer.MinecraftServerTransformer
+                                        xaero.common.core.transformer.GuiBossOverlayTransformer
+                                        xaero.common.core.transformer.ModelRendererTransformer
+                                      MixinBooter (!mixinbooter-10.4.jar)
+                                        
+                                      SSLoadingPlugin (SereneSeasons-1.12.2-1.2.18-universal.jar)
+                                        sereneseasons.asm.transformer.EntityRendererTransformer
+                                        sereneseasons.asm.transformer.WorldTransformer
+                                      FermiumBooter (`FermiumBooter-1.1.1.jar)
+                                        
+                                      WiZoomCoreMod (WI-Zoom-1.1-MC1.12.2-Forge.jar)
+                                        
+                                      FermiumASM (fermiumasm-5.24.jar)
+                                        
+                                      MekanismCoremod (Mekanism-1.12.2-9.8.3.390.jar)
+                                        mekanism.coremod.KeybindingMigrationHelper
+                                      ObfuscatePlugin (obfuscate-0.4.2-1.12.2.jar)
+                                        com.mrcrayfish.obfuscate.asm.ObfuscateTransformer
+                                      CTMCorePlugin (CTM-MC1.12.2-1.0.2.31.jar)
+                                        team.chisel.ctm.client.asm.CTMTransformer
+                                      EntityCullingEarlyLoader (entityculling-1.12.2-1.6.3.jar)
+                                        
+                                      CreativePatchingLoader (CreativeCore_v1.10.71_mc1.12.2.jar)
+                                        
+                                      VintageFix (vintagefix-0.5.1.jar)
+                                        org.embeddedt.vintagefix.transformer.ASMModParserTransformer
+                                      CorePlugin (ForgeEndertech-1.12.2-4.5.6.1-build.0648.jar)
+                                        
+                                      XaeroWorldMapPlugin (XaerosWorldMap_1.39.2_Forge_1.12.jar)
+                                        xaero.map.core.transformer.ChunkTransformer
+                                        xaero.map.core.transformer.NetHandlerPlayClientTransformer
+                                        xaero.map.core.transformer.EntityPlayerTransformer
+                                        xaero.map.core.transformer.AbstractClientPlayerTransformer
+                                        xaero.map.core.transformer.WorldClientTransformer
+                                        xaero.map.core.transformer.EntityPlayerMPTransformer
+                                        xaero.map.core.transformer.PlayerListTransformer
+                                        xaero.map.core.transformer.SaveFormatTransformer
+                                        xaero.map.core.transformer.BiomeColorHelperTransformer
+                                        xaero.map.core.transformer.MinecraftServerTransformer
+                                        xaero.map.core.transformer.MinecraftTransformer
+  Suspected Mods: Forge Mod Loader (FML), Minecraft Forge (forge)
+  Profiler Position: N/A (disabled)
+  Is Modded: Definitely; Server brand changed to 'fml,forge'
+  Type: Dedicated Server (map_server.txt)
