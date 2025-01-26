@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "aether_legacy:recipes/misc/saddle": {
+    "criteria": {
+      "has_leather": "2025-01-26 00:00:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-25 22:27:26 +0000"
@@ -14,6 +20,12 @@
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-01-25 22:59:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-01-26 00:00:36 +0000"
     },
     "done": true
   },
@@ -77,11 +89,19 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-01-26 00:00:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2025-01-25 22:16:07 +0000",
+      "plains": "2025-01-25 23:52:23 +0000",
       "ocean": "2025-01-25 22:37:59 +0000",
       "extreme_hills": "2025-01-25 22:19:42 +0000",
+      "river": "2025-01-25 23:54:30 +0000",
       "stone_beach": "2025-01-25 22:35:18 +0000"
     },
     "done": false
@@ -116,9 +136,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stonebrick": "2025-01-26 00:01:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "entered_water": "2025-01-25 22:31:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-01-26 00:00:31 +0000"
     },
     "done": true
   },
@@ -143,6 +175,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2025-01-25 22:31:43 +0000"
+    },
+    "done": true
+  },
+  "hbm:progress_difurnace": {
+    "criteria": {
+      "crafting_table": "2025-01-26 00:02:26 +0000"
     },
     "done": true
   },
@@ -206,6 +244,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-01-26 00:00:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2025-01-25 22:31:36 +0000"
@@ -254,6 +298,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-01-26 00:00:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_log": "2025-01-25 22:59:19 +0000"
@@ -284,6 +334,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-01-25 23:56:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "skeleton": "2025-01-25 22:35:47 +0000",
@@ -291,6 +347,12 @@
       "spider": "2025-01-25 22:40:41 +0000"
     },
     "done": false
+  },
+  "aether_legacy:recipes/combat/leather_gloves": {
+    "criteria": {
+      "has_leather": "2025-01-26 00:00:36 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/fence": {
     "criteria": {
@@ -300,7 +362,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "beef": "2025-01-25 23:15:04 +0000"
+      "beef": "2025-01-25 23:15:04 +0000",
+      "carrot": "2025-01-25 23:56:24 +0000"
     },
     "done": false
   },
@@ -319,6 +382,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-01-25 22:31:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_block": {
+    "criteria": {
+      "has_iron_block": "2025-01-26 00:05:50 +0000"
     },
     "done": true
   },
@@ -352,6 +421,12 @@
     },
     "done": true
   },
+  "hbm:progress_steel": {
+    "criteria": {
+      "crafting_table": "2025-01-26 00:01:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
       "has_planks": "2025-01-25 22:59:30 +0000"
@@ -376,6 +451,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-01-26 00:05:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-01-25 22:31:43 +0000"
@@ -394,9 +475,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stonebrick": {
+    "criteria": {
+      "has_stonebrick": "2025-01-26 00:01:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-25 22:27:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stonebrick": "2025-01-26 00:01:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-01-26 00:00:36 +0000"
     },
     "done": true
   }
