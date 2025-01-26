@@ -828,6 +828,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_block": {
+    "criteria": {
+      "has_brick": "2025-01-26 02:04:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-25 22:27:26 +0000"
@@ -981,6 +987,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2025-01-26 00:45:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-01-26 02:02:55 +0000"
     },
     "done": true
   },
@@ -1291,6 +1303,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-01-26 02:04:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2025-01-26 01:56:40 +0000"
@@ -1312,6 +1330,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2025-01-26 00:23:09 +0000"
+    },
+    "done": true
+  },
+  "hbm:progress_folder": {
+    "criteria": {
+      "crafting_table": "2025-01-26 02:01:48 +0000"
     },
     "done": true
   },
