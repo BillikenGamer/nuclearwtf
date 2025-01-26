@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-01-26 01:15:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-01-26 00:19:39 +0000"
@@ -197,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-01-26 01:15:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2025-01-26 00:15:40 +0000"
@@ -242,6 +254,12 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-01-26 00:43:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-01-26 01:15:12 +0000"
     },
     "done": true
   },
@@ -439,6 +457,12 @@
     },
     "done": true
   },
+  "cavern:get_diamond": {
+    "criteria": {
+      "diamond": "2025-01-26 01:15:12 +0000"
+    },
+    "done": true
+  },
   "aether_legacy:recipes/combat/iron_gloves": {
     "criteria": {
       "has_iron_ingot": "2025-01-26 00:19:39 +0000"
@@ -571,6 +595,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-01-26 01:15:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-01-25 22:31:43 +0000"
@@ -586,6 +616,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-01-26 00:19:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-01-26 01:11:34 +0000"
     },
     "done": true
   },
@@ -605,6 +641,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-01-26 00:19:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-01-26 01:15:12 +0000"
     },
     "done": true
   },
@@ -788,6 +830,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-01-26 01:15:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-01-26 01:15:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2025-01-26 00:15:40 +0000"
@@ -806,6 +860,12 @@
   "aether_legacy:recipes/tools/iron_pendant": {
     "criteria": {
       "has_iron": "2025-01-26 00:19:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-01-26 01:15:12 +0000"
     },
     "done": true
   },
@@ -845,6 +905,12 @@
     },
     "done": true
   },
+  "aether_legacy:recipes/combat/diamond_gloves": {
+    "criteria": {
+      "has_diamond": "2025-01-26 01:15:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-01-25 22:31:43 +0000"
@@ -857,6 +923,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-01-26 01:15:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-01-26 01:15:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-01-25 23:00:05 +0000"
@@ -866,6 +944,12 @@
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2025-01-26 00:15:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-01-26 01:15:12 +0000"
     },
     "done": true
   },

@@ -775,3 +775,28 @@
 [01:06:21] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-70, -28] in dimension 0 (overworld) while populating chunk [-69, -28], causing cascading worldgen lag.
 [01:06:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [01:07:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Teleported santydork to Chrisus]
+[01:10:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Teleported santydork to Chrisus]
+[01:10:35] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-71, -33] in dimension 0 (overworld) while populating chunk [-71, -32], causing cascading worldgen lag.
+[01:10:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:15:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus has made the advancement [Precious Key]
+[01:15:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus has made the advancement [Diamonds!]
+[01:16:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Teleported santydork to Chrisus]
+[01:17:14] [Server thread/INFO] [bountifulbaubles]: BlockPos{x=-867, y=13, z=-603}
+[01:17:14] [Server thread/INFO] [bountifulbaubles]: BlockPos{x=-867, y=13, z=-603}
+[01:17:14] [Server thread/INFO] [bountifulbaubles]: BlockPos{x=-885, y=69, z=-543}
+[01:17:25] [Server thread/INFO] [bountifulbaubles]: BlockPos{x=-865, y=15, z=-600}
+[01:17:25] [Server thread/INFO] [bountifulbaubles]: BlockPos{x=-865, y=15, z=-600}
+[01:17:25] [Server thread/INFO] [bountifulbaubles]: BlockPos{x=-885, y=69, z=-543}
+[01:17:25] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chrisus moved too quickly! -19.990012476385118,54.0,57.45373946315942
+[01:17:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Teleported santydork to Chrisus]
+[01:17:57] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Chrisus lost connection: Disconnected
+[01:17:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus left the game
+[01:18:00] [Netty Epoll Server IO #4/INFO] [FML]: Client protocol version 2
+[01:18:00] [Netty Epoll Server IO #4/INFO] [FML]: Client attempting to join with 67 mods : extendedrenderer@v1.0,mixinbooter@10.4,trashslot@8.4.10,cgm@0.15.3,hats@7.1.1,wi-zoom@1.0,bountifulbaubles@0.0.1,configmod@v1.0,mmorpg@1.9.6,jei@4.16.1.1013,mekanism@1.12.2-9.8.3.390,bettercaves@1.12.2,forgeendertech@1.12.2-4.5.6.1,mcp@9.42,clumps@3.1.2,controlling@3.0.10,ctm@MC1.12.2-1.0.2.31,xaeroworldmap@1.39.2,artifacts@1.12.2-1.2.4,sereneseasons@1.2.18,zombieawareness@1.12.1-1.11.16,adhooks@1.12.2-3.3.1.0,uteamcore@2.2.5.339,morpheus@1.12.2-3.5.106,mahoutsukai@1.12.2-v1.19.55,resourcify@1.6.1,hordes@1.5.3a,normalasm@5.24,mekanismgenerators@1.12.2-9.8.3.390,ichunutil@7.2.2,hbm@NTM-Extended-1.12.2-2.0.2,skinlayers3d@1.2.0,forge@14.23.5.2859,xaeroworldmap_core@1.12.2-1.0,twilightforest@3.11.1021,simpledivegear@1.1.1,minecraft@1.12.2,usefulbackpacks@1.5.4.85,mousetweaks@2.10.1,baubles@1.5.2,adlods@1.12.2-1.0.8.0,vehicle@0.44.1,vintagefix@0.5.1,fermiumbooter@1.1.1,villagespawnpoint@1.8,roguelike@2.4.6,patchouli@1.0-23.6,xaerominimap@25.0.0,collective@3.0,camera@1.0.10,entityculling@@VER@,offlineskins@1.12.2-v6,FML@8.0.99.99,obfuscate@0.4.2,farsight@1.6,atlaslib@1.1.6,coroutil@1.12.1-1.2.37,mekanismtools@1.12.2-9.8.3.390,appleskin@1.0.14,xaerominimap_core@1.12.2-1.0,backtools@7.0.1,aether_legacy@1.5.3.2,cavern@2.3.1,followme@1.1.5a,cosmeticarmorreworked@1.12.2-v5a,movillages@1.5.4,responsiveshields@2.3
+[01:18:01] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:18:01] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Chrisus[/127.179.226.202:56913] logged in with entity id 88380 at (-886.6298896632813, 69.0, -540.4340724454456)
+[01:18:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus joined the game
+[01:18:01] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player Chrisus
+[01:18:01] [Server thread/INFO] [Mekanism]: Sent config to 'Chrisus.'
+[01:18:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus starved to death
+[01:18:36] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
