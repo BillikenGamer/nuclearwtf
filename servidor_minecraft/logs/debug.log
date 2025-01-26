@@ -32707,3 +32707,890 @@ Caused by: java.io.FileNotFoundException: https://raw.githubusercontent.com/Modd
 [23:13:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [23:13:04] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Chrisus lost connection: Timed out
 [23:13:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus left the game
+[23:13:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported santydork to -881.5, 69.5, -540.5]
+[23:13:31] [Server thread/DEBUG] [FML]: The world 29bd4492 (world) may have leaked: seen 120 times.
+
+[23:13:31] [Server thread/DEBUG] [FML]: The world 197f782 (world) may have leaked: seen 120 times.
+
+[23:13:31] [Server thread/DEBUG] [FML]: The world 38012c2 (world) may have leaked: seen 120 times.
+
+[23:13:31] [Server thread/DEBUG] [FML]: The world 5520a775 (world) may have leaked: seen 120 times.
+
+[23:13:31] [Server thread/DEBUG] [FML]: The world 34ef3f69 (world) may have leaked: seen 120 times.
+
+[23:13:31] [Server thread/DEBUG] [FML]: The world 330fc88e (world) may have leaked: seen 120 times.
+
+[23:13:31] [Server thread/DEBUG] [FML]: The world 72721fff (world) may have leaked: seen 120 times.
+
+[23:13:31] [Server thread/DEBUG] [FML]: The world 252a3b2a (world) may have leaked: seen 120 times.
+
+[23:13:31] [Server thread/DEBUG] [FML]: The world 150dbd4f (world) may have leaked: seen 120 times.
+
+[23:13:31] [Server thread/DEBUG] [FML]: The world 67b32 (world) may have leaked: seen 120 times.
+
+[23:13:31] [Server thread/DEBUG] [FML]: The world 668a6f8a (world) may have leaked: seen 120 times.
+
+[23:13:31] [Server thread/DEBUG] [FML]: The world 64ad3727 (world) may have leaked: seen 120 times.
+
+[23:13:31] [Server thread/DEBUG] [FML]: The world 15196ccd (world) may have leaked: seen 120 times.
+
+[23:13:31] [Server thread/DEBUG] [FML]: The world 5a14b469 (world) may have leaked: seen 120 times.
+
+[23:13:31] [Server thread/DEBUG] [FML]: The world 674fb1e3 (world) may have leaked: seen 120 times.
+
+[23:13:31] [Server thread/DEBUG] [FML]: The world 7c5ff36e (world) may have leaked: seen 120 times.
+
+[23:13:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:14:21] [Server thread/DEBUG] [FML]: The world 29bd4492 (world) may have leaked: seen 125 times.
+
+[23:14:21] [Server thread/DEBUG] [FML]: The world 197f782 (world) may have leaked: seen 125 times.
+
+[23:14:21] [Server thread/DEBUG] [FML]: The world 38012c2 (world) may have leaked: seen 125 times.
+
+[23:14:21] [Server thread/DEBUG] [FML]: The world 5520a775 (world) may have leaked: seen 125 times.
+
+[23:14:21] [Server thread/DEBUG] [FML]: The world 34ef3f69 (world) may have leaked: seen 125 times.
+
+[23:14:21] [Server thread/DEBUG] [FML]: The world 330fc88e (world) may have leaked: seen 125 times.
+
+[23:14:21] [Server thread/DEBUG] [FML]: The world 72721fff (world) may have leaked: seen 125 times.
+
+[23:14:21] [Server thread/DEBUG] [FML]: The world 252a3b2a (world) may have leaked: seen 125 times.
+
+[23:14:21] [Server thread/DEBUG] [FML]: The world 150dbd4f (world) may have leaked: seen 125 times.
+
+[23:14:21] [Server thread/DEBUG] [FML]: The world 67b32 (world) may have leaked: seen 125 times.
+
+[23:14:21] [Server thread/DEBUG] [FML]: The world 668a6f8a (world) may have leaked: seen 125 times.
+
+[23:14:21] [Server thread/DEBUG] [FML]: The world 64ad3727 (world) may have leaked: seen 125 times.
+
+[23:14:21] [Server thread/DEBUG] [FML]: The world 15196ccd (world) may have leaked: seen 125 times.
+
+[23:14:21] [Server thread/DEBUG] [FML]: The world 5a14b469 (world) may have leaked: seen 125 times.
+
+[23:14:21] [Server thread/DEBUG] [FML]: The world 674fb1e3 (world) may have leaked: seen 125 times.
+
+[23:14:21] [Server thread/DEBUG] [FML]: The world 7c5ff36e (world) may have leaked: seen 125 times.
+
+[23:14:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:15:11] [Server thread/DEBUG] [FML]: The world 29bd4492 (world) may have leaked: seen 130 times.
+
+[23:15:11] [Server thread/DEBUG] [FML]: The world 197f782 (world) may have leaked: seen 130 times.
+
+[23:15:11] [Server thread/DEBUG] [FML]: The world 38012c2 (world) may have leaked: seen 130 times.
+
+[23:15:11] [Server thread/DEBUG] [FML]: The world 5520a775 (world) may have leaked: seen 130 times.
+
+[23:15:11] [Server thread/DEBUG] [FML]: The world 34ef3f69 (world) may have leaked: seen 130 times.
+
+[23:15:11] [Server thread/DEBUG] [FML]: The world 330fc88e (world) may have leaked: seen 130 times.
+
+[23:15:11] [Server thread/DEBUG] [FML]: The world 72721fff (world) may have leaked: seen 130 times.
+
+[23:15:11] [Server thread/DEBUG] [FML]: The world 252a3b2a (world) may have leaked: seen 130 times.
+
+[23:15:11] [Server thread/DEBUG] [FML]: The world 150dbd4f (world) may have leaked: seen 130 times.
+
+[23:15:11] [Server thread/DEBUG] [FML]: The world 67b32 (world) may have leaked: seen 130 times.
+
+[23:15:11] [Server thread/DEBUG] [FML]: The world 668a6f8a (world) may have leaked: seen 130 times.
+
+[23:15:11] [Server thread/DEBUG] [FML]: The world 64ad3727 (world) may have leaked: seen 130 times.
+
+[23:15:11] [Server thread/DEBUG] [FML]: The world 15196ccd (world) may have leaked: seen 130 times.
+
+[23:15:11] [Server thread/DEBUG] [FML]: The world 5a14b469 (world) may have leaked: seen 130 times.
+
+[23:15:11] [Server thread/DEBUG] [FML]: The world 674fb1e3 (world) may have leaked: seen 130 times.
+
+[23:15:11] [Server thread/DEBUG] [FML]: The world 7c5ff36e (world) may have leaked: seen 130 times.
+
+[23:15:12] [Server thread/TRACE] [FML]: Handshake channel activating
+[23:15:12] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[23:15:12] [Server thread/DEBUG] [FML]:   Next: HELLO
+[23:15:12] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[23:15:12] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[23:15:12] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $ModList:69 mods->FMLHandshakeServerState$2:HELLO
+[23:15:12] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 69 mods : extendedrenderer@v1.0,mixinbooter@10.4,trashslot@8.4.10,cgm@0.15.3,hats@7.1.1,wi-zoom@1.0,bountifulbaubles@0.0.1,configmod@v1.0,mmorpg@1.9.6,jei@4.16.1.1013,mekanism@1.12.2-9.8.3.390,bettercaves@1.12.2,forgeendertech@1.12.2-4.5.6.1,mcp@9.42,clumps@3.1.2,controlling@3.0.10,ctm@MC1.12.2-1.0.2.31,xaeroworldmap@1.39.2,artifacts@1.12.2-1.2.4,sereneseasons@1.2.18,zombieawareness@1.12.1-1.11.16,adhooks@1.12.2-3.3.1.0,uteamcore@2.2.5.339,morpheus@1.12.2-3.5.106,mahoutsukai@1.12.2-v1.19.55,resourcify@1.6.1,hordes@1.5.3a,normalasm@5.24,mekanismgenerators@1.12.2-9.8.3.390,ichunutil@7.2.2,hbm@NTM-Extended-1.12.2-2.0.2,skinlayers3d@1.2.0,forge@14.23.5.2859,xaeroworldmap_core@1.12.2-1.0,twilightforest@3.11.1021,simpledivegear@1.1.1,minecraft@1.12.2,usefulbackpacks@1.5.4.85,mousetweaks@2.10.1,baubles@1.5.2,adlods@1.12.2-1.0.8.0,vehicle@0.44.1,vintagefix@0.5.1,fermiumbooter@1.1.1,villagespawnpoint@1.8,roguelike@2.4.6,ezstorage@2.5.0,patchouli@1.0-23.6,xaerominimap@25.0.0,collective@3.0,camera@1.0.10,entityculling@@VER@,offlineskins@1.12.2-v6,FML@8.0.99.99,obfuscate@0.4.2,farsight@1.6,tombstone@4.7.4,atlaslib@1.1.6,coroutil@1.12.1-1.2.37,mekanismtools@1.12.2-9.8.3.390,appleskin@1.0.14,xaerominimap_core@1.12.2-1.0,backtools@7.0.1,aether_legacy@1.5.3.2,cavern@2.3.1,followme@1.1.5a,cosmeticarmorreworked@1.12.2-v5a,movillages@1.5.4,responsiveshields@2.3
+[23:15:12] [Netty Epoll Server IO #5/DEBUG] [FML]:   Next: WAITINGCACK
+[23:15:12] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[23:15:12] [Netty Epoll Server IO #5/DEBUG] [FML]:   Next: COMPLETE
+[23:15:13] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[23:15:13] [Netty Epoll Server IO #5/DEBUG] [FML]:   Next: DONE
+[23:15:13] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[23:15:13] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[23:15:13] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Chrisus[/127.179.226.202:45425] logged in with entity id 12832 at (-883.0932265040357, 69.0, -542.6319771529526)
+[23:15:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus joined the game
+[23:15:13] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player Chrisus
+[23:15:13] [Server thread/INFO] [Mekanism]: Sent config to 'Chrisus.'
+[23:15:13] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[23:15:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:16:01] [Server thread/DEBUG] [FML]: The world 29bd4492 (world) may have leaked: seen 135 times.
+
+[23:16:01] [Server thread/DEBUG] [FML]: The world 197f782 (world) may have leaked: seen 135 times.
+
+[23:16:01] [Server thread/DEBUG] [FML]: The world 38012c2 (world) may have leaked: seen 135 times.
+
+[23:16:01] [Server thread/DEBUG] [FML]: The world 5520a775 (world) may have leaked: seen 135 times.
+
+[23:16:01] [Server thread/DEBUG] [FML]: The world 34ef3f69 (world) may have leaked: seen 135 times.
+
+[23:16:01] [Server thread/DEBUG] [FML]: The world 330fc88e (world) may have leaked: seen 135 times.
+
+[23:16:01] [Server thread/DEBUG] [FML]: The world 72721fff (world) may have leaked: seen 135 times.
+
+[23:16:01] [Server thread/DEBUG] [FML]: The world 252a3b2a (world) may have leaked: seen 135 times.
+
+[23:16:01] [Server thread/DEBUG] [FML]: The world 150dbd4f (world) may have leaked: seen 135 times.
+
+[23:16:01] [Server thread/DEBUG] [FML]: The world 67b32 (world) may have leaked: seen 135 times.
+
+[23:16:01] [Server thread/DEBUG] [FML]: The world 668a6f8a (world) may have leaked: seen 135 times.
+
+[23:16:01] [Server thread/DEBUG] [FML]: The world 64ad3727 (world) may have leaked: seen 135 times.
+
+[23:16:01] [Server thread/DEBUG] [FML]: The world 15196ccd (world) may have leaked: seen 135 times.
+
+[23:16:01] [Server thread/DEBUG] [FML]: The world 5a14b469 (world) may have leaked: seen 135 times.
+
+[23:16:01] [Server thread/DEBUG] [FML]: The world 674fb1e3 (world) may have leaked: seen 135 times.
+
+[23:16:01] [Server thread/DEBUG] [FML]: The world 7c5ff36e (world) may have leaked: seen 135 times.
+
+[23:16:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:16:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus has made the advancement [Advanced Alloy]
+[23:16:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:16:51] [Server thread/DEBUG] [FML]: The world 29bd4492 (world) may have leaked: seen 140 times.
+
+[23:16:51] [Server thread/DEBUG] [FML]: The world 197f782 (world) may have leaked: seen 140 times.
+
+[23:16:51] [Server thread/DEBUG] [FML]: The world 38012c2 (world) may have leaked: seen 140 times.
+
+[23:16:51] [Server thread/DEBUG] [FML]: The world 5520a775 (world) may have leaked: seen 140 times.
+
+[23:16:51] [Server thread/DEBUG] [FML]: The world 34ef3f69 (world) may have leaked: seen 140 times.
+
+[23:16:51] [Server thread/DEBUG] [FML]: The world 330fc88e (world) may have leaked: seen 140 times.
+
+[23:16:51] [Server thread/DEBUG] [FML]: The world 72721fff (world) may have leaked: seen 140 times.
+
+[23:16:51] [Server thread/DEBUG] [FML]: The world 252a3b2a (world) may have leaked: seen 140 times.
+
+[23:16:51] [Server thread/DEBUG] [FML]: The world 150dbd4f (world) may have leaked: seen 140 times.
+
+[23:16:51] [Server thread/DEBUG] [FML]: The world 67b32 (world) may have leaked: seen 140 times.
+
+[23:16:51] [Server thread/DEBUG] [FML]: The world 668a6f8a (world) may have leaked: seen 140 times.
+
+[23:16:51] [Server thread/DEBUG] [FML]: The world 64ad3727 (world) may have leaked: seen 140 times.
+
+[23:16:51] [Server thread/DEBUG] [FML]: The world 15196ccd (world) may have leaked: seen 140 times.
+
+[23:16:51] [Server thread/DEBUG] [FML]: The world 5a14b469 (world) may have leaked: seen 140 times.
+
+[23:16:51] [Server thread/DEBUG] [FML]: The world 674fb1e3 (world) may have leaked: seen 140 times.
+
+[23:16:51] [Server thread/DEBUG] [FML]: The world 7c5ff36e (world) may have leaked: seen 140 times.
+
+[23:17:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:17:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Teleported Chrisus to -910.5, 11.5, -546.5]
+[23:17:41] [Server thread/DEBUG] [FML]: The world 29bd4492 (world) may have leaked: seen 145 times.
+
+[23:17:41] [Server thread/DEBUG] [FML]: The world 197f782 (world) may have leaked: seen 145 times.
+
+[23:17:41] [Server thread/DEBUG] [FML]: The world 38012c2 (world) may have leaked: seen 145 times.
+
+[23:17:41] [Server thread/DEBUG] [FML]: The world 5520a775 (world) may have leaked: seen 145 times.
+
+[23:17:41] [Server thread/DEBUG] [FML]: The world 34ef3f69 (world) may have leaked: seen 145 times.
+
+[23:17:41] [Server thread/DEBUG] [FML]: The world 330fc88e (world) may have leaked: seen 145 times.
+
+[23:17:41] [Server thread/DEBUG] [FML]: The world 72721fff (world) may have leaked: seen 145 times.
+
+[23:17:41] [Server thread/DEBUG] [FML]: The world 252a3b2a (world) may have leaked: seen 145 times.
+
+[23:17:41] [Server thread/DEBUG] [FML]: The world 150dbd4f (world) may have leaked: seen 145 times.
+
+[23:17:41] [Server thread/DEBUG] [FML]: The world 67b32 (world) may have leaked: seen 145 times.
+
+[23:17:41] [Server thread/DEBUG] [FML]: The world 668a6f8a (world) may have leaked: seen 145 times.
+
+[23:17:41] [Server thread/DEBUG] [FML]: The world 64ad3727 (world) may have leaked: seen 145 times.
+
+[23:17:41] [Server thread/DEBUG] [FML]: The world 15196ccd (world) may have leaked: seen 145 times.
+
+[23:17:41] [Server thread/DEBUG] [FML]: The world 5a14b469 (world) may have leaked: seen 145 times.
+
+[23:17:41] [Server thread/DEBUG] [FML]: The world 674fb1e3 (world) may have leaked: seen 145 times.
+
+[23:17:41] [Server thread/DEBUG] [FML]: The world 7c5ff36e (world) may have leaked: seen 145 times.
+
+[23:17:43] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[23:17:43] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[23:17:43] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[23:17:43] [Server thread/DEBUG] [bettercaves]: CAVE INFORMATION
+[23:17:43] [Server thread/DEBUG] [bettercaves]: --> MAX POSSIBLE THRESHOLD: 1.0
+[23:17:43] [Server thread/DEBUG] [bettercaves]: --> TOTAL PRIORITY: 15
+[23:17:43] [Server thread/DEBUG] [bettercaves]: --> TOTAL RANGE LENGTH: 2.0
+[23:17:43] [Server thread/DEBUG] [bettercaves]: --> CARVER
+[23:17:43] [Server thread/DEBUG] [bettercaves]:     --> RANGE FOUND: [-1.00, 0.33] (0.7890%) -- smooth cutoffs: [-0.29, 0.05]
+[23:17:43] [Server thread/DEBUG] [bettercaves]: --> CARVER
+[23:17:43] [Server thread/DEBUG] [bettercaves]:     --> RANGE FOUND: [0.33, 1.00] (0.2110%) -- smooth cutoffs: [0.42, 0.56]
+[23:17:43] [Server thread/DEBUG] [bettercaves]: CAVERN INFORMATION
+[23:17:43] [Server thread/DEBUG] [bettercaves]: --> SPAWN CHANCE SET TO: 0.25
+[23:17:43] [Server thread/DEBUG] [bettercaves]: --> TOTAL PRIORITY: 20
+[23:17:43] [Server thread/DEBUG] [bettercaves]: --> DEADZONE PERCENT: 0.75(0.75 TOTAL)
+[23:17:43] [Server thread/DEBUG] [bettercaves]: --> CARVER
+[23:17:43] [Server thread/DEBUG] [bettercaves]:     --> RANGE PERCENT LENGTH WANTED: 0.125
+[23:17:43] [Server thread/DEBUG] [bettercaves]:     --> RANGE FOUND: [-1.00, -0.45] (0.1272%) -- smooth cutoffs: [-0.61, -0.52]
+[23:17:43] [Server thread/DEBUG] [bettercaves]: --> CARVER
+[23:17:43] [Server thread/DEBUG] [bettercaves]:     --> RANGE PERCENT LENGTH WANTED: 0.125
+[23:17:43] [Server thread/DEBUG] [bettercaves]:     --> RANGE FOUND: [0.46, 0.76] (0.1260%) -- smooth cutoffs: [0.53, 0.62]
+[23:17:43] [Server thread/INFO] [bettercaves]: Better Caves config file for dimension 0 not found. Using global config...
+[23:17:43] [Server thread/INFO] [bettercaves]: Using block 'minecraft:lava' as lava in cave generation for dimension 0 (OVERWORLD) ...
+[23:17:43] [Server thread/INFO] [bettercaves]: Using block 'minecraft:water' as water in cave generation for dimension 0 (OVERWORLD) ...
+[23:17:43] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-70, -22] in dimension 0 (overworld) while populating chunk [-69, -22], causing cascading worldgen lag.
+[23:17:43] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:18:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:18:31] [Server thread/DEBUG] [FML]: The world 29bd4492 (world) may have leaked: seen 150 times.
+
+[23:18:31] [Server thread/DEBUG] [FML]: The world 197f782 (world) may have leaked: seen 150 times.
+
+[23:18:31] [Server thread/DEBUG] [FML]: The world 38012c2 (world) may have leaked: seen 150 times.
+
+[23:18:31] [Server thread/DEBUG] [FML]: The world 5520a775 (world) may have leaked: seen 150 times.
+
+[23:18:31] [Server thread/DEBUG] [FML]: The world 34ef3f69 (world) may have leaked: seen 150 times.
+
+[23:18:31] [Server thread/DEBUG] [FML]: The world 330fc88e (world) may have leaked: seen 150 times.
+
+[23:18:31] [Server thread/DEBUG] [FML]: The world 72721fff (world) may have leaked: seen 150 times.
+
+[23:18:31] [Server thread/DEBUG] [FML]: The world 252a3b2a (world) may have leaked: seen 150 times.
+
+[23:18:31] [Server thread/DEBUG] [FML]: The world 150dbd4f (world) may have leaked: seen 150 times.
+
+[23:18:31] [Server thread/DEBUG] [FML]: The world 67b32 (world) may have leaked: seen 150 times.
+
+[23:18:31] [Server thread/DEBUG] [FML]: The world 668a6f8a (world) may have leaked: seen 150 times.
+
+[23:18:31] [Server thread/DEBUG] [FML]: The world 64ad3727 (world) may have leaked: seen 150 times.
+
+[23:18:31] [Server thread/DEBUG] [FML]: The world 15196ccd (world) may have leaked: seen 150 times.
+
+[23:18:31] [Server thread/DEBUG] [FML]: The world 5a14b469 (world) may have leaked: seen 150 times.
+
+[23:18:31] [Server thread/DEBUG] [FML]: The world 674fb1e3 (world) may have leaked: seen 150 times.
+
+[23:18:31] [Server thread/DEBUG] [FML]: The world 7c5ff36e (world) may have leaked: seen 150 times.
+
+[23:19:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:19:21] [Server thread/DEBUG] [FML]: The world 29bd4492 (world) may have leaked: seen 155 times.
+
+[23:19:21] [Server thread/DEBUG] [FML]: The world 197f782 (world) may have leaked: seen 155 times.
+
+[23:19:21] [Server thread/DEBUG] [FML]: The world 38012c2 (world) may have leaked: seen 155 times.
+
+[23:19:21] [Server thread/DEBUG] [FML]: The world 5520a775 (world) may have leaked: seen 155 times.
+
+[23:19:21] [Server thread/DEBUG] [FML]: The world 34ef3f69 (world) may have leaked: seen 155 times.
+
+[23:19:21] [Server thread/DEBUG] [FML]: The world 330fc88e (world) may have leaked: seen 155 times.
+
+[23:19:21] [Server thread/DEBUG] [FML]: The world 72721fff (world) may have leaked: seen 155 times.
+
+[23:19:21] [Server thread/DEBUG] [FML]: The world 252a3b2a (world) may have leaked: seen 155 times.
+
+[23:19:21] [Server thread/DEBUG] [FML]: The world 150dbd4f (world) may have leaked: seen 155 times.
+
+[23:19:21] [Server thread/DEBUG] [FML]: The world 67b32 (world) may have leaked: seen 155 times.
+
+[23:19:21] [Server thread/DEBUG] [FML]: The world 668a6f8a (world) may have leaked: seen 155 times.
+
+[23:19:21] [Server thread/DEBUG] [FML]: The world 64ad3727 (world) may have leaked: seen 155 times.
+
+[23:19:21] [Server thread/DEBUG] [FML]: The world 15196ccd (world) may have leaked: seen 155 times.
+
+[23:19:21] [Server thread/DEBUG] [FML]: The world 5a14b469 (world) may have leaked: seen 155 times.
+
+[23:19:21] [Server thread/DEBUG] [FML]: The world 674fb1e3 (world) may have leaked: seen 155 times.
+
+[23:19:21] [Server thread/DEBUG] [FML]: The world 7c5ff36e (world) may have leaked: seen 155 times.
+
+[23:19:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:19:57] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-73, -27] in dimension 0 (overworld) while populating chunk [-72, -27], causing cascading worldgen lag.
+[23:19:57] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:20:11] [Server thread/DEBUG] [FML]: The world 29bd4492 (world) may have leaked: seen 160 times.
+
+[23:20:11] [Server thread/DEBUG] [FML]: The world 197f782 (world) may have leaked: seen 160 times.
+
+[23:20:11] [Server thread/DEBUG] [FML]: The world 38012c2 (world) may have leaked: seen 160 times.
+
+[23:20:11] [Server thread/DEBUG] [FML]: The world 5520a775 (world) may have leaked: seen 160 times.
+
+[23:20:11] [Server thread/DEBUG] [FML]: The world 34ef3f69 (world) may have leaked: seen 160 times.
+
+[23:20:11] [Server thread/DEBUG] [FML]: The world 330fc88e (world) may have leaked: seen 160 times.
+
+[23:20:11] [Server thread/DEBUG] [FML]: The world 72721fff (world) may have leaked: seen 160 times.
+
+[23:20:11] [Server thread/DEBUG] [FML]: The world 252a3b2a (world) may have leaked: seen 160 times.
+
+[23:20:11] [Server thread/DEBUG] [FML]: The world 150dbd4f (world) may have leaked: seen 160 times.
+
+[23:20:11] [Server thread/DEBUG] [FML]: The world 67b32 (world) may have leaked: seen 160 times.
+
+[23:20:11] [Server thread/DEBUG] [FML]: The world 668a6f8a (world) may have leaked: seen 160 times.
+
+[23:20:11] [Server thread/DEBUG] [FML]: The world 64ad3727 (world) may have leaked: seen 160 times.
+
+[23:20:11] [Server thread/DEBUG] [FML]: The world 15196ccd (world) may have leaked: seen 160 times.
+
+[23:20:11] [Server thread/DEBUG] [FML]: The world 5a14b469 (world) may have leaked: seen 160 times.
+
+[23:20:11] [Server thread/DEBUG] [FML]: The world 674fb1e3 (world) may have leaked: seen 160 times.
+
+[23:20:11] [Server thread/DEBUG] [FML]: The world 7c5ff36e (world) may have leaked: seen 160 times.
+
+[23:20:12] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-74, -30] in dimension 0 (overworld) while populating chunk [-73, -30], causing cascading worldgen lag.
+[23:20:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:20:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:21:01] [Server thread/DEBUG] [FML]: The world 29bd4492 (world) may have leaked: seen 165 times.
+
+[23:21:01] [Server thread/DEBUG] [FML]: The world 197f782 (world) may have leaked: seen 165 times.
+
+[23:21:01] [Server thread/DEBUG] [FML]: The world 38012c2 (world) may have leaked: seen 165 times.
+
+[23:21:01] [Server thread/DEBUG] [FML]: The world 5520a775 (world) may have leaked: seen 165 times.
+
+[23:21:01] [Server thread/DEBUG] [FML]: The world 34ef3f69 (world) may have leaked: seen 165 times.
+
+[23:21:01] [Server thread/DEBUG] [FML]: The world 330fc88e (world) may have leaked: seen 165 times.
+
+[23:21:01] [Server thread/DEBUG] [FML]: The world 72721fff (world) may have leaked: seen 165 times.
+
+[23:21:01] [Server thread/DEBUG] [FML]: The world 252a3b2a (world) may have leaked: seen 165 times.
+
+[23:21:01] [Server thread/DEBUG] [FML]: The world 150dbd4f (world) may have leaked: seen 165 times.
+
+[23:21:01] [Server thread/DEBUG] [FML]: The world 67b32 (world) may have leaked: seen 165 times.
+
+[23:21:01] [Server thread/DEBUG] [FML]: The world 668a6f8a (world) may have leaked: seen 165 times.
+
+[23:21:01] [Server thread/DEBUG] [FML]: The world 64ad3727 (world) may have leaked: seen 165 times.
+
+[23:21:01] [Server thread/DEBUG] [FML]: The world 15196ccd (world) may have leaked: seen 165 times.
+
+[23:21:01] [Server thread/DEBUG] [FML]: The world 5a14b469 (world) may have leaked: seen 165 times.
+
+[23:21:01] [Server thread/DEBUG] [FML]: The world 674fb1e3 (world) may have leaked: seen 165 times.
+
+[23:21:01] [Server thread/DEBUG] [FML]: The world 7c5ff36e (world) may have leaked: seen 165 times.
+
+[23:21:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:21:31] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[23:21:51] [Server thread/DEBUG] [FML]: The world 29bd4492 (world) may have leaked: seen 170 times.
+
+[23:21:51] [Server thread/DEBUG] [FML]: The world 197f782 (world) may have leaked: seen 170 times.
+
+[23:21:51] [Server thread/DEBUG] [FML]: The world 38012c2 (world) may have leaked: seen 170 times.
+
+[23:21:51] [Server thread/DEBUG] [FML]: The world 5520a775 (world) may have leaked: seen 170 times.
+
+[23:21:51] [Server thread/DEBUG] [FML]: The world 34ef3f69 (world) may have leaked: seen 170 times.
+
+[23:21:51] [Server thread/DEBUG] [FML]: The world 330fc88e (world) may have leaked: seen 170 times.
+
+[23:21:51] [Server thread/DEBUG] [FML]: The world 72721fff (world) may have leaked: seen 170 times.
+
+[23:21:51] [Server thread/DEBUG] [FML]: The world 252a3b2a (world) may have leaked: seen 170 times.
+
+[23:21:51] [Server thread/DEBUG] [FML]: The world 150dbd4f (world) may have leaked: seen 170 times.
+
+[23:21:51] [Server thread/DEBUG] [FML]: The world 67b32 (world) may have leaked: seen 170 times.
+
+[23:21:51] [Server thread/DEBUG] [FML]: The world 668a6f8a (world) may have leaked: seen 170 times.
+
+[23:21:51] [Server thread/DEBUG] [FML]: The world 64ad3727 (world) may have leaked: seen 170 times.
+
+[23:21:51] [Server thread/DEBUG] [FML]: The world 15196ccd (world) may have leaked: seen 170 times.
+
+[23:21:51] [Server thread/DEBUG] [FML]: The world 5a14b469 (world) may have leaked: seen 170 times.
+
+[23:21:51] [Server thread/DEBUG] [FML]: The world 674fb1e3 (world) may have leaked: seen 170 times.
+
+[23:21:51] [Server thread/DEBUG] [FML]: The world 7c5ff36e (world) may have leaked: seen 170 times.
+
+[23:22:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:22:41] [Server thread/DEBUG] [FML]: The world 29bd4492 (world) may have leaked: seen 175 times.
+
+[23:22:41] [Server thread/DEBUG] [FML]: The world 197f782 (world) may have leaked: seen 175 times.
+
+[23:22:41] [Server thread/DEBUG] [FML]: The world 38012c2 (world) may have leaked: seen 175 times.
+
+[23:22:41] [Server thread/DEBUG] [FML]: The world 5520a775 (world) may have leaked: seen 175 times.
+
+[23:22:41] [Server thread/DEBUG] [FML]: The world 34ef3f69 (world) may have leaked: seen 175 times.
+
+[23:22:41] [Server thread/DEBUG] [FML]: The world 330fc88e (world) may have leaked: seen 175 times.
+
+[23:22:41] [Server thread/DEBUG] [FML]: The world 72721fff (world) may have leaked: seen 175 times.
+
+[23:22:41] [Server thread/DEBUG] [FML]: The world 252a3b2a (world) may have leaked: seen 175 times.
+
+[23:22:41] [Server thread/DEBUG] [FML]: The world 150dbd4f (world) may have leaked: seen 175 times.
+
+[23:22:41] [Server thread/DEBUG] [FML]: The world 67b32 (world) may have leaked: seen 175 times.
+
+[23:22:41] [Server thread/DEBUG] [FML]: The world 668a6f8a (world) may have leaked: seen 175 times.
+
+[23:22:41] [Server thread/DEBUG] [FML]: The world 64ad3727 (world) may have leaked: seen 175 times.
+
+[23:22:41] [Server thread/DEBUG] [FML]: The world 15196ccd (world) may have leaked: seen 175 times.
+
+[23:22:41] [Server thread/DEBUG] [FML]: The world 5a14b469 (world) may have leaked: seen 175 times.
+
+[23:22:41] [Server thread/DEBUG] [FML]: The world 674fb1e3 (world) may have leaked: seen 175 times.
+
+[23:22:41] [Server thread/DEBUG] [FML]: The world 7c5ff36e (world) may have leaked: seen 175 times.
+
+[23:22:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:22:55] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-75, -42] in dimension 0 (overworld) while populating chunk [-74, -41], causing cascading worldgen lag.
+[23:22:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:22:55] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-74, -36] in dimension 0 (overworld) while populating chunk [-74, -35], causing cascading worldgen lag.
+[23:22:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:22:55] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-75, -36] in dimension 0 (overworld) while populating chunk [-74, -35], causing cascading worldgen lag.
+[23:22:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:22:55] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-74, -37] in dimension 0 (overworld) while populating chunk [-75, -36], causing cascading worldgen lag.
+[23:22:55] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:23:13] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-76, -37] in dimension 0 (overworld) while populating chunk [-75, -37], causing cascading worldgen lag.
+[23:23:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:23:14] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-76, -30] in dimension 0 (overworld) while populating chunk [-75, -29], causing cascading worldgen lag.
+[23:23:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:23:31] [Server thread/DEBUG] [FML]: The world 29bd4492 (world) may have leaked: seen 180 times.
+
+[23:23:31] [Server thread/DEBUG] [FML]: The world 197f782 (world) may have leaked: seen 180 times.
+
+[23:23:31] [Server thread/DEBUG] [FML]: The world 38012c2 (world) may have leaked: seen 180 times.
+
+[23:23:31] [Server thread/DEBUG] [FML]: The world 5520a775 (world) may have leaked: seen 180 times.
+
+[23:23:31] [Server thread/DEBUG] [FML]: The world 34ef3f69 (world) may have leaked: seen 180 times.
+
+[23:23:31] [Server thread/DEBUG] [FML]: The world 330fc88e (world) may have leaked: seen 180 times.
+
+[23:23:31] [Server thread/DEBUG] [FML]: The world 72721fff (world) may have leaked: seen 180 times.
+
+[23:23:31] [Server thread/DEBUG] [FML]: The world 252a3b2a (world) may have leaked: seen 180 times.
+
+[23:23:31] [Server thread/DEBUG] [FML]: The world 150dbd4f (world) may have leaked: seen 180 times.
+
+[23:23:31] [Server thread/DEBUG] [FML]: The world 67b32 (world) may have leaked: seen 180 times.
+
+[23:23:31] [Server thread/DEBUG] [FML]: The world 668a6f8a (world) may have leaked: seen 180 times.
+
+[23:23:31] [Server thread/DEBUG] [FML]: The world 64ad3727 (world) may have leaked: seen 180 times.
+
+[23:23:31] [Server thread/DEBUG] [FML]: The world 15196ccd (world) may have leaked: seen 180 times.
+
+[23:23:31] [Server thread/DEBUG] [FML]: The world 5a14b469 (world) may have leaked: seen 180 times.
+
+[23:23:31] [Server thread/DEBUG] [FML]: The world 674fb1e3 (world) may have leaked: seen 180 times.
+
+[23:23:31] [Server thread/DEBUG] [FML]: The world 7c5ff36e (world) may have leaked: seen 180 times.
+
+[23:23:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:23:45] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-77, -45] in dimension 0 (overworld) while populating chunk [-76, -44], causing cascading worldgen lag.
+[23:23:45] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:23:46] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-77, -27] in dimension 0 (overworld) while populating chunk [-76, -26], causing cascading worldgen lag.
+[23:23:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:23:46] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-77, -28] in dimension 0 (overworld) while populating chunk [-77, -27], causing cascading worldgen lag.
+[23:23:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:23:46] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-77, -29] in dimension 0 (overworld) while populating chunk [-77, -28], causing cascading worldgen lag.
+[23:23:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:23:46] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-78, -28] in dimension 0 (overworld) while populating chunk [-77, -27], causing cascading worldgen lag.
+[23:23:46] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:24:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported santydork to -881.5, 69.5, -540.5]
+[23:24:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:24:21] [Server thread/DEBUG] [FML]: The world 29bd4492 (world) may have leaked: seen 185 times.
+
+[23:24:21] [Server thread/DEBUG] [FML]: The world 197f782 (world) may have leaked: seen 185 times.
+
+[23:24:21] [Server thread/DEBUG] [FML]: The world 38012c2 (world) may have leaked: seen 185 times.
+
+[23:24:21] [Server thread/DEBUG] [FML]: The world 5520a775 (world) may have leaked: seen 185 times.
+
+[23:24:21] [Server thread/DEBUG] [FML]: The world 34ef3f69 (world) may have leaked: seen 185 times.
+
+[23:24:21] [Server thread/DEBUG] [FML]: The world 330fc88e (world) may have leaked: seen 185 times.
+
+[23:24:21] [Server thread/DEBUG] [FML]: The world 72721fff (world) may have leaked: seen 185 times.
+
+[23:24:21] [Server thread/DEBUG] [FML]: The world 252a3b2a (world) may have leaked: seen 185 times.
+
+[23:24:21] [Server thread/DEBUG] [FML]: The world 150dbd4f (world) may have leaked: seen 185 times.
+
+[23:24:21] [Server thread/DEBUG] [FML]: The world 67b32 (world) may have leaked: seen 185 times.
+
+[23:24:21] [Server thread/DEBUG] [FML]: The world 668a6f8a (world) may have leaked: seen 185 times.
+
+[23:24:21] [Server thread/DEBUG] [FML]: The world 64ad3727 (world) may have leaked: seen 185 times.
+
+[23:24:21] [Server thread/DEBUG] [FML]: The world 15196ccd (world) may have leaked: seen 185 times.
+
+[23:24:21] [Server thread/DEBUG] [FML]: The world 5a14b469 (world) may have leaked: seen 185 times.
+
+[23:24:21] [Server thread/DEBUG] [FML]: The world 674fb1e3 (world) may have leaked: seen 185 times.
+
+[23:24:21] [Server thread/DEBUG] [FML]: The world 7c5ff36e (world) may have leaked: seen 185 times.
+
+[23:24:27] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
+[23:24:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santydork has made the advancement [Knowledge of Death]
+[23:24:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santydork has reached the goal [Strong or Careful]
+[23:24:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santydork fell out of the world
+[23:24:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Killed santydork]
+[23:24:53] [Server thread/INFO] [tombstone]: santydork has successfully been saved
+[23:24:54] [Server thread/DEBUG] [twilightforest]: Player santydork respawned and received items held in storage
+[23:24:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santydork has reached the goal [Here They Come]
+[23:25:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:25:11] [Server thread/DEBUG] [FML]: The world 29bd4492 (world) may have leaked: seen 190 times.
+
+[23:25:11] [Server thread/DEBUG] [FML]: The world 197f782 (world) may have leaked: seen 190 times.
+
+[23:25:11] [Server thread/DEBUG] [FML]: The world 38012c2 (world) may have leaked: seen 190 times.
+
+[23:25:11] [Server thread/DEBUG] [FML]: The world 5520a775 (world) may have leaked: seen 190 times.
+
+[23:25:11] [Server thread/DEBUG] [FML]: The world 34ef3f69 (world) may have leaked: seen 190 times.
+
+[23:25:11] [Server thread/DEBUG] [FML]: The world 330fc88e (world) may have leaked: seen 190 times.
+
+[23:25:11] [Server thread/DEBUG] [FML]: The world 72721fff (world) may have leaked: seen 190 times.
+
+[23:25:11] [Server thread/DEBUG] [FML]: The world 252a3b2a (world) may have leaked: seen 190 times.
+
+[23:25:11] [Server thread/DEBUG] [FML]: The world 150dbd4f (world) may have leaked: seen 190 times.
+
+[23:25:11] [Server thread/DEBUG] [FML]: The world 67b32 (world) may have leaked: seen 190 times.
+
+[23:25:11] [Server thread/DEBUG] [FML]: The world 668a6f8a (world) may have leaked: seen 190 times.
+
+[23:25:11] [Server thread/DEBUG] [FML]: The world 64ad3727 (world) may have leaked: seen 190 times.
+
+[23:25:11] [Server thread/DEBUG] [FML]: The world 15196ccd (world) may have leaked: seen 190 times.
+
+[23:25:11] [Server thread/DEBUG] [FML]: The world 5a14b469 (world) may have leaked: seen 190 times.
+
+[23:25:11] [Server thread/DEBUG] [FML]: The world 674fb1e3 (world) may have leaked: seen 190 times.
+
+[23:25:11] [Server thread/DEBUG] [FML]: The world 7c5ff36e (world) may have leaked: seen 190 times.
+
+[23:25:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:26:01] [Server thread/DEBUG] [FML]: The world 29bd4492 (world) may have leaked: seen 195 times.
+
+[23:26:01] [Server thread/DEBUG] [FML]: The world 197f782 (world) may have leaked: seen 195 times.
+
+[23:26:01] [Server thread/DEBUG] [FML]: The world 38012c2 (world) may have leaked: seen 195 times.
+
+[23:26:01] [Server thread/DEBUG] [FML]: The world 5520a775 (world) may have leaked: seen 195 times.
+
+[23:26:01] [Server thread/DEBUG] [FML]: The world 34ef3f69 (world) may have leaked: seen 195 times.
+
+[23:26:01] [Server thread/DEBUG] [FML]: The world 330fc88e (world) may have leaked: seen 195 times.
+
+[23:26:01] [Server thread/DEBUG] [FML]: The world 72721fff (world) may have leaked: seen 195 times.
+
+[23:26:01] [Server thread/DEBUG] [FML]: The world 252a3b2a (world) may have leaked: seen 195 times.
+
+[23:26:01] [Server thread/DEBUG] [FML]: The world 150dbd4f (world) may have leaked: seen 195 times.
+
+[23:26:01] [Server thread/DEBUG] [FML]: The world 67b32 (world) may have leaked: seen 195 times.
+
+[23:26:01] [Server thread/DEBUG] [FML]: The world 668a6f8a (world) may have leaked: seen 195 times.
+
+[23:26:01] [Server thread/DEBUG] [FML]: The world 64ad3727 (world) may have leaked: seen 195 times.
+
+[23:26:01] [Server thread/DEBUG] [FML]: The world 15196ccd (world) may have leaked: seen 195 times.
+
+[23:26:01] [Server thread/DEBUG] [FML]: The world 5a14b469 (world) may have leaked: seen 195 times.
+
+[23:26:01] [Server thread/DEBUG] [FML]: The world 674fb1e3 (world) may have leaked: seen 195 times.
+
+[23:26:01] [Server thread/DEBUG] [FML]: The world 7c5ff36e (world) may have leaked: seen 195 times.
+
+[23:26:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:26:51] [Server thread/DEBUG] [FML]: The world 29bd4492 (world) may have leaked: seen 200 times.
+
+[23:26:51] [Server thread/DEBUG] [FML]: The world 197f782 (world) may have leaked: seen 200 times.
+
+[23:26:51] [Server thread/DEBUG] [FML]: The world 38012c2 (world) may have leaked: seen 200 times.
+
+[23:26:51] [Server thread/DEBUG] [FML]: The world 5520a775 (world) may have leaked: seen 200 times.
+
+[23:26:51] [Server thread/DEBUG] [FML]: The world 34ef3f69 (world) may have leaked: seen 200 times.
+
+[23:26:51] [Server thread/DEBUG] [FML]: The world 330fc88e (world) may have leaked: seen 200 times.
+
+[23:26:51] [Server thread/DEBUG] [FML]: The world 72721fff (world) may have leaked: seen 200 times.
+
+[23:26:51] [Server thread/DEBUG] [FML]: The world 252a3b2a (world) may have leaked: seen 200 times.
+
+[23:26:51] [Server thread/DEBUG] [FML]: The world 150dbd4f (world) may have leaked: seen 200 times.
+
+[23:26:51] [Server thread/DEBUG] [FML]: The world 67b32 (world) may have leaked: seen 200 times.
+
+[23:26:51] [Server thread/DEBUG] [FML]: The world 668a6f8a (world) may have leaked: seen 200 times.
+
+[23:26:51] [Server thread/DEBUG] [FML]: The world 64ad3727 (world) may have leaked: seen 200 times.
+
+[23:26:51] [Server thread/DEBUG] [FML]: The world 15196ccd (world) may have leaked: seen 200 times.
+
+[23:26:51] [Server thread/DEBUG] [FML]: The world 5a14b469 (world) may have leaked: seen 200 times.
+
+[23:26:51] [Server thread/DEBUG] [FML]: The world 674fb1e3 (world) may have leaked: seen 200 times.
+
+[23:26:51] [Server thread/DEBUG] [FML]: The world 7c5ff36e (world) may have leaked: seen 200 times.
+
+[23:27:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:27:41] [Server thread/DEBUG] [FML]: The world 29bd4492 (world) may have leaked: seen 205 times.
+
+[23:27:41] [Server thread/DEBUG] [FML]: The world 197f782 (world) may have leaked: seen 205 times.
+
+[23:27:41] [Server thread/DEBUG] [FML]: The world 38012c2 (world) may have leaked: seen 205 times.
+
+[23:27:41] [Server thread/DEBUG] [FML]: The world 5520a775 (world) may have leaked: seen 205 times.
+
+[23:27:41] [Server thread/DEBUG] [FML]: The world 34ef3f69 (world) may have leaked: seen 205 times.
+
+[23:27:41] [Server thread/DEBUG] [FML]: The world 330fc88e (world) may have leaked: seen 205 times.
+
+[23:27:41] [Server thread/DEBUG] [FML]: The world 72721fff (world) may have leaked: seen 205 times.
+
+[23:27:41] [Server thread/DEBUG] [FML]: The world 252a3b2a (world) may have leaked: seen 205 times.
+
+[23:27:41] [Server thread/DEBUG] [FML]: The world 150dbd4f (world) may have leaked: seen 205 times.
+
+[23:27:41] [Server thread/DEBUG] [FML]: The world 67b32 (world) may have leaked: seen 205 times.
+
+[23:27:41] [Server thread/DEBUG] [FML]: The world 668a6f8a (world) may have leaked: seen 205 times.
+
+[23:27:41] [Server thread/DEBUG] [FML]: The world 64ad3727 (world) may have leaked: seen 205 times.
+
+[23:27:41] [Server thread/DEBUG] [FML]: The world 15196ccd (world) may have leaked: seen 205 times.
+
+[23:27:41] [Server thread/DEBUG] [FML]: The world 5a14b469 (world) may have leaked: seen 205 times.
+
+[23:27:41] [Server thread/DEBUG] [FML]: The world 674fb1e3 (world) may have leaked: seen 205 times.
+
+[23:27:41] [Server thread/DEBUG] [FML]: The world 7c5ff36e (world) may have leaked: seen 205 times.
+
+[23:28:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santydork has made the advancement [Ashes 'n Bones]
+[23:28:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:28:31] [Server thread/DEBUG] [FML]: The world 29bd4492 (world) may have leaked: seen 210 times.
+
+[23:28:31] [Server thread/DEBUG] [FML]: The world 197f782 (world) may have leaked: seen 210 times.
+
+[23:28:31] [Server thread/DEBUG] [FML]: The world 38012c2 (world) may have leaked: seen 210 times.
+
+[23:28:31] [Server thread/DEBUG] [FML]: The world 5520a775 (world) may have leaked: seen 210 times.
+
+[23:28:31] [Server thread/DEBUG] [FML]: The world 34ef3f69 (world) may have leaked: seen 210 times.
+
+[23:28:31] [Server thread/DEBUG] [FML]: The world 330fc88e (world) may have leaked: seen 210 times.
+
+[23:28:31] [Server thread/DEBUG] [FML]: The world 72721fff (world) may have leaked: seen 210 times.
+
+[23:28:31] [Server thread/DEBUG] [FML]: The world 252a3b2a (world) may have leaked: seen 210 times.
+
+[23:28:31] [Server thread/DEBUG] [FML]: The world 150dbd4f (world) may have leaked: seen 210 times.
+
+[23:28:31] [Server thread/DEBUG] [FML]: The world 67b32 (world) may have leaked: seen 210 times.
+
+[23:28:31] [Server thread/DEBUG] [FML]: The world 668a6f8a (world) may have leaked: seen 210 times.
+
+[23:28:31] [Server thread/DEBUG] [FML]: The world 64ad3727 (world) may have leaked: seen 210 times.
+
+[23:28:31] [Server thread/DEBUG] [FML]: The world 15196ccd (world) may have leaked: seen 210 times.
+
+[23:28:31] [Server thread/DEBUG] [FML]: The world 5a14b469 (world) may have leaked: seen 210 times.
+
+[23:28:31] [Server thread/DEBUG] [FML]: The world 674fb1e3 (world) may have leaked: seen 210 times.
+
+[23:28:31] [Server thread/DEBUG] [FML]: The world 7c5ff36e (world) may have leaked: seen 210 times.
+
+[23:28:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:28:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santydork has made the advancement [Knowledge raises the soul]
+[23:29:21] [Server thread/DEBUG] [FML]: The world 29bd4492 (world) may have leaked: seen 215 times.
+
+[23:29:21] [Server thread/DEBUG] [FML]: The world 197f782 (world) may have leaked: seen 215 times.
+
+[23:29:21] [Server thread/DEBUG] [FML]: The world 38012c2 (world) may have leaked: seen 215 times.
+
+[23:29:21] [Server thread/DEBUG] [FML]: The world 5520a775 (world) may have leaked: seen 215 times.
+
+[23:29:21] [Server thread/DEBUG] [FML]: The world 34ef3f69 (world) may have leaked: seen 215 times.
+
+[23:29:21] [Server thread/DEBUG] [FML]: The world 330fc88e (world) may have leaked: seen 215 times.
+
+[23:29:21] [Server thread/DEBUG] [FML]: The world 72721fff (world) may have leaked: seen 215 times.
+
+[23:29:21] [Server thread/DEBUG] [FML]: The world 252a3b2a (world) may have leaked: seen 215 times.
+
+[23:29:21] [Server thread/DEBUG] [FML]: The world 150dbd4f (world) may have leaked: seen 215 times.
+
+[23:29:21] [Server thread/DEBUG] [FML]: The world 67b32 (world) may have leaked: seen 215 times.
+
+[23:29:21] [Server thread/DEBUG] [FML]: The world 668a6f8a (world) may have leaked: seen 215 times.
+
+[23:29:21] [Server thread/DEBUG] [FML]: The world 64ad3727 (world) may have leaked: seen 215 times.
+
+[23:29:21] [Server thread/DEBUG] [FML]: The world 15196ccd (world) may have leaked: seen 215 times.
+
+[23:29:21] [Server thread/DEBUG] [FML]: The world 5a14b469 (world) may have leaked: seen 215 times.
+
+[23:29:21] [Server thread/DEBUG] [FML]: The world 674fb1e3 (world) may have leaked: seen 215 times.
+
+[23:29:21] [Server thread/DEBUG] [FML]: The world 7c5ff36e (world) may have leaked: seen 215 times.
+
+[23:29:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:29:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Teleported Chrisus to -883.5, 69.5, -538.5]
+[23:30:11] [Server thread/DEBUG] [FML]: The world 29bd4492 (world) may have leaked: seen 220 times.
+
+[23:30:11] [Server thread/DEBUG] [FML]: The world 197f782 (world) may have leaked: seen 220 times.
+
+[23:30:11] [Server thread/DEBUG] [FML]: The world 38012c2 (world) may have leaked: seen 220 times.
+
+[23:30:11] [Server thread/DEBUG] [FML]: The world 5520a775 (world) may have leaked: seen 220 times.
+
+[23:30:11] [Server thread/DEBUG] [FML]: The world 34ef3f69 (world) may have leaked: seen 220 times.
+
+[23:30:11] [Server thread/DEBUG] [FML]: The world 330fc88e (world) may have leaked: seen 220 times.
+
+[23:30:11] [Server thread/DEBUG] [FML]: The world 72721fff (world) may have leaked: seen 220 times.
+
+[23:30:11] [Server thread/DEBUG] [FML]: The world 252a3b2a (world) may have leaked: seen 220 times.
+
+[23:30:11] [Server thread/DEBUG] [FML]: The world 150dbd4f (world) may have leaked: seen 220 times.
+
+[23:30:11] [Server thread/DEBUG] [FML]: The world 67b32 (world) may have leaked: seen 220 times.
+
+[23:30:11] [Server thread/DEBUG] [FML]: The world 668a6f8a (world) may have leaked: seen 220 times.
+
+[23:30:11] [Server thread/DEBUG] [FML]: The world 64ad3727 (world) may have leaked: seen 220 times.
+
+[23:30:11] [Server thread/DEBUG] [FML]: The world 15196ccd (world) may have leaked: seen 220 times.
+
+[23:30:11] [Server thread/DEBUG] [FML]: The world 5a14b469 (world) may have leaked: seen 220 times.
+
+[23:30:11] [Server thread/DEBUG] [FML]: The world 674fb1e3 (world) may have leaked: seen 220 times.
+
+[23:30:11] [Server thread/DEBUG] [FML]: The world 7c5ff36e (world) may have leaked: seen 220 times.
+
+[23:30:16] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:30:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santydork> the manual override
+[23:31:01] [Server thread/DEBUG] [FML]: The world 29bd4492 (world) may have leaked: seen 225 times.
+
+[23:31:01] [Server thread/DEBUG] [FML]: The world 197f782 (world) may have leaked: seen 225 times.
+
+[23:31:01] [Server thread/DEBUG] [FML]: The world 38012c2 (world) may have leaked: seen 225 times.
+
+[23:31:01] [Server thread/DEBUG] [FML]: The world 5520a775 (world) may have leaked: seen 225 times.
+
+[23:31:01] [Server thread/DEBUG] [FML]: The world 34ef3f69 (world) may have leaked: seen 225 times.
+
+[23:31:01] [Server thread/DEBUG] [FML]: The world 330fc88e (world) may have leaked: seen 225 times.
+
+[23:31:01] [Server thread/DEBUG] [FML]: The world 72721fff (world) may have leaked: seen 225 times.
+
+[23:31:01] [Server thread/DEBUG] [FML]: The world 252a3b2a (world) may have leaked: seen 225 times.
+
+[23:31:01] [Server thread/DEBUG] [FML]: The world 150dbd4f (world) may have leaked: seen 225 times.
+
+[23:31:01] [Server thread/DEBUG] [FML]: The world 67b32 (world) may have leaked: seen 225 times.
+
+[23:31:01] [Server thread/DEBUG] [FML]: The world 668a6f8a (world) may have leaked: seen 225 times.
+
+[23:31:01] [Server thread/DEBUG] [FML]: The world 64ad3727 (world) may have leaked: seen 225 times.
+
+[23:31:01] [Server thread/DEBUG] [FML]: The world 15196ccd (world) may have leaked: seen 225 times.
+
+[23:31:01] [Server thread/DEBUG] [FML]: The world 5a14b469 (world) may have leaked: seen 225 times.
+
+[23:31:01] [Server thread/DEBUG] [FML]: The world 674fb1e3 (world) may have leaked: seen 225 times.
+
+[23:31:01] [Server thread/DEBUG] [FML]: The world 7c5ff36e (world) may have leaked: seen 225 times.
+
+[23:31:01] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:31:46] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:31:51] [Server thread/DEBUG] [FML]: The world 29bd4492 (world) may have leaked: seen 230 times.
+
+[23:31:51] [Server thread/DEBUG] [FML]: The world 197f782 (world) may have leaked: seen 230 times.
+
+[23:31:51] [Server thread/DEBUG] [FML]: The world 38012c2 (world) may have leaked: seen 230 times.
+
+[23:31:51] [Server thread/DEBUG] [FML]: The world 5520a775 (world) may have leaked: seen 230 times.
+
+[23:31:51] [Server thread/DEBUG] [FML]: The world 34ef3f69 (world) may have leaked: seen 230 times.
+
+[23:31:51] [Server thread/DEBUG] [FML]: The world 330fc88e (world) may have leaked: seen 230 times.
+
+[23:31:51] [Server thread/DEBUG] [FML]: The world 72721fff (world) may have leaked: seen 230 times.
+
+[23:31:51] [Server thread/DEBUG] [FML]: The world 252a3b2a (world) may have leaked: seen 230 times.
+
+[23:31:51] [Server thread/DEBUG] [FML]: The world 150dbd4f (world) may have leaked: seen 230 times.
+
+[23:31:51] [Server thread/DEBUG] [FML]: The world 67b32 (world) may have leaked: seen 230 times.
+
+[23:31:51] [Server thread/DEBUG] [FML]: The world 668a6f8a (world) may have leaked: seen 230 times.
+
+[23:31:51] [Server thread/DEBUG] [FML]: The world 64ad3727 (world) may have leaked: seen 230 times.
+
+[23:31:51] [Server thread/DEBUG] [FML]: The world 15196ccd (world) may have leaked: seen 230 times.
+
+[23:31:51] [Server thread/DEBUG] [FML]: The world 5a14b469 (world) may have leaked: seen 230 times.
+
+[23:31:51] [Server thread/DEBUG] [FML]: The world 674fb1e3 (world) may have leaked: seen 230 times.
+
+[23:31:51] [Server thread/DEBUG] [FML]: The world 7c5ff36e (world) may have leaked: seen 230 times.
+
+[23:32:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santydork was slain by Chrisus
+[23:32:24] [Server thread/INFO] [tombstone]: santydork has successfully been saved
+[23:32:25] [Server thread/DEBUG] [twilightforest]: Player santydork respawned and received items held in storage
+[23:32:31] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:32:41] [Server thread/DEBUG] [FML]: The world 29bd4492 (world) may have leaked: seen 235 times.
+
+[23:32:41] [Server thread/DEBUG] [FML]: The world 197f782 (world) may have leaked: seen 235 times.
+
+[23:32:41] [Server thread/DEBUG] [FML]: The world 38012c2 (world) may have leaked: seen 235 times.
+
+[23:32:41] [Server thread/DEBUG] [FML]: The world 5520a775 (world) may have leaked: seen 235 times.
+
+[23:32:41] [Server thread/DEBUG] [FML]: The world 34ef3f69 (world) may have leaked: seen 235 times.
+
+[23:32:41] [Server thread/DEBUG] [FML]: The world 330fc88e (world) may have leaked: seen 235 times.
+
+[23:32:41] [Server thread/DEBUG] [FML]: The world 72721fff (world) may have leaked: seen 235 times.
+
+[23:32:41] [Server thread/DEBUG] [FML]: The world 252a3b2a (world) may have leaked: seen 235 times.
+
+[23:32:41] [Server thread/DEBUG] [FML]: The world 150dbd4f (world) may have leaked: seen 235 times.
+
+[23:32:41] [Server thread/DEBUG] [FML]: The world 67b32 (world) may have leaked: seen 235 times.
+
+[23:32:41] [Server thread/DEBUG] [FML]: The world 668a6f8a (world) may have leaked: seen 235 times.
+
+[23:32:41] [Server thread/DEBUG] [FML]: The world 64ad3727 (world) may have leaked: seen 235 times.
+
+[23:32:41] [Server thread/DEBUG] [FML]: The world 15196ccd (world) may have leaked: seen 235 times.
+
+[23:32:41] [Server thread/DEBUG] [FML]: The world 5a14b469 (world) may have leaked: seen 235 times.
+
+[23:32:41] [Server thread/DEBUG] [FML]: The world 674fb1e3 (world) may have leaked: seen 235 times.
+
+[23:32:41] [Server thread/DEBUG] [FML]: The world 7c5ff36e (world) may have leaked: seen 235 times.
+
+[23:33:02] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Chrisus lost connection: Disconnected
+[23:33:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus left the game

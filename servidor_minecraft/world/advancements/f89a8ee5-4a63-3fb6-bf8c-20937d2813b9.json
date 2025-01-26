@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-01-26 23:32:54 +0000"
+    },
+    "done": true
+  },
   "aether_legacy:recipes/combat/leather_gloves": {
     "criteria": {
       "has_leather": "2025-01-26 00:00:36 +0000"
@@ -1270,6 +1276,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2025-01-25 22:31:43 +0000"
+    },
+    "done": true
+  },
+  "hbm:progress_adv": {
+    "criteria": {
+      "crafting_table": "2025-01-26 23:16:32 +0000"
     },
     "done": true
   },
