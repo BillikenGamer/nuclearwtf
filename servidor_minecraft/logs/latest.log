@@ -655,3 +655,313 @@
 [23:39:56] [Server thread/INFO] [morpheus]: Chrisus is now sleeping. 1/2 (50%)
 [23:39:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chrisus moved wrongly!
 [23:41:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] aaa
+[23:48:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Teleported Chrisus to -910.5, 11.5, -546.5]
+[23:49:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus has made the advancement [Ice Bucket Challenge]
+[23:49:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Teleported Chrisus to -883.5, 69.5, -538.5]
+[23:51:16] [Server thread/INFO] [morpheus]: Chrisus is now sleeping. 1/2 (50%)
+[23:51:16] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chrisus moved wrongly!
+[23:53:26] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@43b0bf90)
+[23:53:26] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-16, -13] in dimension -1 (the_nether) while populating chunk [-15, -12], causing cascading worldgen lag.
+[23:53:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:26] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-16, -12] in dimension -1 (the_nether) while populating chunk [-15, -11], causing cascading worldgen lag.
+[23:53:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:26] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-16, -11] in dimension -1 (the_nether) while populating chunk [-15, -10], causing cascading worldgen lag.
+[23:53:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:26] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-16, -5] in dimension -1 (the_nether) while populating chunk [-15, -4], causing cascading worldgen lag.
+[23:53:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:26] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-16, -6] in dimension -1 (the_nether) while populating chunk [-16, -5], causing cascading worldgen lag.
+[23:53:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:26] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-16, -7] in dimension -1 (the_nether) while populating chunk [-16, -5], causing cascading worldgen lag.
+[23:53:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:26] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-17, -7] in dimension -1 (the_nether) while populating chunk [-16, -7], causing cascading worldgen lag.
+[23:53:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:26] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-16, -8] in dimension -1 (the_nether) while populating chunk [-16, -7], causing cascading worldgen lag.
+[23:53:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:26] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-16, -9] in dimension -1 (the_nether) while populating chunk [-16, -8], causing cascading worldgen lag.
+[23:53:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:26] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-17, -10] in dimension -1 (the_nether) while populating chunk [-16, -9], causing cascading worldgen lag.
+[23:53:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:26] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-16, -10] in dimension -1 (the_nether) while populating chunk [-16, -8], causing cascading worldgen lag.
+[23:53:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:26] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-16, -4] in dimension -1 (the_nether) while populating chunk [-15, -3], causing cascading worldgen lag.
+[23:53:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:26] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-15, -14] in dimension -1 (the_nether) while populating chunk [-14, -13], causing cascading worldgen lag.
+[23:53:26] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:27] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-16, -2] in dimension -1 (the_nether) while populating chunk [-14, -3], causing cascading worldgen lag.
+[23:53:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:27] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-16, -3] in dimension -1 (the_nether) while populating chunk [-14, -3], causing cascading worldgen lag.
+[23:53:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:27] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-14, -2] in dimension -1 (the_nether) while populating chunk [-14, -3], causing cascading worldgen lag.
+[23:53:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:27] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-13, -3] in dimension -1 (the_nether) while populating chunk [-14, -3], causing cascading worldgen lag.
+[23:53:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:27] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-13, -4] in dimension -1 (the_nether) while populating chunk [-13, -3], causing cascading worldgen lag.
+[23:53:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:27] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-14, -14] in dimension -1 (the_nether) while populating chunk [-13, -13], causing cascading worldgen lag.
+[23:53:27] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:30] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-6, -14] in dimension -1 (the_nether) while populating chunk [-5, -13], causing cascading worldgen lag.
+[23:53:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:30] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-7, -14] in dimension -1 (the_nether) while populating chunk [-6, -14], causing cascading worldgen lag.
+[23:53:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:30] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-7, -15] in dimension -1 (the_nether) while populating chunk [-7, -14], causing cascading worldgen lag.
+[23:53:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:30] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-8, -15] in dimension -1 (the_nether) while populating chunk [-7, -15], causing cascading worldgen lag.
+[23:53:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:30] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-8, -14] in dimension -1 (the_nether) while populating chunk [-6, -14], causing cascading worldgen lag.
+[23:53:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:30] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-9, -14] in dimension -1 (the_nether) while populating chunk [-8, -14], causing cascading worldgen lag.
+[23:53:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:30] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-10, -14] in dimension -1 (the_nether) while populating chunk [-8, -14], causing cascading worldgen lag.
+[23:53:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:30] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-11, -14] in dimension -1 (the_nether) while populating chunk [-10, -14], causing cascading worldgen lag.
+[23:53:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:30] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-12, -14] in dimension -1 (the_nether) while populating chunk [-11, -14], causing cascading worldgen lag.
+[23:53:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:30] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-13, -14] in dimension -1 (the_nether) while populating chunk [-11, -14], causing cascading worldgen lag.
+[23:53:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:30] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-14, -15] in dimension -1 (the_nether) while populating chunk [-13, -14], causing cascading worldgen lag.
+[23:53:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:30] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-5, -14] in dimension -1 (the_nether) while populating chunk [-4, -13], causing cascading worldgen lag.
+[23:53:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:30] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-6, -15] in dimension -1 (the_nether) while populating chunk [-5, -14], causing cascading worldgen lag.
+[23:53:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus has made the advancement [We Need to Go Deeper]
+[23:53:32] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 6693ms behind, skipping 133 tick(s)
+[23:53:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: santydork moved too quickly! -0.6722648418839299,0.0,10.230234751458624
+[23:53:32] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-19, -11] in dimension -1 (the_nether) while populating chunk [-18, -10], causing cascading worldgen lag.
+[23:53:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:32] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-18, -8] in dimension -1 (the_nether) while populating chunk [-17, -8], causing cascading worldgen lag.
+[23:53:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:32] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-18, -9] in dimension -1 (the_nether) while populating chunk [-17, -8], causing cascading worldgen lag.
+[23:53:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:32] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-19, -10] in dimension -1 (the_nether) while populating chunk [-18, -9], causing cascading worldgen lag.
+[23:53:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:33] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-15, -15] in dimension -1 (the_nether) while populating chunk [-16, -14], causing cascading worldgen lag.
+[23:53:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:33] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-16, -15] in dimension -1 (the_nether) while populating chunk [-16, -14], causing cascading worldgen lag.
+[23:53:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:33] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-17, -14] in dimension -1 (the_nether) while populating chunk [-17, -13], causing cascading worldgen lag.
+[23:53:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:33] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-17, -15] in dimension -1 (the_nether) while populating chunk [-17, -14], causing cascading worldgen lag.
+[23:53:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:33] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-17, -16] in dimension -1 (the_nether) while populating chunk [-17, -15], causing cascading worldgen lag.
+[23:53:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:33] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-18, -6] in dimension -1 (the_nether) while populating chunk [-17, -5], causing cascading worldgen lag.
+[23:53:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:33] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-19, -7] in dimension -1 (the_nether) while populating chunk [-18, -6], causing cascading worldgen lag.
+[23:53:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:33] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-19, -8] in dimension -1 (the_nether) while populating chunk [-19, -7], causing cascading worldgen lag.
+[23:53:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:33] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-20, -8] in dimension -1 (the_nether) while populating chunk [-19, -8], causing cascading worldgen lag.
+[23:53:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:33] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-19, -9] in dimension -1 (the_nether) while populating chunk [-19, -7], causing cascading worldgen lag.
+[23:53:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:33] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-17, 2] in dimension -1 (the_nether) while populating chunk [-16, 2], causing cascading worldgen lag.
+[23:53:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:33] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-18, 1] in dimension -1 (the_nether) while populating chunk [-17, 2], causing cascading worldgen lag.
+[23:53:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:33] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-15, -16] in dimension -1 (the_nether) while populating chunk [-14, -16], causing cascading worldgen lag.
+[23:53:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:33] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-16, -16] in dimension -1 (the_nether) while populating chunk [-14, -16], causing cascading worldgen lag.
+[23:53:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:34] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-11, -16] in dimension -1 (the_nether) while populating chunk [-11, -15], causing cascading worldgen lag.
+[23:53:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:34] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-7, -17] in dimension -1 (the_nether) while populating chunk [-7, -16], causing cascading worldgen lag.
+[23:53:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:34] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-8, -17] in dimension -1 (the_nether) while populating chunk [-8, -16], causing cascading worldgen lag.
+[23:53:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:34] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-6, -17] in dimension -1 (the_nether) while populating chunk [-6, -16], causing cascading worldgen lag.
+[23:53:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:34] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-7, -18] in dimension -1 (the_nether) while populating chunk [-6, -17], causing cascading worldgen lag.
+[23:53:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:34] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-8, -18] in dimension -1 (the_nether) while populating chunk [-7, -18], causing cascading worldgen lag.
+[23:53:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:34] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-8, -19] in dimension -1 (the_nether) while populating chunk [-8, -18], causing cascading worldgen lag.
+[23:53:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:34] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-3, -14] in dimension -1 (the_nether) while populating chunk [-2, -14], causing cascading worldgen lag.
+[23:53:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:34] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-4, -15] in dimension -1 (the_nether) while populating chunk [-3, -14], causing cascading worldgen lag.
+[23:53:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:34] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-5, -16] in dimension -1 (the_nether) while populating chunk [-4, -15], causing cascading worldgen lag.
+[23:53:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:35] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-4, -14] in dimension -1 (the_nether) while populating chunk [-2, -14], causing cascading worldgen lag.
+[23:53:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:35] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-2, -15] in dimension -1 (the_nether) while populating chunk [-2, -14], causing cascading worldgen lag.
+[23:53:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:35] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-3, -15] in dimension -1 (the_nether) while populating chunk [-2, -14], causing cascading worldgen lag.
+[23:53:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:35] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-4, -16] in dimension -1 (the_nether) while populating chunk [-3, -15], causing cascading worldgen lag.
+[23:53:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:35] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-5, -17] in dimension -1 (the_nether) while populating chunk [-4, -16], causing cascading worldgen lag.
+[23:53:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:35] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-6, -18] in dimension -1 (the_nether) while populating chunk [-5, -17], causing cascading worldgen lag.
+[23:53:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:35] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-19, 0] in dimension -1 (the_nether) while populating chunk [-18, 0], causing cascading worldgen lag.
+[23:53:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:35] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-18, -1] in dimension -1 (the_nether) while populating chunk [-18, 0], causing cascading worldgen lag.
+[23:53:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:35] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-18, -2] in dimension -1 (the_nether) while populating chunk [-18, -1], causing cascading worldgen lag.
+[23:53:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:35] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-19, -2] in dimension -1 (the_nether) while populating chunk [-18, -2], causing cascading worldgen lag.
+[23:53:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:35] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-18, -3] in dimension -1 (the_nether) while populating chunk [-18, -1], causing cascading worldgen lag.
+[23:53:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:35] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-19, -3] in dimension -1 (the_nether) while populating chunk [-18, -3], causing cascading worldgen lag.
+[23:53:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:35] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-18, -4] in dimension -1 (the_nether) while populating chunk [-18, -3], causing cascading worldgen lag.
+[23:53:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:35] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-19, -6] in dimension -1 (the_nether) while populating chunk [-18, -4], causing cascading worldgen lag.
+[23:53:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:35] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-19, -4] in dimension -1 (the_nether) while populating chunk [-18, -4], causing cascading worldgen lag.
+[23:53:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:35] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-19, -5] in dimension -1 (the_nether) while populating chunk [-18, -4], causing cascading worldgen lag.
+[23:53:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:35] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-18, -5] in dimension -1 (the_nether) while populating chunk [-18, -3], causing cascading worldgen lag.
+[23:53:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:35] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-19, -1] in dimension -1 (the_nether) while populating chunk [-18, 0], causing cascading worldgen lag.
+[23:53:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:35] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-20, -1] in dimension -1 (the_nether) while populating chunk [-19, -1], causing cascading worldgen lag.
+[23:53:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:35] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-20, -2] in dimension -1 (the_nether) while populating chunk [-19, -1], causing cascading worldgen lag.
+[23:53:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:35] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-20, -3] in dimension -1 (the_nether) while populating chunk [-20, -2], causing cascading worldgen lag.
+[23:53:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:35] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-20, -4] in dimension -1 (the_nether) while populating chunk [-20, -3], causing cascading worldgen lag.
+[23:53:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:35] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-20, -5] in dimension -1 (the_nether) while populating chunk [-20, -3], causing cascading worldgen lag.
+[23:53:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:35] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-21, -5] in dimension -1 (the_nether) while populating chunk [-20, -5], causing cascading worldgen lag.
+[23:53:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:35] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-20, -6] in dimension -1 (the_nether) while populating chunk [-20, -5], causing cascading worldgen lag.
+[23:53:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:35] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-21, -6] in dimension -1 (the_nether) while populating chunk [-20, -5], causing cascading worldgen lag.
+[23:53:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:35] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-21, -7] in dimension -1 (the_nether) while populating chunk [-21, -6], causing cascading worldgen lag.
+[23:53:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:35] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-21, -8] in dimension -1 (the_nether) while populating chunk [-21, -6], causing cascading worldgen lag.
+[23:53:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:35] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-22, -8] in dimension -1 (the_nether) while populating chunk [-21, -8], causing cascading worldgen lag.
+[23:53:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:35] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-22, -7] in dimension -1 (the_nether) while populating chunk [-21, -6], causing cascading worldgen lag.
+[23:53:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:35] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-20, -7] in dimension -1 (the_nether) while populating chunk [-20, -5], causing cascading worldgen lag.
+[23:53:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:35] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-21, -7] in dimension -1 (the_nether) while populating chunk [-20, -5], causing cascading worldgen lag.
+[23:53:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:35] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-21, -4] in dimension -1 (the_nether) while populating chunk [-20, -3], causing cascading worldgen lag.
+[23:53:35] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:35] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chrisus moved too quickly! 774.3954699695317,9.0,475.4310688439423
+[23:53:36] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-19, 3] in dimension -1 (the_nether) while populating chunk [-18, 3], causing cascading worldgen lag.
+[23:53:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:36] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-19, 2] in dimension -1 (the_nether) while populating chunk [-18, 3], causing cascading worldgen lag.
+[23:53:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:36] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-19, 1] in dimension -1 (the_nether) while populating chunk [-18, 3], causing cascading worldgen lag.
+[23:53:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:36] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-20, 1] in dimension -1 (the_nether) while populating chunk [-19, 1], causing cascading worldgen lag.
+[23:53:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:36] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-21, 1] in dimension -1 (the_nether) while populating chunk [-20, 1], causing cascading worldgen lag.
+[23:53:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:36] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-20, 0] in dimension -1 (the_nether) while populating chunk [-19, 1], causing cascading worldgen lag.
+[23:53:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:37] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-11, 4] in dimension -1 (the_nether) while populating chunk [-10, 4], causing cascading worldgen lag.
+[23:53:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:37] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-9, -17] in dimension -1 (the_nether) while populating chunk [-9, -16], causing cascading worldgen lag.
+[23:53:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:37] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-9, -18] in dimension -1 (the_nether) while populating chunk [-9, -17], causing cascading worldgen lag.
+[23:53:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:37] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-9, -19] in dimension -1 (the_nether) while populating chunk [-9, -17], causing cascading worldgen lag.
+[23:53:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:37] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-10, -19] in dimension -1 (the_nether) while populating chunk [-9, -19], causing cascading worldgen lag.
+[23:53:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:37] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-11, -19] in dimension -1 (the_nether) while populating chunk [-10, -19], causing cascading worldgen lag.
+[23:53:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:37] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-10, -20] in dimension -1 (the_nether) while populating chunk [-9, -19], causing cascading worldgen lag.
+[23:53:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:37] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-11, -20] in dimension -1 (the_nether) while populating chunk [-10, -20], causing cascading worldgen lag.
+[23:53:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:37] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-11, -21] in dimension -1 (the_nether) while populating chunk [-11, -20], causing cascading worldgen lag.
+[23:53:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:37] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-12, -20] in dimension -1 (the_nether) while populating chunk [-11, -20], causing cascading worldgen lag.
+[23:53:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:37] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-10, -21] in dimension -1 (the_nether) while populating chunk [-10, -20], causing cascading worldgen lag.
+[23:53:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:37] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-10, -22] in dimension -1 (the_nether) while populating chunk [-10, -21], causing cascading worldgen lag.
+[23:53:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:37] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-11, -22] in dimension -1 (the_nether) while populating chunk [-10, -22], causing cascading worldgen lag.
+[23:53:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:37] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-10, -17] in dimension -1 (the_nether) while populating chunk [-10, -16], causing cascading worldgen lag.
+[23:53:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:37] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-11, -17] in dimension -1 (the_nether) while populating chunk [-10, -16], causing cascading worldgen lag.
+[23:53:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:37] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-10, -18] in dimension -1 (the_nether) while populating chunk [-10, -16], causing cascading worldgen lag.
+[23:53:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:37] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-11, -18] in dimension -1 (the_nether) while populating chunk [-10, -16], causing cascading worldgen lag.
+[23:53:37] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:38] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-12, -17] in dimension -1 (the_nether) while populating chunk [-12, -16], causing cascading worldgen lag.
+[23:53:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:38] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-12, -18] in dimension -1 (the_nether) while populating chunk [-12, -17], causing cascading worldgen lag.
+[23:53:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:38] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-12, -19] in dimension -1 (the_nether) while populating chunk [-12, -17], causing cascading worldgen lag.
+[23:53:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:38] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-4, -17] in dimension -1 (the_nether) while populating chunk [-3, -16], causing cascading worldgen lag.
+[23:53:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:38] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-5, -18] in dimension -1 (the_nether) while populating chunk [-4, -17], causing cascading worldgen lag.
+[23:53:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:38] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-3, -17] in dimension -1 (the_nether) while populating chunk [-2, -16], causing cascading worldgen lag.
+[23:53:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:39] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-2, -17] in dimension -1 (the_nether) while populating chunk [-1, -16], causing cascading worldgen lag.
+[23:53:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:39] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [1, -16] in dimension -1 (the_nether) while populating chunk [2, -15], causing cascading worldgen lag.
+[23:53:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:39] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [0, -17] in dimension -1 (the_nether) while populating chunk [1, -16], causing cascading worldgen lag.
+[23:53:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:39] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-1, -17] in dimension -1 (the_nether) while populating chunk [1, -16], causing cascading worldgen lag.
+[23:53:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:39] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-2, -18] in dimension -1 (the_nether) while populating chunk [-1, -17], causing cascading worldgen lag.
+[23:53:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:39] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-3, -18] in dimension -1 (the_nether) while populating chunk [-2, -18], causing cascading worldgen lag.
+[23:53:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:39] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-4, -18] in dimension -1 (the_nether) while populating chunk [-2, -18], causing cascading worldgen lag.
+[23:53:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:39] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [1, -17] in dimension -1 (the_nether) while populating chunk [2, -16], causing cascading worldgen lag.
+[23:53:39] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:53:59] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-10, 7] in dimension -1 (the_nether) while populating chunk [-9, 7], causing cascading worldgen lag.
+[23:53:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:54:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus burned to death
+[23:54:48] [Server thread/INFO] [tombstone]: The last known grave of Chrisus is at location [name:Last Grave, x:-97, y:70, z:-88] in the dimension -1
+[23:54:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus has made the advancement [Your First Grave]
+[23:54:48] [Server thread/INFO] [tombstone]: Chrisus has successfully been saved
+[23:55:00] [Server thread/INFO] [FML]: Unloading dimension -1
+[23:55:04] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@43b0bf90)
+[23:55:05] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chrisus moved too quickly! 774.3695241465582,9.0,475.83047584152087
+[23:55:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported santydork to -881.5, 69.5, -540.5]
+[23:56:36] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [4, -14] in dimension -1 (the_nether) while populating chunk [5, -14], causing cascading worldgen lag.
+[23:56:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:56:53] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [4, -17] in dimension -1 (the_nether) while populating chunk [5, -16], causing cascading worldgen lag.
+[23:56:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:56:53] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [3, -18] in dimension -1 (the_nether) while populating chunk [4, -17], causing cascading worldgen lag.
+[23:56:53] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:56:54] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [6, -16] in dimension -1 (the_nether) while populating chunk [7, -15], causing cascading worldgen lag.
+[23:56:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:56:54] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [5, -17] in dimension -1 (the_nether) while populating chunk [6, -16], causing cascading worldgen lag.
+[23:56:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:56:54] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [6, -17] in dimension -1 (the_nether) while populating chunk [7, -16], causing cascading worldgen lag.
+[23:56:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:57:00] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [7, -15] in dimension -1 (the_nether) while populating chunk [8, -15], causing cascading worldgen lag.
+[23:57:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:57:00] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [7, -16] in dimension -1 (the_nether) while populating chunk [8, -15], causing cascading worldgen lag.
+[23:57:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:57:00] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [7, -17] in dimension -1 (the_nether) while populating chunk [8, -16], causing cascading worldgen lag.
+[23:57:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:57:00] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [6, -18] in dimension -1 (the_nether) while populating chunk [7, -17], causing cascading worldgen lag.
+[23:57:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:57:00] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [5, -18] in dimension -1 (the_nether) while populating chunk [6, -18], causing cascading worldgen lag.
+[23:57:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:57:00] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [4, -18] in dimension -1 (the_nether) while populating chunk [6, -18], causing cascading worldgen lag.
+[23:57:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:57:00] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [4, -19] in dimension -1 (the_nether) while populating chunk [4, -18], causing cascading worldgen lag.
+[23:57:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:57:00] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [3, -19] in dimension -1 (the_nether) while populating chunk [4, -18], causing cascading worldgen lag.
+[23:57:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:57:00] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [2, -19] in dimension -1 (the_nether) while populating chunk [3, -19], causing cascading worldgen lag.
+[23:57:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
