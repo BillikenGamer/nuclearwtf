@@ -815,3 +815,10 @@
 [01:45:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Teleported Chrisus to -910.5, 11.5, -546.5]
 [01:45:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Teleported Chrisus to -821.5, 70.5, -863.5]
 [01:45:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Teleported Chrisus to -883.5, 69.5, -538.5]
+[01:52:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported santydork to -742.5, 69.5, -656.5]
+[01:53:19] [Server thread/INFO] [morpheus]: Chrisus is now sleeping. 1/2 (50%)
+[01:53:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chrisus moved wrongly!
+[01:56:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported santydork to Chrisus]
+[01:56:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus was slain by santydork
+[01:58:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus has made the advancement [Under Pressure]
+[01:58:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santydork has made the advancement [Under Pressure]
