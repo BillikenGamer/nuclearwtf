@@ -771,3 +771,7 @@
 [00:55:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Teleported santydork to Chrisus]
 [00:58:23] [Server thread/INFO] [morpheus]: santydork is now sleeping. 1/2 (50%)
 [00:58:23] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: santydork moved wrongly!
+[01:01:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus has made the advancement [Suit Up]
+[01:06:21] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-70, -28] in dimension 0 (overworld) while populating chunk [-69, -28], causing cascading worldgen lag.
+[01:06:21] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:07:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Teleported santydork to Chrisus]
