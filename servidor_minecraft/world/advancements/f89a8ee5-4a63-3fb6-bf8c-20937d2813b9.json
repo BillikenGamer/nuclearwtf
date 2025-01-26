@@ -375,6 +375,7 @@
     "criteria": {
       "cooked_beef": "2025-01-26 00:45:44 +0000",
       "beef": "2025-01-25 23:15:04 +0000",
+      "baked_potato": "2025-01-26 01:38:09 +0000",
       "carrot": "2025-01-25 23:56:24 +0000"
     },
     "done": false
@@ -571,6 +572,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-01-26 01:38:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-01-26 00:00:36 +0000"
@@ -701,6 +708,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-01-26 00:34:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-01-26 01:35:45 +0000"
     },
     "done": true
   },
@@ -907,7 +920,8 @@
       "skeleton": "2025-01-25 22:35:47 +0000",
       "zombie": "2025-01-25 22:31:22 +0000",
       "witch": "2025-01-26 00:43:38 +0000",
-      "spider": "2025-01-25 22:40:41 +0000"
+      "spider": "2025-01-25 22:40:41 +0000",
+      "creeper": "2025-01-26 01:38:34 +0000"
     },
     "done": false
   },

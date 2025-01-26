@@ -803,3 +803,8 @@
 [01:20:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santydork was slain by Chrisus
 [01:23:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus has made the advancement [Cover Me With Diamonds]
 [01:24:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santydork has made the advancement [Cover Me With Diamonds]
+[01:31:57] [Server thread/INFO] [morpheus]: santydork is now sleeping. 1/2 (50%)
+[01:35:36] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-61, -20] in dimension 0 (overworld) while populating chunk [-60, -20], causing cascading worldgen lag.
+[01:35:36] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:35:45] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-62, -18] in dimension 0 (overworld) while populating chunk [-61, -18], causing cascading worldgen lag.
+[01:35:45] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
