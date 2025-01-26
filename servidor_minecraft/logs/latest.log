@@ -713,3 +713,8 @@
 [00:17:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported santydork to Chrisus]
 [00:17:49] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-67, -30] in dimension 0 (overworld) while populating chunk [-66, -30], causing cascading worldgen lag.
 [00:17:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:19:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus has made the advancement [Acquire Hardware]
+[00:20:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santydork has made the advancement [Sweet dreams]
+[00:20:19] [Server thread/INFO] [morpheus]: santydork is now sleeping. 1/2 (50%)
+[00:20:19] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: santydork moved wrongly!
+[00:21:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Enchanting succeeded]
