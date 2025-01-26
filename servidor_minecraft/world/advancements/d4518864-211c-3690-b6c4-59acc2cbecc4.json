@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-01-26 02:26:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wooden_slab": {
     "criteria": {
       "has_planks": "2025-01-25 23:50:49 +0000"
@@ -74,6 +80,12 @@
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-26 01:40:04 +0000"
+    },
+    "done": true
+  },
+  "aether_legacy:recipes/building_blocks/skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-26 02:26:23 +0000"
     },
     "done": true
   },
@@ -419,6 +431,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-01-26 01:05:51 +0000"
+    },
+    "done": true
+  },
+  "hbm:progress_assembler": {
+    "criteria": {
+      "crafting_table": "2025-01-26 02:22:06 +0000"
     },
     "done": true
   },
@@ -864,6 +882,12 @@
     },
     "done": true
   },
+  "aether_legacy:recipes/misc/book_of_lore": {
+    "criteria": {
+      "has_book": "2025-01-26 02:26:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-01-25 23:50:57 +0000"
@@ -1062,6 +1086,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-01-26 02:26:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fence": {
     "criteria": {
       "has_planks": "2025-01-25 23:50:49 +0000"
@@ -1146,6 +1176,12 @@
     },
     "done": true
   },
+  "hbm:bobmetalworks": {
+    "criteria": {
+      "crafting_table": "2025-01-26 02:12:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/noteblock": {
     "criteria": {
       "has_redstone": "2025-01-26 01:14:42 +0000"
@@ -1214,6 +1250,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-01-26 00:01:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-01-26 02:26:23 +0000"
     },
     "done": true
   },
