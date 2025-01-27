@@ -33172,3 +33172,656 @@ Caused by: java.io.FileNotFoundException: https://raw.githubusercontent.com/Modd
 [23:57:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [23:57:00] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [2, -19] in dimension -1 (the_nether) while populating chunk [3, -19], causing cascading worldgen lag.
 [23:57:00] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:57:07] [Server thread/DEBUG] [adlods]: DepositGenResult { Name = emerald, Size = 0, BlockPos{x=159, y=5, z=-210}, Chunk[9, -14] }
+[23:57:07] [Server thread/DEBUG] [adlods]: DepositGenResult { Name = emerald, Size = 0, BlockPos{x=158, y=10, z=-209}, Chunk[9, -14] }
+[23:57:07] [Server thread/DEBUG] [adlods]: DepositGenResult { Name = emerald, Size = 0, BlockPos{x=154, y=14, z=-210}, Chunk[9, -14] }
+[23:57:07] [Server thread/DEBUG] [adlods]: DepositGenResult { Name = emerald, Size = 0, BlockPos{x=152, y=10, z=-205}, Chunk[9, -13] }
+[23:57:07] [Server thread/DEBUG] [adlods]: DepositGenResult { Name = emerald, Size = 0, BlockPos{x=159, y=14, z=-210}, Chunk[9, -14] }
+[23:57:07] [Server thread/DEBUG] [adlods]: DepositGenResult { Name = emerald, Size = 0, BlockPos{x=152, y=11, z=-205}, Chunk[9, -13] }
+[23:57:07] [Server thread/DEBUG] [adlods]: DepositGenResult { Name = emerald, Size = 0, BlockPos{x=158, y=8, z=-206}, Chunk[9, -13] }
+[23:57:07] [Server thread/DEBUG] [adlods]: DepositGenResult { Name = emerald, Size = 0, BlockPos{x=166, y=5, z=-213}, Chunk[10, -14] }
+[23:57:07] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [8, -17] in dimension -1 (the_nether) while populating chunk [9, -16], causing cascading worldgen lag.
+[23:57:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:57:07] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [7, -18] in dimension -1 (the_nether) while populating chunk [8, -17], causing cascading worldgen lag.
+[23:57:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:57:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:57:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus has made the advancement [Yay, Radiation!]
+[23:57:24] [Server thread/DEBUG] [FML]: The world 76e2e931 (world) may have leaked: seen 15 times.
+
+[23:57:44] [Server thread/DEBUG] [FML]: The world 4e0fbeac (world) may have leaked: seen 120 times.
+
+[23:57:44] [Server thread/DEBUG] [FML]: The world 5ff22d9e (world) may have leaked: seen 120 times.
+
+[23:57:44] [Server thread/DEBUG] [FML]: The world 659448af (world) may have leaked: seen 120 times.
+
+[23:57:44] [Server thread/DEBUG] [FML]: The world 64eb806a (world) may have leaked: seen 120 times.
+
+[23:57:44] [Server thread/DEBUG] [FML]: The world 38fd1065 (world) may have leaked: seen 120 times.
+
+[23:57:44] [Server thread/DEBUG] [FML]: The world 49b2cf31 (world) may have leaked: seen 120 times.
+
+[23:57:44] [Server thread/DEBUG] [FML]: The world 39a636d4 (world) may have leaked: seen 120 times.
+
+[23:57:44] [Server thread/DEBUG] [FML]: The world 3ff949a3 (world) may have leaked: seen 120 times.
+
+[23:57:44] [Server thread/DEBUG] [FML]: The world 26582c42 (world) may have leaked: seen 120 times.
+
+[23:57:44] [Server thread/DEBUG] [FML]: The world 4eea0b61 (world) may have leaked: seen 120 times.
+
+[23:57:44] [Server thread/DEBUG] [FML]: The world 16b19e38 (world) may have leaked: seen 120 times.
+
+[23:57:44] [Server thread/DEBUG] [FML]: The world 71d048b8 (world) may have leaked: seen 120 times.
+
+[23:57:44] [Server thread/DEBUG] [FML]: The world 4428a4a3 (world) may have leaked: seen 120 times.
+
+[23:57:44] [Server thread/DEBUG] [FML]: The world 4e01c243 (world) may have leaked: seen 120 times.
+
+[23:57:44] [Server thread/DEBUG] [FML]: The world 4c80c5ea (world) may have leaked: seen 120 times.
+
+[23:57:44] [Server thread/DEBUG] [FML]: The world 7c2a4a88 (world) may have leaked: seen 120 times.
+
+[23:57:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:58:14] [Server thread/DEBUG] [FML]: The world 76e2e931 (world) may have leaked: seen 20 times.
+
+[23:58:15] [Server thread/DEBUG] [adlods]: DepositGenResult { Name = iron, Size = 0, BlockPos{x=209, y=56, z=-56}, Chunk[13, -4] }
+[23:58:15] [Server thread/DEBUG] [adlods]: DepositGenResult { Name = iron, Size = 0, BlockPos{x=213, y=23, z=-47}, Chunk[13, -3] }
+[23:58:15] [Server thread/DEBUG] [adlods]: DepositGenResult { Name = iron, Size = 0, BlockPos{x=206, y=20, z=-41}, Chunk[12, -3] }
+[23:58:15] [Server thread/DEBUG] [adlods]: DepositGenResult { Name = iron, Size = 0, BlockPos{x=212, y=57, z=-56}, Chunk[13, -4] }
+[23:58:15] [Server thread/DEBUG] [adlods]: DepositGenResult { Name = iron, Size = 0, BlockPos{x=208, y=52, z=-44}, Chunk[13, -3] }
+[23:58:15] [Server thread/DEBUG] [adlods]: DepositGenResult { Name = iron, Size = 0, BlockPos{x=210, y=47, z=-51}, Chunk[13, -4] }
+[23:58:15] [Server thread/DEBUG] [adlods]: DepositGenResult { Name = iron, Size = 0, BlockPos{x=212, y=51, z=-41}, Chunk[13, -3] }
+[23:58:15] [Server thread/DEBUG] [adlods]: DepositGenResult { Name = iron, Size = 0, BlockPos{x=210, y=16, z=-55}, Chunk[13, -4] }
+[23:58:18] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [10, -15] in dimension -1 (the_nether) while populating chunk [11, -15], causing cascading worldgen lag.
+[23:58:18] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:58:18] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [10, -16] in dimension -1 (the_nether) while populating chunk [11, -15], causing cascading worldgen lag.
+[23:58:18] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:58:18] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [11, -16] in dimension -1 (the_nether) while populating chunk [12, -15], causing cascading worldgen lag.
+[23:58:18] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:58:34] [Server thread/DEBUG] [FML]: The world 4e0fbeac (world) may have leaked: seen 125 times.
+
+[23:58:34] [Server thread/DEBUG] [FML]: The world 5ff22d9e (world) may have leaked: seen 125 times.
+
+[23:58:34] [Server thread/DEBUG] [FML]: The world 659448af (world) may have leaked: seen 125 times.
+
+[23:58:34] [Server thread/DEBUG] [FML]: The world 64eb806a (world) may have leaked: seen 125 times.
+
+[23:58:34] [Server thread/DEBUG] [FML]: The world 38fd1065 (world) may have leaked: seen 125 times.
+
+[23:58:34] [Server thread/DEBUG] [FML]: The world 49b2cf31 (world) may have leaked: seen 125 times.
+
+[23:58:34] [Server thread/DEBUG] [FML]: The world 39a636d4 (world) may have leaked: seen 125 times.
+
+[23:58:34] [Server thread/DEBUG] [FML]: The world 3ff949a3 (world) may have leaked: seen 125 times.
+
+[23:58:34] [Server thread/DEBUG] [FML]: The world 26582c42 (world) may have leaked: seen 125 times.
+
+[23:58:34] [Server thread/DEBUG] [FML]: The world 4eea0b61 (world) may have leaked: seen 125 times.
+
+[23:58:34] [Server thread/DEBUG] [FML]: The world 16b19e38 (world) may have leaked: seen 125 times.
+
+[23:58:34] [Server thread/DEBUG] [FML]: The world 71d048b8 (world) may have leaked: seen 125 times.
+
+[23:58:34] [Server thread/DEBUG] [FML]: The world 4428a4a3 (world) may have leaked: seen 125 times.
+
+[23:58:34] [Server thread/DEBUG] [FML]: The world 4e01c243 (world) may have leaked: seen 125 times.
+
+[23:58:34] [Server thread/DEBUG] [FML]: The world 4c80c5ea (world) may have leaked: seen 125 times.
+
+[23:58:34] [Server thread/DEBUG] [FML]: The world 7c2a4a88 (world) may have leaked: seen 125 times.
+
+[23:58:42] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [12, -17] in dimension -1 (the_nether) while populating chunk [12, -16], causing cascading worldgen lag.
+[23:58:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:58:42] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [12, -18] in dimension -1 (the_nether) while populating chunk [12, -17], causing cascading worldgen lag.
+[23:58:42] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:58:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:58:47] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [2, -18] in dimension -1 (the_nether) while populating chunk [3, -17], causing cascading worldgen lag.
+[23:58:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:58:47] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [9, -17] in dimension -1 (the_nether) while populating chunk [10, -17], causing cascading worldgen lag.
+[23:58:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:58:47] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [12, -18] in dimension -1 (the_nether) while populating chunk [13, -18], causing cascading worldgen lag.
+[23:58:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:58:47] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [11, -18] in dimension -1 (the_nether) while populating chunk [13, -18], causing cascading worldgen lag.
+[23:58:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:58:51] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [8, -19] in dimension -1 (the_nether) while populating chunk [8, -18], causing cascading worldgen lag.
+[23:58:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:58:51] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [12, -19] in dimension -1 (the_nether) while populating chunk [13, -19], causing cascading worldgen lag.
+[23:58:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:58:51] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [11, -19] in dimension -1 (the_nether) while populating chunk [13, -19], causing cascading worldgen lag.
+[23:58:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:58:51] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [10, -19] in dimension -1 (the_nether) while populating chunk [10, -18], causing cascading worldgen lag.
+[23:58:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:58:51] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [9, -19] in dimension -1 (the_nether) while populating chunk [10, -18], causing cascading worldgen lag.
+[23:58:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:58:51] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [8, -20] in dimension -1 (the_nether) while populating chunk [9, -19], causing cascading worldgen lag.
+[23:58:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:58:51] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [7, -20] in dimension -1 (the_nether) while populating chunk [8, -20], causing cascading worldgen lag.
+[23:58:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:58:51] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [7, -21] in dimension -1 (the_nether) while populating chunk [7, -20], causing cascading worldgen lag.
+[23:58:51] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:58:51] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [5, -19] in dimension -1 (the_nether) while populating chunk [6, -19], causing cascading worldgen lag.
+[23:58:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:58:52] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [4, -19] in dimension -1 (the_nether) while populating chunk [5, -19], causing cascading worldgen lag.
+[23:58:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:58:52] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [6, -20] in dimension -1 (the_nether) while populating chunk [5, -19], causing cascading worldgen lag.
+[23:58:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:58:52] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [5, -20] in dimension -1 (the_nether) while populating chunk [5, -19], causing cascading worldgen lag.
+[23:58:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:58:52] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [5, -21] in dimension -1 (the_nether) while populating chunk [5, -20], causing cascading worldgen lag.
+[23:58:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:58:52] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [4, -20] in dimension -1 (the_nether) while populating chunk [5, -21], causing cascading worldgen lag.
+[23:58:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:58:52] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [4, -21] in dimension -1 (the_nether) while populating chunk [5, -21], causing cascading worldgen lag.
+[23:58:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:58:52] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [3, -21] in dimension -1 (the_nether) while populating chunk [4, -21], causing cascading worldgen lag.
+[23:58:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:58:52] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [6, -21] in dimension -1 (the_nether) while populating chunk [5, -19], causing cascading worldgen lag.
+[23:58:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:58:52] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [6, -22] in dimension -1 (the_nether) while populating chunk [6, -21], causing cascading worldgen lag.
+[23:58:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:58:52] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [5, -22] in dimension -1 (the_nether) while populating chunk [6, -22], causing cascading worldgen lag.
+[23:58:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:58:52] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [4, -22] in dimension -1 (the_nether) while populating chunk [6, -22], causing cascading worldgen lag.
+[23:58:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:58:52] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [5, -21] in dimension -1 (the_nether) while populating chunk [5, -19], causing cascading worldgen lag.
+[23:58:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:58:52] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-2, -19] in dimension -1 (the_nether) while populating chunk [-1, -19], causing cascading worldgen lag.
+[23:58:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:58:52] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-3, -19] in dimension -1 (the_nether) while populating chunk [-2, -19], causing cascading worldgen lag.
+[23:58:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:58:52] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-4, -19] in dimension -1 (the_nether) while populating chunk [-3, -19], causing cascading worldgen lag.
+[23:58:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:58:52] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-5, -19] in dimension -1 (the_nether) while populating chunk [-4, -19], causing cascading worldgen lag.
+[23:58:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:58:52] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-6, -19] in dimension -1 (the_nether) while populating chunk [-5, -19], causing cascading worldgen lag.
+[23:58:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:58:52] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-6, -20] in dimension -1 (the_nether) while populating chunk [-6, -19], causing cascading worldgen lag.
+[23:58:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:58:52] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-4, -20] in dimension -1 (the_nether) while populating chunk [-4, -19], causing cascading worldgen lag.
+[23:58:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:58:52] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-5, -20] in dimension -1 (the_nether) while populating chunk [-4, -19], causing cascading worldgen lag.
+[23:58:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:58:52] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-5, -21] in dimension -1 (the_nether) while populating chunk [-5, -20], causing cascading worldgen lag.
+[23:58:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:58:52] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-6, -21] in dimension -1 (the_nether) while populating chunk [-5, -21], causing cascading worldgen lag.
+[23:58:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:58:52] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-6, -22] in dimension -1 (the_nether) while populating chunk [-5, -21], causing cascading worldgen lag.
+[23:58:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:58:52] [Server thread/DEBUG] [adlods]: DepositGenResult { Name = iron, Size = 0, BlockPos{x=-58, y=42, z=-323}, Chunk[-4, -21] }
+[23:58:52] [Server thread/DEBUG] [adlods]: DepositGenResult { Name = iron, Size = 0, BlockPos{x=-69, y=60, z=-318}, Chunk[-5, -20] }
+[23:58:52] [Server thread/DEBUG] [adlods]: DepositGenResult { Name = iron, Size = 0, BlockPos{x=-65, y=19, z=-315}, Chunk[-5, -20] }
+[23:58:52] [Server thread/DEBUG] [adlods]: DepositGenResult { Name = iron, Size = 0, BlockPos{x=-58, y=22, z=-313}, Chunk[-4, -20] }
+[23:58:52] [Server thread/DEBUG] [adlods]: DepositGenResult { Name = iron, Size = 0, BlockPos{x=-63, y=42, z=-320}, Chunk[-4, -20] }
+[23:58:52] [Server thread/DEBUG] [adlods]: DepositGenResult { Name = iron, Size = 0, BlockPos{x=-71, y=64, z=-318}, Chunk[-5, -20] }
+[23:58:52] [Server thread/DEBUG] [adlods]: DepositGenResult { Name = iron, Size = 0, BlockPos{x=-61, y=24, z=-325}, Chunk[-4, -21] }
+[23:58:52] [Server thread/DEBUG] [adlods]: DepositGenResult { Name = iron, Size = 0, BlockPos{x=-67, y=41, z=-318}, Chunk[-5, -20] }
+[23:58:52] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-3, -20] in dimension -1 (the_nether) while populating chunk [-1, -19], causing cascading worldgen lag.
+[23:58:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:58:52] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-4, -21] in dimension -1 (the_nether) while populating chunk [-3, -20], causing cascading worldgen lag.
+[23:58:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:58:52] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-5, -22] in dimension -1 (the_nether) while populating chunk [-4, -21], causing cascading worldgen lag.
+[23:58:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:58:52] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-2, -20] in dimension -1 (the_nether) while populating chunk [-1, -19], causing cascading worldgen lag.
+[23:58:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:58:52] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-3, -21] in dimension -1 (the_nether) while populating chunk [-2, -20], causing cascading worldgen lag.
+[23:58:52] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:59:04] [Server thread/DEBUG] [FML]: The world 76e2e931 (world) may have leaked: seen 25 times.
+
+[23:59:24] [Server thread/DEBUG] [FML]: The world 4e0fbeac (world) may have leaked: seen 130 times.
+
+[23:59:24] [Server thread/DEBUG] [FML]: The world 5ff22d9e (world) may have leaked: seen 130 times.
+
+[23:59:24] [Server thread/DEBUG] [FML]: The world 659448af (world) may have leaked: seen 130 times.
+
+[23:59:24] [Server thread/DEBUG] [FML]: The world 64eb806a (world) may have leaked: seen 130 times.
+
+[23:59:24] [Server thread/DEBUG] [FML]: The world 38fd1065 (world) may have leaked: seen 130 times.
+
+[23:59:24] [Server thread/DEBUG] [FML]: The world 49b2cf31 (world) may have leaked: seen 130 times.
+
+[23:59:24] [Server thread/DEBUG] [FML]: The world 39a636d4 (world) may have leaked: seen 130 times.
+
+[23:59:24] [Server thread/DEBUG] [FML]: The world 3ff949a3 (world) may have leaked: seen 130 times.
+
+[23:59:24] [Server thread/DEBUG] [FML]: The world 26582c42 (world) may have leaked: seen 130 times.
+
+[23:59:24] [Server thread/DEBUG] [FML]: The world 4eea0b61 (world) may have leaked: seen 130 times.
+
+[23:59:24] [Server thread/DEBUG] [FML]: The world 16b19e38 (world) may have leaked: seen 130 times.
+
+[23:59:24] [Server thread/DEBUG] [FML]: The world 71d048b8 (world) may have leaked: seen 130 times.
+
+[23:59:24] [Server thread/DEBUG] [FML]: The world 4428a4a3 (world) may have leaked: seen 130 times.
+
+[23:59:24] [Server thread/DEBUG] [FML]: The world 4e01c243 (world) may have leaked: seen 130 times.
+
+[23:59:24] [Server thread/DEBUG] [FML]: The world 4c80c5ea (world) may have leaked: seen 130 times.
+
+[23:59:24] [Server thread/DEBUG] [FML]: The world 7c2a4a88 (world) may have leaked: seen 130 times.
+
+[23:59:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[23:59:34] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [15, -13] in dimension -1 (the_nether) while populating chunk [15, -12], causing cascading worldgen lag.
+[23:59:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:59:34] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [15, -16] in dimension -1 (the_nether) while populating chunk [15, -15], causing cascading worldgen lag.
+[23:59:34] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:59:50] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Chrisus lost connection: Disconnected
+[23:59:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus left the game
+[23:59:52] [Server thread/TRACE] [FML]: Handshake channel activating
+[23:59:52] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[23:59:52] [Server thread/DEBUG] [FML]:   Next: HELLO
+[23:59:52] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[23:59:52] [Netty Epoll Server IO #5/INFO] [FML]: Client protocol version 2
+[23:59:52] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $ModList:69 mods->FMLHandshakeServerState$2:HELLO
+[23:59:52] [Netty Epoll Server IO #5/INFO] [FML]: Client attempting to join with 69 mods : extendedrenderer@v1.0,mixinbooter@10.4,trashslot@8.4.10,cgm@0.15.3,hats@7.1.1,wi-zoom@1.0,bountifulbaubles@0.0.1,configmod@v1.0,mmorpg@1.9.6,jei@4.16.1.1013,mekanism@1.12.2-9.8.3.390,bettercaves@1.12.2,forgeendertech@1.12.2-4.5.6.1,mcp@9.42,clumps@3.1.2,controlling@3.0.10,ctm@MC1.12.2-1.0.2.31,xaeroworldmap@1.39.2,artifacts@1.12.2-1.2.4,sereneseasons@1.2.18,zombieawareness@1.12.1-1.11.16,adhooks@1.12.2-3.3.1.0,uteamcore@2.2.5.339,morpheus@1.12.2-3.5.106,mahoutsukai@1.12.2-v1.19.55,resourcify@1.6.1,hordes@1.5.3a,normalasm@5.24,mekanismgenerators@1.12.2-9.8.3.390,ichunutil@7.2.2,hbm@NTM-Extended-1.12.2-2.0.2,skinlayers3d@1.2.0,forge@14.23.5.2859,xaeroworldmap_core@1.12.2-1.0,twilightforest@3.11.1021,simpledivegear@1.1.1,minecraft@1.12.2,usefulbackpacks@1.5.4.85,mousetweaks@2.10.1,baubles@1.5.2,adlods@1.12.2-1.0.8.0,vehicle@0.44.1,vintagefix@0.5.1,fermiumbooter@1.1.1,villagespawnpoint@1.8,roguelike@2.4.6,ezstorage@2.5.0,patchouli@1.0-23.6,xaerominimap@25.0.0,collective@3.0,camera@1.0.10,entityculling@@VER@,offlineskins@1.12.2-v6,FML@8.0.99.99,obfuscate@0.4.2,farsight@1.6,tombstone@4.7.4,atlaslib@1.1.6,coroutil@1.12.1-1.2.37,mekanismtools@1.12.2-9.8.3.390,appleskin@1.0.14,xaerominimap_core@1.12.2-1.0,backtools@7.0.1,aether_legacy@1.5.3.2,cavern@2.3.1,followme@1.1.5a,cosmeticarmorreworked@1.12.2-v5a,movillages@1.5.4,responsiveshields@2.3
+[23:59:52] [Netty Epoll Server IO #5/DEBUG] [FML]:   Next: WAITINGCACK
+[23:59:52] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[23:59:52] [Netty Epoll Server IO #5/DEBUG] [FML]:   Next: COMPLETE
+[23:59:53] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[23:59:53] [Netty Epoll Server IO #5/DEBUG] [FML]:   Next: DONE
+[23:59:53] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[23:59:53] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[23:59:53] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Chrisus[/127.179.226.202:39761] logged in with entity id 22385 at (95.44645243732458, 42.0, -90.8077265622346)
+[23:59:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus joined the game
+[23:59:53] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player Chrisus
+[23:59:53] [Server thread/INFO] [Mekanism]: Sent config to 'Chrisus.'
+[23:59:53] [Netty Epoll Server IO #5/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[23:59:54] [Server thread/DEBUG] [FML]: The world 76e2e931 (world) may have leaked: seen 30 times.
+
+[00:00:14] [Server thread/DEBUG] [FML]: The world 4e0fbeac (world) may have leaked: seen 135 times.
+
+[00:00:14] [Server thread/DEBUG] [FML]: The world 5ff22d9e (world) may have leaked: seen 135 times.
+
+[00:00:14] [Server thread/DEBUG] [FML]: The world 659448af (world) may have leaked: seen 135 times.
+
+[00:00:14] [Server thread/DEBUG] [FML]: The world 64eb806a (world) may have leaked: seen 135 times.
+
+[00:00:14] [Server thread/DEBUG] [FML]: The world 38fd1065 (world) may have leaked: seen 135 times.
+
+[00:00:14] [Server thread/DEBUG] [FML]: The world 49b2cf31 (world) may have leaked: seen 135 times.
+
+[00:00:14] [Server thread/DEBUG] [FML]: The world 39a636d4 (world) may have leaked: seen 135 times.
+
+[00:00:14] [Server thread/DEBUG] [FML]: The world 3ff949a3 (world) may have leaked: seen 135 times.
+
+[00:00:14] [Server thread/DEBUG] [FML]: The world 26582c42 (world) may have leaked: seen 135 times.
+
+[00:00:14] [Server thread/DEBUG] [FML]: The world 4eea0b61 (world) may have leaked: seen 135 times.
+
+[00:00:14] [Server thread/DEBUG] [FML]: The world 16b19e38 (world) may have leaked: seen 135 times.
+
+[00:00:14] [Server thread/DEBUG] [FML]: The world 71d048b8 (world) may have leaked: seen 135 times.
+
+[00:00:14] [Server thread/DEBUG] [FML]: The world 4428a4a3 (world) may have leaked: seen 135 times.
+
+[00:00:14] [Server thread/DEBUG] [FML]: The world 4e01c243 (world) may have leaked: seen 135 times.
+
+[00:00:14] [Server thread/DEBUG] [FML]: The world 4c80c5ea (world) may have leaked: seen 135 times.
+
+[00:00:14] [Server thread/DEBUG] [FML]: The world 7c2a4a88 (world) may have leaked: seen 135 times.
+
+[00:00:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:00:44] [Server thread/DEBUG] [FML]: The world 76e2e931 (world) may have leaked: seen 35 times.
+
+[00:00:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:01:04] [Server thread/DEBUG] [FML]: The world 4e0fbeac (world) may have leaked: seen 140 times.
+
+[00:01:04] [Server thread/DEBUG] [FML]: The world 5ff22d9e (world) may have leaked: seen 140 times.
+
+[00:01:04] [Server thread/DEBUG] [FML]: The world 659448af (world) may have leaked: seen 140 times.
+
+[00:01:04] [Server thread/DEBUG] [FML]: The world 64eb806a (world) may have leaked: seen 140 times.
+
+[00:01:04] [Server thread/DEBUG] [FML]: The world 38fd1065 (world) may have leaked: seen 140 times.
+
+[00:01:04] [Server thread/DEBUG] [FML]: The world 49b2cf31 (world) may have leaked: seen 140 times.
+
+[00:01:04] [Server thread/DEBUG] [FML]: The world 39a636d4 (world) may have leaked: seen 140 times.
+
+[00:01:04] [Server thread/DEBUG] [FML]: The world 3ff949a3 (world) may have leaked: seen 140 times.
+
+[00:01:04] [Server thread/DEBUG] [FML]: The world 26582c42 (world) may have leaked: seen 140 times.
+
+[00:01:04] [Server thread/DEBUG] [FML]: The world 4eea0b61 (world) may have leaked: seen 140 times.
+
+[00:01:04] [Server thread/DEBUG] [FML]: The world 16b19e38 (world) may have leaked: seen 140 times.
+
+[00:01:04] [Server thread/DEBUG] [FML]: The world 71d048b8 (world) may have leaked: seen 140 times.
+
+[00:01:04] [Server thread/DEBUG] [FML]: The world 4428a4a3 (world) may have leaked: seen 140 times.
+
+[00:01:04] [Server thread/DEBUG] [FML]: The world 4e01c243 (world) may have leaked: seen 140 times.
+
+[00:01:04] [Server thread/DEBUG] [FML]: The world 4c80c5ea (world) may have leaked: seen 140 times.
+
+[00:01:04] [Server thread/DEBUG] [FML]: The world 7c2a4a88 (world) may have leaked: seen 140 times.
+
+[00:01:34] [Server thread/DEBUG] [FML]: The world 76e2e931 (world) may have leaked: seen 40 times.
+
+[00:01:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:01:54] [Server thread/DEBUG] [FML]: The world 4e0fbeac (world) may have leaked: seen 145 times.
+
+[00:01:54] [Server thread/DEBUG] [FML]: The world 5ff22d9e (world) may have leaked: seen 145 times.
+
+[00:01:54] [Server thread/DEBUG] [FML]: The world 659448af (world) may have leaked: seen 145 times.
+
+[00:01:54] [Server thread/DEBUG] [FML]: The world 64eb806a (world) may have leaked: seen 145 times.
+
+[00:01:54] [Server thread/DEBUG] [FML]: The world 38fd1065 (world) may have leaked: seen 145 times.
+
+[00:01:54] [Server thread/DEBUG] [FML]: The world 49b2cf31 (world) may have leaked: seen 145 times.
+
+[00:01:54] [Server thread/DEBUG] [FML]: The world 39a636d4 (world) may have leaked: seen 145 times.
+
+[00:01:54] [Server thread/DEBUG] [FML]: The world 3ff949a3 (world) may have leaked: seen 145 times.
+
+[00:01:54] [Server thread/DEBUG] [FML]: The world 26582c42 (world) may have leaked: seen 145 times.
+
+[00:01:54] [Server thread/DEBUG] [FML]: The world 4eea0b61 (world) may have leaked: seen 145 times.
+
+[00:01:54] [Server thread/DEBUG] [FML]: The world 16b19e38 (world) may have leaked: seen 145 times.
+
+[00:01:54] [Server thread/DEBUG] [FML]: The world 71d048b8 (world) may have leaked: seen 145 times.
+
+[00:01:54] [Server thread/DEBUG] [FML]: The world 4428a4a3 (world) may have leaked: seen 145 times.
+
+[00:01:54] [Server thread/DEBUG] [FML]: The world 4e01c243 (world) may have leaked: seen 145 times.
+
+[00:01:54] [Server thread/DEBUG] [FML]: The world 4c80c5ea (world) may have leaked: seen 145 times.
+
+[00:01:54] [Server thread/DEBUG] [FML]: The world 7c2a4a88 (world) may have leaked: seen 145 times.
+
+[00:02:07] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [19, -13] in dimension -1 (the_nether) while populating chunk [20, -12], causing cascading worldgen lag.
+[00:02:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:02:07] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [18, -13] in dimension -1 (the_nether) while populating chunk [19, -13], causing cascading worldgen lag.
+[00:02:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:02:07] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [18, -14] in dimension -1 (the_nether) while populating chunk [18, -13], causing cascading worldgen lag.
+[00:02:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:02:07] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [19, -14] in dimension -1 (the_nether) while populating chunk [19, -13], causing cascading worldgen lag.
+[00:02:07] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:02:12] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [20, -13] in dimension -1 (the_nether) while populating chunk [21, -12], causing cascading worldgen lag.
+[00:02:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:02:24] [Server thread/DEBUG] [FML]: The world 76e2e931 (world) may have leaked: seen 45 times.
+
+[00:02:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:02:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santydork has made the advancement [We Need to Go Deeper]
+[00:02:32] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: santydork moved too quickly! 774.5334213641304,9.0,475.6665786239487
+[00:02:38] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [20, -13] in dimension -1 (the_nether) while populating chunk [21, -13], causing cascading worldgen lag.
+[00:02:38] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:02:44] [Server thread/DEBUG] [FML]: The world 4e0fbeac (world) may have leaked: seen 150 times.
+
+[00:02:44] [Server thread/DEBUG] [FML]: The world 5ff22d9e (world) may have leaked: seen 150 times.
+
+[00:02:44] [Server thread/DEBUG] [FML]: The world 659448af (world) may have leaked: seen 150 times.
+
+[00:02:44] [Server thread/DEBUG] [FML]: The world 64eb806a (world) may have leaked: seen 150 times.
+
+[00:02:44] [Server thread/DEBUG] [FML]: The world 38fd1065 (world) may have leaked: seen 150 times.
+
+[00:02:44] [Server thread/DEBUG] [FML]: The world 49b2cf31 (world) may have leaked: seen 150 times.
+
+[00:02:44] [Server thread/DEBUG] [FML]: The world 39a636d4 (world) may have leaked: seen 150 times.
+
+[00:02:44] [Server thread/DEBUG] [FML]: The world 3ff949a3 (world) may have leaked: seen 150 times.
+
+[00:02:44] [Server thread/DEBUG] [FML]: The world 26582c42 (world) may have leaked: seen 150 times.
+
+[00:02:44] [Server thread/DEBUG] [FML]: The world 4eea0b61 (world) may have leaked: seen 150 times.
+
+[00:02:44] [Server thread/DEBUG] [FML]: The world 16b19e38 (world) may have leaked: seen 150 times.
+
+[00:02:44] [Server thread/DEBUG] [FML]: The world 71d048b8 (world) may have leaked: seen 150 times.
+
+[00:02:44] [Server thread/DEBUG] [FML]: The world 4428a4a3 (world) may have leaked: seen 150 times.
+
+[00:02:44] [Server thread/DEBUG] [FML]: The world 4e01c243 (world) may have leaked: seen 150 times.
+
+[00:02:44] [Server thread/DEBUG] [FML]: The world 4c80c5ea (world) may have leaked: seen 150 times.
+
+[00:02:44] [Server thread/DEBUG] [FML]: The world 7c2a4a88 (world) may have leaked: seen 150 times.
+
+[00:02:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported santydork to Chrisus]
+[00:03:14] [Server thread/DEBUG] [FML]: The world 76e2e931 (world) may have leaked: seen 50 times.
+
+[00:03:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:03:34] [Server thread/DEBUG] [FML]: The world 4e0fbeac (world) may have leaked: seen 155 times.
+
+[00:03:34] [Server thread/DEBUG] [FML]: The world 5ff22d9e (world) may have leaked: seen 155 times.
+
+[00:03:34] [Server thread/DEBUG] [FML]: The world 659448af (world) may have leaked: seen 155 times.
+
+[00:03:34] [Server thread/DEBUG] [FML]: The world 64eb806a (world) may have leaked: seen 155 times.
+
+[00:03:34] [Server thread/DEBUG] [FML]: The world 38fd1065 (world) may have leaked: seen 155 times.
+
+[00:03:34] [Server thread/DEBUG] [FML]: The world 49b2cf31 (world) may have leaked: seen 155 times.
+
+[00:03:34] [Server thread/DEBUG] [FML]: The world 39a636d4 (world) may have leaked: seen 155 times.
+
+[00:03:34] [Server thread/DEBUG] [FML]: The world 3ff949a3 (world) may have leaked: seen 155 times.
+
+[00:03:34] [Server thread/DEBUG] [FML]: The world 26582c42 (world) may have leaked: seen 155 times.
+
+[00:03:34] [Server thread/DEBUG] [FML]: The world 4eea0b61 (world) may have leaked: seen 155 times.
+
+[00:03:34] [Server thread/DEBUG] [FML]: The world 16b19e38 (world) may have leaked: seen 155 times.
+
+[00:03:34] [Server thread/DEBUG] [FML]: The world 71d048b8 (world) may have leaked: seen 155 times.
+
+[00:03:34] [Server thread/DEBUG] [FML]: The world 4428a4a3 (world) may have leaked: seen 155 times.
+
+[00:03:34] [Server thread/DEBUG] [FML]: The world 4e01c243 (world) may have leaked: seen 155 times.
+
+[00:03:34] [Server thread/DEBUG] [FML]: The world 4c80c5ea (world) may have leaked: seen 155 times.
+
+[00:03:34] [Server thread/DEBUG] [FML]: The world 7c2a4a88 (world) may have leaked: seen 155 times.
+
+[00:03:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported santydork to -111.5, 71.5, -67.5]
+[00:03:50] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: santydork moved too quickly! -774.0731780220707,-9.0,-475.54251398103725
+[00:03:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:04:04] [Server thread/DEBUG] [FML]: The world 76e2e931 (world) may have leaked: seen 55 times.
+
+[00:04:11] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [20, -15] in dimension -1 (the_nether) while populating chunk [21, -15], causing cascading worldgen lag.
+[00:04:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:04:11] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [19, -15] in dimension -1 (the_nether) while populating chunk [20, -15], causing cascading worldgen lag.
+[00:04:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:04:11] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [18, -15] in dimension -1 (the_nether) while populating chunk [19, -15], causing cascading worldgen lag.
+[00:04:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:04:11] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [17, -15] in dimension -1 (the_nether) while populating chunk [18, -15], causing cascading worldgen lag.
+[00:04:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:04:11] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [16, -15] in dimension -1 (the_nether) while populating chunk [17, -15], causing cascading worldgen lag.
+[00:04:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:04:11] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [15, -15] in dimension -1 (the_nether) while populating chunk [16, -15], causing cascading worldgen lag.
+[00:04:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:04:11] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [14, -15] in dimension -1 (the_nether) while populating chunk [16, -15], causing cascading worldgen lag.
+[00:04:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:04:11] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [15, -16] in dimension -1 (the_nether) while populating chunk [16, -15], causing cascading worldgen lag.
+[00:04:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:04:11] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [14, -16] in dimension -1 (the_nether) while populating chunk [16, -15], causing cascading worldgen lag.
+[00:04:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:04:11] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [16, -16] in dimension -1 (the_nether) while populating chunk [16, -15], causing cascading worldgen lag.
+[00:04:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:04:11] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [16, -17] in dimension -1 (the_nether) while populating chunk [16, -16], causing cascading worldgen lag.
+[00:04:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:04:11] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [15, -17] in dimension -1 (the_nether) while populating chunk [16, -17], causing cascading worldgen lag.
+[00:04:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:04:11] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [15, -18] in dimension -1 (the_nether) while populating chunk [16, -17], causing cascading worldgen lag.
+[00:04:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:04:11] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [18, -16] in dimension -1 (the_nether) while populating chunk [16, -15], causing cascading worldgen lag.
+[00:04:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:04:11] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [17, -17] in dimension -1 (the_nether) while populating chunk [18, -16], causing cascading worldgen lag.
+[00:04:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:04:11] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [16, -18] in dimension -1 (the_nether) while populating chunk [17, -17], causing cascading worldgen lag.
+[00:04:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:04:11] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [17, -16] in dimension -1 (the_nether) while populating chunk [16, -15], causing cascading worldgen lag.
+[00:04:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:04:24] [Server thread/DEBUG] [FML]: The world 4e0fbeac (world) may have leaked: seen 160 times.
+
+[00:04:24] [Server thread/DEBUG] [FML]: The world 5ff22d9e (world) may have leaked: seen 160 times.
+
+[00:04:24] [Server thread/DEBUG] [FML]: The world 659448af (world) may have leaked: seen 160 times.
+
+[00:04:24] [Server thread/DEBUG] [FML]: The world 64eb806a (world) may have leaked: seen 160 times.
+
+[00:04:24] [Server thread/DEBUG] [FML]: The world 38fd1065 (world) may have leaked: seen 160 times.
+
+[00:04:24] [Server thread/DEBUG] [FML]: The world 49b2cf31 (world) may have leaked: seen 160 times.
+
+[00:04:24] [Server thread/DEBUG] [FML]: The world 39a636d4 (world) may have leaked: seen 160 times.
+
+[00:04:24] [Server thread/DEBUG] [FML]: The world 3ff949a3 (world) may have leaked: seen 160 times.
+
+[00:04:24] [Server thread/DEBUG] [FML]: The world 26582c42 (world) may have leaked: seen 160 times.
+
+[00:04:24] [Server thread/DEBUG] [FML]: The world 4eea0b61 (world) may have leaked: seen 160 times.
+
+[00:04:24] [Server thread/DEBUG] [FML]: The world 16b19e38 (world) may have leaked: seen 160 times.
+
+[00:04:24] [Server thread/DEBUG] [FML]: The world 71d048b8 (world) may have leaked: seen 160 times.
+
+[00:04:24] [Server thread/DEBUG] [FML]: The world 4428a4a3 (world) may have leaked: seen 160 times.
+
+[00:04:24] [Server thread/DEBUG] [FML]: The world 4e01c243 (world) may have leaked: seen 160 times.
+
+[00:04:24] [Server thread/DEBUG] [FML]: The world 4c80c5ea (world) may have leaked: seen 160 times.
+
+[00:04:24] [Server thread/DEBUG] [FML]: The world 7c2a4a88 (world) may have leaked: seen 160 times.
+
+[00:04:40] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [19, -17] in dimension -1 (the_nether) while populating chunk [19, -16], causing cascading worldgen lag.
+[00:04:40] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:04:40] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [18, -17] in dimension -1 (the_nether) while populating chunk [19, -16], causing cascading worldgen lag.
+[00:04:40] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:04:40] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [17, -18] in dimension -1 (the_nether) while populating chunk [18, -17], causing cascading worldgen lag.
+[00:04:40] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:04:40] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [16, -19] in dimension -1 (the_nether) while populating chunk [17, -18], causing cascading worldgen lag.
+[00:04:40] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:04:40] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [15, -19] in dimension -1 (the_nether) while populating chunk [16, -19], causing cascading worldgen lag.
+[00:04:40] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:04:40] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [14, -19] in dimension -1 (the_nether) while populating chunk [15, -19], causing cascading worldgen lag.
+[00:04:40] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:04:40] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [20, -17] in dimension -1 (the_nether) while populating chunk [21, -16], causing cascading worldgen lag.
+[00:04:40] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:04:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:04:54] [Server thread/DEBUG] [FML]: The world 76e2e931 (world) may have leaked: seen 60 times.
+
+[00:05:14] [Server thread/DEBUG] [FML]: The world 4e0fbeac (world) may have leaked: seen 165 times.
+
+[00:05:14] [Server thread/DEBUG] [FML]: The world 5ff22d9e (world) may have leaked: seen 165 times.
+
+[00:05:14] [Server thread/DEBUG] [FML]: The world 659448af (world) may have leaked: seen 165 times.
+
+[00:05:14] [Server thread/DEBUG] [FML]: The world 64eb806a (world) may have leaked: seen 165 times.
+
+[00:05:14] [Server thread/DEBUG] [FML]: The world 38fd1065 (world) may have leaked: seen 165 times.
+
+[00:05:14] [Server thread/DEBUG] [FML]: The world 49b2cf31 (world) may have leaked: seen 165 times.
+
+[00:05:14] [Server thread/DEBUG] [FML]: The world 39a636d4 (world) may have leaked: seen 165 times.
+
+[00:05:14] [Server thread/DEBUG] [FML]: The world 3ff949a3 (world) may have leaked: seen 165 times.
+
+[00:05:14] [Server thread/DEBUG] [FML]: The world 26582c42 (world) may have leaked: seen 165 times.
+
+[00:05:14] [Server thread/DEBUG] [FML]: The world 4eea0b61 (world) may have leaked: seen 165 times.
+
+[00:05:14] [Server thread/DEBUG] [FML]: The world 16b19e38 (world) may have leaked: seen 165 times.
+
+[00:05:14] [Server thread/DEBUG] [FML]: The world 71d048b8 (world) may have leaked: seen 165 times.
+
+[00:05:14] [Server thread/DEBUG] [FML]: The world 4428a4a3 (world) may have leaked: seen 165 times.
+
+[00:05:14] [Server thread/DEBUG] [FML]: The world 4e01c243 (world) may have leaked: seen 165 times.
+
+[00:05:14] [Server thread/DEBUG] [FML]: The world 4c80c5ea (world) may have leaked: seen 165 times.
+
+[00:05:14] [Server thread/DEBUG] [FML]: The world 7c2a4a88 (world) may have leaked: seen 165 times.
+
+[00:05:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:05:36] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: santydork moved too quickly! 774.4871261725821,9.0,475.21606377895944
+[00:05:44] [Server thread/DEBUG] [FML]: The world 76e2e931 (world) may have leaked: seen 65 times.
+
+[00:05:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santydork> xaero-waypoint:portal:P:-112:71:-68:8:false:0:Internal-the-nether-waypoints
+[00:05:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: santydork moved too quickly! -773.7062403034342,-9.0,-476.19999998807907
+[00:05:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Teleported Chrisus to -111.5, 71.5, -67.5]
+[00:06:04] [Server thread/DEBUG] [FML]: The world 4e0fbeac (world) may have leaked: seen 170 times.
+
+[00:06:04] [Server thread/DEBUG] [FML]: The world 5ff22d9e (world) may have leaked: seen 170 times.
+
+[00:06:04] [Server thread/DEBUG] [FML]: The world 659448af (world) may have leaked: seen 170 times.
+
+[00:06:04] [Server thread/DEBUG] [FML]: The world 64eb806a (world) may have leaked: seen 170 times.
+
+[00:06:04] [Server thread/DEBUG] [FML]: The world 38fd1065 (world) may have leaked: seen 170 times.
+
+[00:06:04] [Server thread/DEBUG] [FML]: The world 49b2cf31 (world) may have leaked: seen 170 times.
+
+[00:06:04] [Server thread/DEBUG] [FML]: The world 39a636d4 (world) may have leaked: seen 170 times.
+
+[00:06:04] [Server thread/DEBUG] [FML]: The world 3ff949a3 (world) may have leaked: seen 170 times.
+
+[00:06:04] [Server thread/DEBUG] [FML]: The world 26582c42 (world) may have leaked: seen 170 times.
+
+[00:06:04] [Server thread/DEBUG] [FML]: The world 4eea0b61 (world) may have leaked: seen 170 times.
+
+[00:06:04] [Server thread/DEBUG] [FML]: The world 16b19e38 (world) may have leaked: seen 170 times.
+
+[00:06:04] [Server thread/DEBUG] [FML]: The world 71d048b8 (world) may have leaked: seen 170 times.
+
+[00:06:04] [Server thread/DEBUG] [FML]: The world 4428a4a3 (world) may have leaked: seen 170 times.
+
+[00:06:04] [Server thread/DEBUG] [FML]: The world 4e01c243 (world) may have leaked: seen 170 times.
+
+[00:06:04] [Server thread/DEBUG] [FML]: The world 4c80c5ea (world) may have leaked: seen 170 times.
+
+[00:06:04] [Server thread/DEBUG] [FML]: The world 7c2a4a88 (world) may have leaked: seen 170 times.
+
+[00:06:05] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chrisus moved too quickly! -774.1414845776561,-9.0,-475.81518389708424
+[00:06:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:06:14] [Server thread/DEBUG] [FML]: Queueing dimension -1 to unload
+[00:06:15] [Server thread/INFO] [FML]: Unloading dimension -1
+[00:06:21] [Server thread/INFO] [hordes]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@40893615]Trying to start horde event on day 11 with nextDay 10 and time 18000
+[00:06:21] [Server thread/INFO] [hordes]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@740f6994
+[00:06:21] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 0
+[00:06:21] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombieVillager,weight=1,minDay=0,maxDay=20] to hordespawn on day 0
+[00:06:21] [Server thread/INFO] [hordes]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@40893615]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@40893615 ignoring light level
+[00:06:21] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[00:06:21] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombieVillager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[00:06:34] [Server thread/DEBUG] [FML]: The world 76e2e931 (world) may have leaked: seen 70 times.
+
+[00:06:54] [Server thread/DEBUG] [FML]: The world 4e0fbeac (world) may have leaked: seen 175 times.
+
+[00:06:54] [Server thread/DEBUG] [FML]: The world 5ff22d9e (world) may have leaked: seen 175 times.
+
+[00:06:54] [Server thread/DEBUG] [FML]: The world 659448af (world) may have leaked: seen 175 times.
+
+[00:06:54] [Server thread/DEBUG] [FML]: The world 64eb806a (world) may have leaked: seen 175 times.
+
+[00:06:54] [Server thread/DEBUG] [FML]: The world 38fd1065 (world) may have leaked: seen 175 times.
+
+[00:06:54] [Server thread/DEBUG] [FML]: The world 49b2cf31 (world) may have leaked: seen 175 times.
+
+[00:06:54] [Server thread/DEBUG] [FML]: The world 39a636d4 (world) may have leaked: seen 175 times.
+
+[00:06:54] [Server thread/DEBUG] [FML]: The world 3ff949a3 (world) may have leaked: seen 175 times.
+
+[00:06:54] [Server thread/DEBUG] [FML]: The world 26582c42 (world) may have leaked: seen 175 times.
+
+[00:06:54] [Server thread/DEBUG] [FML]: The world 4eea0b61 (world) may have leaked: seen 175 times.
+
+[00:06:54] [Server thread/DEBUG] [FML]: The world 16b19e38 (world) may have leaked: seen 175 times.
+
+[00:06:54] [Server thread/DEBUG] [FML]: The world 71d048b8 (world) may have leaked: seen 175 times.
+
+[00:06:54] [Server thread/DEBUG] [FML]: The world 4428a4a3 (world) may have leaked: seen 175 times.
+
+[00:06:54] [Server thread/DEBUG] [FML]: The world 4e01c243 (world) may have leaked: seen 175 times.
+
+[00:06:54] [Server thread/DEBUG] [FML]: The world 4c80c5ea (world) may have leaked: seen 175 times.
+
+[00:06:54] [Server thread/DEBUG] [FML]: The world 7c2a4a88 (world) may have leaked: seen 175 times.
+
+[00:06:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[00:07:04] [Server thread/DEBUG] [FML]: The world 1ed5f970 (world) may have leaked: first encounter (5 occurrences).
+
+[00:07:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported Chrisus to santydork]
+[00:07:11] [Server thread/INFO] [hordes]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@40893615]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@40893615 ignoring light level
+[00:07:11] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+[00:07:11] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombieVillager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
