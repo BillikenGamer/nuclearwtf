@@ -69,3 +69,15 @@ Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombi
 [net.smileycorp.hordes.hordeevent.capability.HordeEvent@40893615]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@40893615 ignoring light level
 Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
 Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombieVillager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[net.smileycorp.hordes.hordeevent.capability.HordeEvent@40893615]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@40893615 ignoring light level
+Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombieVillager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombieVillager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombieVillager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[net.smileycorp.hordes.hordeevent.capability.HordeEvent@40893615]Can't spawn wave because max cap has been reached
+[net.smileycorp.hordes.hordeevent.capability.HordeEvent@40893615]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@40893615 ignoring light level
+Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 10
+Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombieVillager,weight=1,minDay=0,maxDay=20] to hordespawn on day 10
+[net.smileycorp.hordes.hordeevent.capability.HordeEvent@40893615]Can't spawn wave because max cap has been reached
