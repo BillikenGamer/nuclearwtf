@@ -358,7 +358,8 @@
     "criteria": {
       "cooked_beef": "2025-01-26 00:24:06 +0000",
       "baked_potato": "2025-01-26 02:02:09 +0000",
-      "potato": "2025-01-25 23:56:05 +0000"
+      "potato": "2025-01-25 23:56:05 +0000",
+      "golden_apple": "2025-01-27 15:38:32 +0000"
     },
     "done": false
   },
@@ -1474,6 +1475,12 @@
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-01-26 01:14:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-01-27 15:36:51 +0000"
     },
     "done": true
   },
