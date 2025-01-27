@@ -301,3 +301,8 @@
 [01:03:00] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player Chrisus
 [01:03:00] [Server thread/INFO] [Mekanism]: Sent config to 'Chrisus.'
 [01:05:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported santydork to -881.5, 69.5, -540.5]
+[01:08:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus was slain by santydork
+[01:08:19] [Server thread/INFO] [tombstone]: Chrisus has successfully been saved
+[01:10:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santydork was slain by Chrisus
+[01:10:09] [Server thread/INFO] [tombstone]: santydork has successfully been saved
+[01:12:20] [Server thread/INFO] [morpheus]: santydork is now sleeping. 1/2 (50%)
