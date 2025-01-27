@@ -364,3 +364,4 @@
 [14:40:22] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player santydork
 [14:40:22] [Server thread/INFO] [Mekanism]: Sent config to 'santydork.'
 [14:40:25] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3118ms behind, skipping 62 tick(s)
+[14:55:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported santydork to -881.5, 69.5, -540.5]

@@ -907,6 +907,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2025-01-27 15:00:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-01-26 01:40:04 +0000"
@@ -982,6 +988,12 @@
   "minecraft:recipes/building_blocks/brick_block": {
     "criteria": {
       "has_brick": "2025-01-26 02:05:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2025-01-27 15:00:34 +0000"
     },
     "done": true
   },
@@ -1309,6 +1321,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2025-01-27 14:52:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone": {
     "criteria": {
       "has_bone": "2025-01-26 00:42:33 +0000"
@@ -1330,6 +1348,12 @@
   "hbm:progress_steel": {
     "criteria": {
       "crafting_table": "2025-01-26 00:48:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-27 15:00:34 +0000"
     },
     "done": true
   },
@@ -1501,6 +1525,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_wooden_slab": {
+    "criteria": {
+      "has_planks": "2025-01-27 15:00:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-01-25 23:58:54 +0000"
@@ -1564,6 +1594,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2025-01-25 23:55:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-27 15:00:34 +0000"
     },
     "done": true
   },
