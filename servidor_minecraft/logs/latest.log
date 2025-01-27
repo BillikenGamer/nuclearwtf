@@ -283,3 +283,7 @@
 [00:41:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] aa
 [00:44:40] [Server thread/INFO] [morpheus]: santydork is now sleeping. 1/2 (50%)
 [00:44:41] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: santydork moved wrongly!
+[00:53:11] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-84, -20] in dimension 0 (overworld) while populating chunk [-83, -20], causing cascading worldgen lag.
+[00:53:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:55:32] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@43b0bf90)
+[00:55:45] [Server thread/INFO] [FML]: Unloading dimension -1
