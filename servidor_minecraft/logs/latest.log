@@ -314,3 +314,7 @@
 [01:35:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Teleported Chrisus to -882.5, 62.5, -536.5]
 [01:36:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus has made the advancement [Metalworks]
 [01:49:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported Chrisus to santydork]
+[02:02:38] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Chrisus lost connection: Disconnected
+[02:02:38] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus left the game
+[02:02:39] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: santydork lost connection: Disconnected
+[02:02:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santydork left the game
