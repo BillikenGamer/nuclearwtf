@@ -306,3 +306,10 @@
 [01:10:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santydork was slain by Chrisus
 [01:10:09] [Server thread/INFO] [tombstone]: santydork has successfully been saved
 [01:12:20] [Server thread/INFO] [morpheus]: santydork is now sleeping. 1/2 (50%)
+[01:29:00] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@43b0bf90)
+[01:29:15] [Server thread/INFO] [FML]: Unloading dimension -1
+[01:30:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santydork has made the advancement [Ice Bucket Challenge]
+[01:30:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Teleported Chrisus to -910.5, 11.5, -546.5]
+[01:31:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Teleported Chrisus to -883.5, 69.5, -538.5]
+[01:35:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Teleported Chrisus to -882.5, 62.5, -536.5]
+[01:36:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus has made the advancement [Metalworks]
