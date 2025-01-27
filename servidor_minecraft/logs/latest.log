@@ -363,3 +363,6 @@
 [15:12:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santydork joined the game
 [15:12:09] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player santydork
 [15:12:09] [Server thread/INFO] [Mekanism]: Sent config to 'santydork.'
+[15:22:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] xdd
+[15:28:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Set own game mode to Creative Mode]
+[15:29:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Set own game mode to Survival Mode]
