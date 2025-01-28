@@ -1347,6 +1347,12 @@
     },
     "done": true
   },
+  "hbm:progress_anvil": {
+    "criteria": {
+      "crafting_table": "2025-01-28 21:52:41 +0000"
+    },
+    "done": true
+  },
   "hbm:progress_steel": {
     "criteria": {
       "crafting_table": "2025-01-26 00:01:56 +0000"

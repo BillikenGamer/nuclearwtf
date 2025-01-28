@@ -412,3 +412,49 @@
 [21:45:14] [Server thread/INFO] [FML]: Unloading dimension -1
 [21:45:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Teleported Chrisus to -882.5, 62.5, -536.5]
 [21:48:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santydork has made the advancement [We hit Oil]
+[21:51:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santydork> petroleum gas
+[21:52:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus has made the advancement [Anvil]
+[21:54:25] [Server thread/INFO] [hordes]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@70220a6c]Trying to start horde event on day 20 with nextDay 20 and time 18000
+[21:54:25] [Server thread/INFO] [hordes]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@7c53458c
+[21:54:25] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 0
+[21:54:25] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombieVillager,weight=1,minDay=0,maxDay=20] to hordespawn on day 0
+[21:54:25] [Server thread/INFO] [hordes]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@70220a6c]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@70220a6c ignoring light level
+[21:54:25] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[21:54:25] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombieVillager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[21:54:25] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.passive.EntityZombieHorse,weight=3,minDay=20,maxDay=0] to hordespawn on day 20
+[21:54:25] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityHusk,weight=40,minDay=20,maxDay=0] to hordespawn on day 20
+[21:54:44] [Server thread/INFO] [morpheus]: santydork is now sleeping. 1/2 (50%)
+[21:54:44] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: santydork moved wrongly!
+[21:54:53] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Chrisus lost connection: Disconnected
+[21:54:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus left the game
+[21:54:56] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[21:54:56] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 69 mods : extendedrenderer@v1.0,mixinbooter@10.4,trashslot@8.4.10,cgm@0.15.3,hats@7.1.1,wi-zoom@1.0,bountifulbaubles@0.0.1,configmod@v1.0,mmorpg@1.9.6,jei@4.16.1.1013,mekanism@1.12.2-9.8.3.390,bettercaves@1.12.2,forgeendertech@1.12.2-4.5.6.1,mcp@9.42,clumps@3.1.2,controlling@3.0.10,ctm@MC1.12.2-1.0.2.31,xaeroworldmap@1.39.2,artifacts@1.12.2-1.2.4,sereneseasons@1.2.18,zombieawareness@1.12.1-1.11.16,adhooks@1.12.2-3.3.1.0,uteamcore@2.2.5.339,morpheus@1.12.2-3.5.106,mahoutsukai@1.12.2-v1.19.55,resourcify@1.6.1,hordes@1.5.3a,normalasm@5.24,mekanismgenerators@1.12.2-9.8.3.390,ichunutil@7.2.2,hbm@NTM-Extended-1.12.2-2.0.2,skinlayers3d@1.2.0,forge@14.23.5.2859,xaeroworldmap_core@1.12.2-1.0,twilightforest@3.11.1021,simpledivegear@1.1.1,minecraft@1.12.2,usefulbackpacks@1.5.4.85,mousetweaks@2.10.1,baubles@1.5.2,adlods@1.12.2-1.0.8.0,vehicle@0.44.1,vintagefix@0.5.1,fermiumbooter@1.1.1,villagespawnpoint@1.8,roguelike@2.4.6,ezstorage@2.5.0,patchouli@1.0-23.6,xaerominimap@25.0.0,collective@3.0,camera@1.0.10,entityculling@@VER@,offlineskins@1.12.2-v6,FML@8.0.99.99,obfuscate@0.4.2,farsight@1.6,tombstone@4.7.4,atlaslib@1.1.6,coroutil@1.12.1-1.2.37,mekanismtools@1.12.2-9.8.3.390,appleskin@1.0.14,xaerominimap_core@1.12.2-1.0,backtools@7.0.1,aether_legacy@1.5.3.2,cavern@2.3.1,followme@1.1.5a,cosmeticarmorreworked@1.12.2-v5a,movillages@1.5.4,responsiveshields@2.3
+[21:54:58] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[21:54:58] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Chrisus[/127.179.226.202:45133] logged in with entity id 38794 at (-867.7124705147929, 70.0, -565.3702336220227)
+[21:54:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus joined the game
+[21:54:58] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player Chrisus
+[21:54:58] [Server thread/INFO] [Mekanism]: Sent config to 'Chrisus.'
+[21:55:19] [Server thread/INFO] [hordes]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@70220a6c]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@70220a6c ignoring light level
+[21:55:19] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[21:55:19] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombieVillager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[21:55:19] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.passive.EntityZombieHorse,weight=3,minDay=20,maxDay=0] to hordespawn on day 20
+[21:55:19] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityHusk,weight=40,minDay=20,maxDay=0] to hordespawn on day 20
+[21:56:09] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[21:56:09] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombieVillager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[21:56:09] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.passive.EntityZombieHorse,weight=3,minDay=20,maxDay=0] to hordespawn on day 20
+[21:56:09] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityHusk,weight=40,minDay=20,maxDay=0] to hordespawn on day 20
+[21:56:59] [Server thread/INFO] [hordes]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@70220a6c]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@70220a6c ignoring light level
+[21:56:59] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[21:56:59] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombieVillager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[21:56:59] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.passive.EntityZombieHorse,weight=3,minDay=20,maxDay=0] to hordespawn on day 20
+[21:56:59] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityHusk,weight=40,minDay=20,maxDay=0] to hordespawn on day 20
+[21:57:49] [Server thread/INFO] [hordes]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@70220a6c]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@70220a6c ignoring light level
+[21:57:49] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[21:57:49] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombieVillager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[21:57:49] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.passive.EntityZombieHorse,weight=3,minDay=20,maxDay=0] to hordespawn on day 20
+[21:57:49] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityHusk,weight=40,minDay=20,maxDay=0] to hordespawn on day 20
+[21:58:39] [Server thread/INFO] [hordes]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@70220a6c]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@70220a6c ignoring light level
+[21:58:39] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[21:58:39] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombieVillager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[21:58:39] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.passive.EntityZombieHorse,weight=3,minDay=20,maxDay=0] to hordespawn on day 20
+[21:58:39] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityHusk,weight=40,minDay=20,maxDay=0] to hordespawn on day 20
