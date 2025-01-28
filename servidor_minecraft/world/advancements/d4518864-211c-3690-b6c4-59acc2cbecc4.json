@@ -1316,6 +1316,12 @@
     },
     "done": true
   },
+  "hbm:progress_oil_1": {
+    "criteria": {
+      "crafting_table": "2025-01-28 21:48:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2025-01-26 00:01:57 +0000"
