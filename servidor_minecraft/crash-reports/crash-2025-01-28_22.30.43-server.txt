@@ -1,0 +1,162 @@
+---- Minecraft Crash Report ----
+
+WARNING: coremods are present:
+  MixinBooter (!mixinbooter-10.4.jar)
+  SSLoadingPlugin (SereneSeasons-1.12.2-1.2.18-universal.jar)
+  FermiumBooter (`FermiumBooter-1.1.1.jar)
+  CorePlugin (ForgeEndertech-1.12.2-4.5.6.1-build.0648.jar)
+  MekanismCoremod (Mekanism-1.12.2-9.8.3.390.jar)
+  ObfuscatePlugin (obfuscate-0.4.2-1.12.2.jar)
+Contact their authors BEFORE contacting forge
+
+// I blame Dinnerbone.
+
+Time: 1/28/25 10:30 PM
+Description: Exception ticking world
+
+java.lang.IllegalArgumentException: Cannot get property PropertyEnum{name=variant, clazz=class net.minecraft.block.BlockPlanks$EnumType, values=[acacia, dark_oak]} as it does not exist in BlockStateContainer{block=hbm:waste_leaves, properties=[check_decay, decayable, variant]}
+	at net.minecraft.block.state.BlockStateContainer$StateImplementation.func_177229_b(BlockStateContainer.java:201)
+	at net.minecraft.block.BlockNewLeaf.func_176234_a(BlockNewLeaf.java:37)
+	at net.minecraft.block.BlockLeaves.getDrops(BlockLeaves.java:285)
+	at net.minecraft.block.Block.getDrops(Block.java:1300)
+	at net.minecraft.block.Block.func_180653_a(Block.java:571)
+	at net.minecraft.block.BlockLeaves.func_180653_a(BlockLeaves.java:209)
+	at net.minecraft.block.Block.func_176226_b(Block.java:564)
+	at net.minecraft.block.BlockLeaves.func_176235_d(BlockLeaves.java:181)
+	at net.minecraft.block.BlockLeaves.func_180650_b(BlockLeaves.java:173)
+	at net.minecraft.block.Block.func_180645_a(Block.java:508)
+	at net.minecraft.world.WorldServer.func_147456_g(WorldServer.java:476)
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:225)
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:756)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Thread.java:750)
+
+No Mixin Metadata is found in the Stacktrace.
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server thread
+Stacktrace:
+	at net.minecraft.block.state.BlockStateContainer$StateImplementation.func_177229_b(BlockStateContainer.java:201)
+	at net.minecraft.block.BlockNewLeaf.func_176234_a(BlockNewLeaf.java:37)
+	at net.minecraft.block.BlockLeaves.getDrops(BlockLeaves.java:285)
+	at net.minecraft.block.Block.getDrops(Block.java:1300)
+	at net.minecraft.block.Block.func_180653_a(Block.java:571)
+	at net.minecraft.block.BlockLeaves.func_180653_a(BlockLeaves.java:209)
+	at net.minecraft.block.Block.func_176226_b(Block.java:564)
+	at net.minecraft.block.BlockLeaves.func_176235_d(BlockLeaves.java:181)
+	at net.minecraft.block.BlockLeaves.func_180650_b(BlockLeaves.java:173)
+	at net.minecraft.block.Block.func_180645_a(Block.java:508)
+	at net.minecraft.world.WorldServer.func_147456_g(WorldServer.java:476)
+	at net.minecraft.world.WorldServer.func_72835_b(WorldServer.java:225)
+
+-- Affected level --
+Details:
+	Level name: world
+	All players: 2 total; [EntityPlayerMP['santydork'/253, l='world', x=-890.80, y=62.00, z=-548.04], EntityPlayerMP['Chrisus'/38794, l='world', x=-577.70, y=79.99, z=930.09]]
+	Chunk stats: ServerChunkCache: 1207 Drop: 0
+	Level seed: 8017894039812692659
+	Level generator: ID 00 - default, ver 1. Features enabled: true
+	Level generator options: 
+	Level spawn location: World: (-235,64,-139), Chunk: (at 5,4,5 in -15,-9; contains blocks -240,0,-144 to -225,255,-129), Region: (-1,-1; contains chunks -32,-32 to -1,-1, blocks -512,0,-512 to -1,255,-1)
+	Level time: 693805 game time, 845622 day time
+	Level dimension: 0
+	Level storage version: 0x04ABD - Anvil
+	Level weather: Rain time: 160959 (now: false), thunder time: 114372 (now: false)
+	Level game mode: Game mode: survival (ID 0). Hardcore: false. Cheats: false
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.func_71190_q(MinecraftServer.java:756)
+	at net.minecraft.server.dedicated.DedicatedServer.func_71190_q(DedicatedServer.java:397)
+	at net.minecraft.server.MinecraftServer.func_71217_p(MinecraftServer.java:668)
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:526)
+	at java.lang.Thread.run(Thread.java:750)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Linux (amd64) version 6.5.0-1025-azure
+	Java Version: 1.8.0_432, Private Build
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode), Private Build
+	Memory: 2527382936 bytes (2410 MB) / 3624927232 bytes (3457 MB) up to 11453595648 bytes (10923 MB)
+	JVM Flags: 2 total; -Xms2G -Xmx12G
+	IntCache: cache: 1, tcache: 1, allocated: 12, tallocated: 94
+	FML: MCP 9.42 Powered by Forge 14.23.5.2860 51 mods loaded, 51 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State  | ID                    | Version                   | Source                                        | Signature                                |
+	|:------ |:--------------------- |:------------------------- |:--------------------------------------------- |:---------------------------------------- |
+	| LCHIJA | minecraft             | 1.12.2                    | minecraft.jar                                 | None                                     |
+	| LCHIJA | mcp                   | 9.42                      | minecraft.jar                                 | None                                     |
+	| LCHIJA | FML                   | 8.0.99.99                 | forge-1.12.2-14.23.5.2860.jar                 | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCHIJA | forge                 | 14.23.5.2860              | forge-1.12.2-14.23.5.2860.jar                 | e3c3d50c7c986df74c645c0ac54639741c90a557 |
+	| LCHIJA | mixinbooter           | 10.4                      | minecraft.jar                                 | None                                     |
+	| LCHIJA | obfuscate             | 0.4.2                     | minecraft.jar                                 | None                                     |
+	| LCHIJA | movillages            | 1.5.4                     | [1.12]MoVillages-1.5.4.jar                    | None                                     |
+	| LCHIJA | fermiumbooter         | 1.1.1                     | `FermiumBooter-1.1.1.jar                      | None                                     |
+	| LCHIJA | forgeendertech        | 1.12.2-4.5.6.1            | ForgeEndertech-1.12.2-4.5.6.1-build.0648.jar  | None                                     |
+	| LCHIJA | adhooks               | 1.12.2-3.3.1.0            | AdHooks-1.12.2-3.3.1.0-build.0626.jar         | None                                     |
+	| LCHIJA | adlods                | 1.12.2-1.0.8.0            | AdLods-1.12.2-1.0.8.0-build.0504.jar          | None                                     |
+	| LCHIJA | aether_legacy         | 1.5.3.2                   | aether-1.12.2-v1.5.4.0.jar                    | None                                     |
+	| LCHIJA | baubles               | 1.5.2                     | Baubles-1.12-1.5.2.jar                        | None                                     |
+	| LCHIJA | artifacts             | 1.12.2-1.2.4              | artifacts-1.12.2-1.2.4.jar                    | None                                     |
+	| LCHIJA | atlaslib              | 1.1.6                     | Atlas-Lib-1.12.2-1.1.6.jar                    | None                                     |
+	| LCHIJA | bettercaves           | 1.12.2                    | bettercaves-1.12.2-2.0.4.jar                  | None                                     |
+	| LCHIJA | bountifulbaubles      | 0.0.1                     | Bountiful Baubles-1.12.2-0.1.8.jar            | None                                     |
+	| LCHIJA | camera                | 1.0.10                    | camera-1.0.11.jar                             | None                                     |
+	| LCHIJA | cavern                | 2.3.1                     | Cavern_1.12.2-v2.3.1.jar                      | None                                     |
+	| LCHIJA | clumps                | 3.1.2                     | Clumps-3.1.2.jar                              | None                                     |
+	| LCHIJA | collective            | 3.0                       | collective-1.12.2-3.0.jar                     | None                                     |
+	| LCHIJA | extendedrenderer      | v1.0                      | coroutil-1.12.1-1.2.37.jar                    | None                                     |
+	| LCHIJA | coroutil              | 1.12.1-1.2.37             | coroutil-1.12.1-1.2.37.jar                    | None                                     |
+	| LCHIJA | configmod             | v1.0                      | coroutil-1.12.1-1.2.37.jar                    | None                                     |
+	| LCHIJA | cosmeticarmorreworked | 1.12.2-v5a                | CosmeticArmorReworked-1.12.2-v5a.jar          | aaaf83332a11df02406e9f266b1b65c1306f0f76 |
+	| LCHIJA | ezstorage             | 2.5.0                     | ezstorage-2.5.0-[1.12.2].jar                  | None                                     |
+	| LCHIJA | followme              | 1.1.5a                    | Follow-Me-1.12.2-1.1.5a.jar                   | None                                     |
+	| LCHIJA | cgm                   | 0.15.3                    | guns-0.15.3-1.12.2.jar                        | None                                     |
+	| LCHIJA | ichunutil             | 7.2.2                     | iChunUtil-1.12.2-7.2.2.jar                    | 4db5c2bd1b556f252a5b8b54b256d381b2a0a6b8 |
+	| LCHIJA | hats                  | 7.1.1                     | Hats-1.12.2-7.1.1.jar                         | 4db5c2bd1b556f252a5b8b54b256d381b2a0a6b8 |
+	| LCHIJA | hordes                | 1.5.3a                    | The-Hordes-1.12.2-1.5.3a.jar                  | None                                     |
+	| LCHIJA | jei                   | 4.16.1.1013               | jei_1.12.2-4.16.1.1013.jar                    | None                                     |
+	| LCHIJA | mahoutsukai           | 1.12.2-v1.19.55           | mahoutsukai-1.12.2-v1.19.56.jar               | None                                     |
+	| LCHIJA | mekanism              | 1.12.2-9.8.3.390          | Mekanism-1.12.2-9.8.3.390.jar                 | None                                     |
+	| LCHIJA | mekanismgenerators    | 1.12.2-9.8.3.390          | MekanismGenerators-1.12.2-9.8.3.390.jar       | None                                     |
+	| LCHIJA | mekanismtools         | 1.12.2-9.8.3.390          | MekanismTools-1.12.2-9.8.3.390.jar            | None                                     |
+	| LCHIJA | morpheus              | 1.12.2-3.5.106            | Morpheus-1.12.2-3.5.106.jar                   | None                                     |
+	| LCHIJA | hbm                   | NTM-Extended-1.12.2-2.0.2 | NTM-Extended-1.12.2-2.0.2.jar                 | None                                     |
+	| LCHIJA | patchouli             | 1.0-23.6                  | Patchouli-1.0-23.6.jar                        | None                                     |
+	| LCHIJA | responsiveshields     | 2.3                       | responsiveshields-2.3-mc1.12.x.jar            | None                                     |
+	| LCHIJA | roguelike             | 2.4.6                     | RoguelikeDungeonsFnarEdition-1.12.2-2.4.6.jar | None                                     |
+	| LCHIJA | sereneseasons         | 1.2.18                    | SereneSeasons-1.12.2-1.2.18-universal.jar     | None                                     |
+	| LCHIJA | simpledivegear        | 1.1.1                     | SimpleDivingGear-1.1.1 mc 1.12.2.jar          | None                                     |
+	| LCHIJA | tombstone             | 4.7.4                     | tombstone-1.12.2-4.7.4.jar                    | None                                     |
+	| LCHIJA | trashslot             | 8.4.10                    | TrashSlot_1.12.2-8.4.10.jar                   | None                                     |
+	| LCHIJA | twilightforest        | 3.11.1021                 | twilightforest-1.12.2-3.11.1021-universal.jar | None                                     |
+	| LCHIJA | uteamcore             | 2.2.5.339                 | u_team_core-forge-1.12.2-2.2.5.339.jar        | None                                     |
+	| LCHIJA | usefulbackpacks       | 1.5.4.85                  | useful_backpacks-1.12.2-1.5.4.85.jar          | None                                     |
+	| LCHIJA | vehicle               | 0.44.1                    | vehicle-mod-0.44.1-1.12.2.jar                 | None                                     |
+	| LCHIJA | villagespawnpoint     | 1.8                       | villagespawnpoint_1.12.2-1.8.jar              | None                                     |
+	| LCHIJA | zombieawareness       | 1.12.1-1.11.16            | zombieawareness-1.12.1-1.11.16.jar            | None                                     |
+
+	Loaded coremods (and transformers): 
+MixinBooter (!mixinbooter-10.4.jar)
+  
+SSLoadingPlugin (SereneSeasons-1.12.2-1.2.18-universal.jar)
+  sereneseasons.asm.transformer.EntityRendererTransformer
+  sereneseasons.asm.transformer.WorldTransformer
+FermiumBooter (`FermiumBooter-1.1.1.jar)
+  
+CorePlugin (ForgeEndertech-1.12.2-4.5.6.1-build.0648.jar)
+  
+MekanismCoremod (Mekanism-1.12.2-9.8.3.390.jar)
+  mekanism.coremod.KeybindingMigrationHelper
+ObfuscatePlugin (obfuscate-0.4.2-1.12.2.jar)
+  com.mrcrayfish.obfuscate.asm.ObfuscateTransformer
+	Profiler Position: N/A (disabled)
+	Player Count: 2 / 20; [EntityPlayerMP['santydork'/253, l='world', x=-890.80, y=62.00, z=-548.04], EntityPlayerMP['Chrisus'/38794, l='world', x=-577.70, y=79.99, z=930.09]]
+	Is Modded: Definitely; Server brand changed to 'fml,forge'
+	Type: Dedicated Server (map_server.txt)
