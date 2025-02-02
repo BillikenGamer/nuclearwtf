@@ -615,6 +615,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/biomes/twilight_forest": {
+    "criteria": {
+      "discover": "2025-02-02 22:51:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar": {
     "criteria": {
       "has_reeds": "2025-01-26 00:13:04 +0000"
@@ -1697,6 +1703,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/pinch_beetle": {
+    "criteria": {
+      "hurt_by_indirect": "2025-02-02 22:56:09 +0000"
+    },
+    "done": true
+  },
   "tombstone:recipes/from_grave_dust": {
     "criteria": {
       "has_ingredient": "2025-01-27 00:12:55 +0000"
@@ -2019,6 +2031,12 @@
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_the_recipe": "2025-01-26 01:23:41 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/labyrinth": {
+    "criteria": {
+      "discover": "2025-02-02 22:55:47 +0000"
     },
     "done": true
   },
