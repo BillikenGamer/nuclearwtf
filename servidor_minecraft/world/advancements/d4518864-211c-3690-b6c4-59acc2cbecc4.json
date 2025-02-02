@@ -387,9 +387,21 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/wolves": {
+    "criteria": {
+      "0": "2025-02-02 22:19:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-01-25 23:50:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-02 22:23:59 +0000"
     },
     "done": true
   },
@@ -457,6 +469,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/swarm_spider": {
+    "criteria": {
+      "slay": "2025-02-02 22:19:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2025-01-26 00:15:41 +0000"
@@ -514,6 +532,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-26 00:29:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/hostile_wolf": {
+    "criteria": {
+      "hurt": "2025-02-02 22:19:12 +0000"
     },
     "done": true
   },
@@ -1484,6 +1508,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/major_landmarks/hedge_maze": {
+    "criteria": {
+      "discover": "2025-02-02 22:19:02 +0000"
+    },
+    "done": true
+  },
   "hbm:progress_steel": {
     "criteria": {
       "crafting_table": "2025-01-26 00:48:39 +0000"
@@ -1586,6 +1616,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/kobold": {
+    "criteria": {
+      "hurt": "2025-02-02 22:23:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-01-26 00:10:15 +0000"
@@ -1625,6 +1661,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-01-27 00:34:55 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/arthopods": {
+    "criteria": {
+      "1": "2025-02-02 22:19:35 +0000"
     },
     "done": true
   },
@@ -1975,6 +2017,18 @@
   "minecraft:recipes/misc/light_gray_dye_from_oxeye_daisy": {
     "criteria": {
       "has_red_flower": "2025-01-28 23:29:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/twilight_highlands": {
+    "criteria": {
+      "discover": "2025-02-02 22:26:41 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:hedge": {
+    "criteria": {
+      "swarm_spider": "2025-02-02 22:19:35 +0000"
     },
     "done": true
   },

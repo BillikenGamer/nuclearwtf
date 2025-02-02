@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-02-02 22:23:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/trapdoor": {
     "criteria": {
       "has_planks": "2025-01-25 22:59:30 +0000"
@@ -387,6 +393,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-02-02 22:23:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-01-26 00:19:39 +0000"
@@ -455,6 +467,12 @@
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
       "has_planks": "2025-01-25 22:59:30 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/swarm_spider": {
+    "criteria": {
+      "slay": "2025-02-02 22:19:53 +0000"
     },
     "done": true
   },
@@ -755,6 +773,12 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-01-27 00:39:21 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/hedge_spider": {
+    "criteria": {
+      "hurt": "2025-02-02 22:19:29 +0000"
     },
     "done": true
   },
@@ -1258,6 +1282,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2025-02-02 22:19:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/wooden_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-25 22:59:30 +0000"
@@ -1474,6 +1504,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/major_landmarks/hedge_maze": {
+    "criteria": {
+      "discover": "2025-02-02 22:19:03 +0000"
+    },
+    "done": true
+  },
   "hbm:progress_anvil": {
     "criteria": {
       "crafting_table": "2025-01-28 21:52:41 +0000"
@@ -1570,6 +1606,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/kobold": {
+    "criteria": {
+      "hurt": "2025-02-02 22:23:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-01-26 00:00:36 +0000"
@@ -1603,6 +1645,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-01-27 00:39:21 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/arthopods": {
+    "criteria": {
+      "0": "2025-02-02 22:19:29 +0000"
     },
     "done": true
   },
@@ -1964,6 +2012,18 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2025-01-26 00:15:40 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:hedge": {
+    "criteria": {
+      "hedge_spider": "2025-02-02 22:19:30 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/twilight_highlands": {
+    "criteria": {
+      "discover": "2025-02-02 22:23:00 +0000"
     },
     "done": true
   },

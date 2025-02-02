@@ -424,3 +424,60 @@
 [22:16:44] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2335ms behind, skipping 46 tick(s)
 [22:17:15] [Server thread/INFO] [twilightforest]: Main tower failed to branch off at index 2
 [22:17:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported santydork to Chrisus]
+[22:18:16] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-25, -77] in dimension 7 (twilight_forest) while populating chunk [-25, -76], causing cascading worldgen lag.
+[22:18:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:19:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus has made the advancement [Bug Stomper]
+[22:19:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santydork has made the advancement [Bug Stomper]
+[22:20:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santydork> xaero-waypoint:portal 1:P:-925:36:-433:8:false:0:Internal-dim%7-waypoints
+[22:21:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chrisus moved too quickly! 10.042643930259715,1.0043522406211949,-2.315084230818229
+[22:21:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: santydork moved too quickly! 10.05896881175488,0.8322033533667508,1.173280474623425
+[22:21:04] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 9949ms behind, skipping 198 tick(s)
+[22:21:19] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2037ms behind, skipping 40 tick(s)
+[22:21:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] xh
+[22:21:35] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chrisus was kicked for floating too long!
+[22:21:35] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Chrisus lost connection: Flying is not enabled on this server
+[22:21:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus left the game
+[22:21:41] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[22:21:41] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 69 mods : extendedrenderer@v1.0,mixinbooter@10.4,trashslot@8.4.10,cgm@0.15.3,hats@7.1.1,wi-zoom@1.0,bountifulbaubles@0.0.1,configmod@v1.0,mmorpg@1.9.6,jei@4.16.1.1013,mekanism@1.12.2-9.8.3.390,bettercaves@1.12.2,forgeendertech@1.12.2-4.5.6.1,mcp@9.42,clumps@3.1.2,controlling@3.0.10,ctm@MC1.12.2-1.0.2.31,xaeroworldmap@1.39.2,artifacts@1.12.2-1.2.4,sereneseasons@1.2.18,zombieawareness@1.12.1-1.11.16,adhooks@1.12.2-3.3.1.0,uteamcore@2.2.5.339,morpheus@1.12.2-3.5.106,mahoutsukai@1.12.2-v1.19.55,resourcify@1.6.1,hordes@1.5.3a,normalasm@5.24,mekanismgenerators@1.12.2-9.8.3.390,ichunutil@7.2.2,hbm@NTM-Extended-1.12.2-2.0.2,skinlayers3d@1.2.0,forge@14.23.5.2859,xaeroworldmap_core@1.12.2-1.0,twilightforest@3.11.1021,simpledivegear@1.1.1,minecraft@1.12.2,usefulbackpacks@1.5.4.85,mousetweaks@2.10.1,baubles@1.5.2,adlods@1.12.2-1.0.8.0,vehicle@0.44.1,vintagefix@0.5.1,fermiumbooter@1.1.1,villagespawnpoint@1.8,roguelike@2.4.6,ezstorage@2.5.0,patchouli@1.0-23.6,xaerominimap@25.0.0,collective@3.0,camera@1.0.10,entityculling@@VER@,offlineskins@1.12.2-v6,FML@8.0.99.99,obfuscate@0.4.2,farsight@1.6,tombstone@4.7.4,atlaslib@1.1.6,coroutil@1.12.1-1.2.37,mekanismtools@1.12.2-9.8.3.390,appleskin@1.0.14,xaerominimap_core@1.12.2-1.0,backtools@7.0.1,aether_legacy@1.5.3.2,cavern@2.3.1,followme@1.1.5a,cosmeticarmorreworked@1.12.2-v5a,movillages@1.5.4,responsiveshields@2.3
+[22:21:43] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:21:43] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Chrisus[/127.179.226.202:33231] logged in with entity id 60024 at (-227.62650619092608, 34.498374157489366, -1028.0304395403896)
+[22:21:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus joined the game
+[22:21:43] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player Chrisus
+[22:21:43] [Server thread/INFO] [Mekanism]: Sent config to 'Chrisus.'
+[22:21:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Changing to clear weather]
+[22:21:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chrisus moved too quickly! 10.330370953892157,0.5954232828390715,-0.6355799599002694
+[22:22:21] [Server thread/INFO] [twilightforest]: tower out of range
+[22:22:21] [Server thread/INFO] [twilightforest]: tower blocked by twilightforest.structures.finalcastle.ComponentTFFinalCastleMazeTower13@65c91dff
+[22:22:21] [Server thread/INFO] [twilightforest]: tower out of range
+[22:22:21] [Server thread/WARN] [twilightforest]: Maze of color pink is getting a bit excessive.
+[22:22:21] [Server thread/INFO] [twilightforest]: tower out of range
+[22:22:21] [Server thread/INFO] [twilightforest]: tower blocked by twilightforest.structures.finalcastle.ComponentTFFinalCastleMazeTower13@4137e239
+[22:22:21] [Server thread/WARN] [twilightforest]: Maze of color blue is getting a bit excessive.
+[22:22:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported santydork to Chrisus]
+[22:22:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santydork> xaero-waypoint:portal 1:P:-925:36:-433:8:false:0:Internal-dim%7-waypoints
+[22:22:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santydork> xaero-waypoint:portal 1:P:-925:36:-433:8:false:0:Internal-dim%7-waypoints
+[22:22:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santydork> xaero-waypoint:portal 1:P:-925:36:-433:8:false:0:Internal-dim%7-waypoints
+[22:22:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santydork> xaero-waypoint:portal 1:P:-925:36:-433:8:false:0:Internal-dim%7-waypoints
+[22:22:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santydork> xaero-waypoint:portal 1:P:-925:36:-433:8:false:0:Internal-dim%7-waypoints
+[22:22:51] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Chrisus lost connection: Disconnected
+[22:22:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus left the game
+[22:22:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santydork> . xaero-waypoint:portal 1:P:-925:36:-433:8:false:0:Internal-dim%7-waypoints
+[22:22:53] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[22:22:53] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 69 mods : extendedrenderer@v1.0,mixinbooter@10.4,trashslot@8.4.10,cgm@0.15.3,hats@7.1.1,wi-zoom@1.0,bountifulbaubles@0.0.1,configmod@v1.0,mmorpg@1.9.6,jei@4.16.1.1013,mekanism@1.12.2-9.8.3.390,bettercaves@1.12.2,forgeendertech@1.12.2-4.5.6.1,mcp@9.42,clumps@3.1.2,controlling@3.0.10,ctm@MC1.12.2-1.0.2.31,xaeroworldmap@1.39.2,artifacts@1.12.2-1.2.4,sereneseasons@1.2.18,zombieawareness@1.12.1-1.11.16,adhooks@1.12.2-3.3.1.0,uteamcore@2.2.5.339,morpheus@1.12.2-3.5.106,mahoutsukai@1.12.2-v1.19.55,resourcify@1.6.1,hordes@1.5.3a,normalasm@5.24,mekanismgenerators@1.12.2-9.8.3.390,ichunutil@7.2.2,hbm@NTM-Extended-1.12.2-2.0.2,skinlayers3d@1.2.0,forge@14.23.5.2859,xaeroworldmap_core@1.12.2-1.0,twilightforest@3.11.1021,simpledivegear@1.1.1,minecraft@1.12.2,usefulbackpacks@1.5.4.85,mousetweaks@2.10.1,baubles@1.5.2,adlods@1.12.2-1.0.8.0,vehicle@0.44.1,vintagefix@0.5.1,fermiumbooter@1.1.1,villagespawnpoint@1.8,roguelike@2.4.6,ezstorage@2.5.0,patchouli@1.0-23.6,xaerominimap@25.0.0,collective@3.0,camera@1.0.10,entityculling@@VER@,offlineskins@1.12.2-v6,FML@8.0.99.99,obfuscate@0.4.2,farsight@1.6,tombstone@4.7.4,atlaslib@1.1.6,coroutil@1.12.1-1.2.37,mekanismtools@1.12.2-9.8.3.390,appleskin@1.0.14,xaerominimap_core@1.12.2-1.0,backtools@7.0.1,aether_legacy@1.5.3.2,cavern@2.3.1,followme@1.1.5a,cosmeticarmorreworked@1.12.2-v5a,movillages@1.5.4,responsiveshields@2.3
+[22:22:55] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:22:55] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Chrisus[/127.179.226.202:49037] logged in with entity id 62059 at (1.510392050900228, 25.0, -935.5461273995297)
+[22:22:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus joined the game
+[22:22:55] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player Chrisus
+[22:22:55] [Server thread/INFO] [Mekanism]: Sent config to 'Chrisus.'
+[22:23:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santydork> xaero-waypoint:polla:P:-925:36:-433:8:false:0:Internal-dim%7-waypoints
+[22:23:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Teleported Chrisus to santydork]
+[22:26:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported santydork to Chrisus]
+[22:27:30] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Chrisus lost connection: Disconnected
+[22:27:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus left the game
+[22:27:33] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[22:27:33] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 69 mods : extendedrenderer@v1.0,mixinbooter@10.4,trashslot@8.4.10,cgm@0.15.3,hats@7.1.1,wi-zoom@1.0,bountifulbaubles@0.0.1,configmod@v1.0,mmorpg@1.9.6,jei@4.16.1.1013,mekanism@1.12.2-9.8.3.390,bettercaves@1.12.2,forgeendertech@1.12.2-4.5.6.1,mcp@9.42,clumps@3.1.2,controlling@3.0.10,ctm@MC1.12.2-1.0.2.31,xaeroworldmap@1.39.2,artifacts@1.12.2-1.2.4,sereneseasons@1.2.18,zombieawareness@1.12.1-1.11.16,adhooks@1.12.2-3.3.1.0,uteamcore@2.2.5.339,morpheus@1.12.2-3.5.106,mahoutsukai@1.12.2-v1.19.55,resourcify@1.6.1,hordes@1.5.3a,normalasm@5.24,mekanismgenerators@1.12.2-9.8.3.390,ichunutil@7.2.2,hbm@NTM-Extended-1.12.2-2.0.2,skinlayers3d@1.2.0,forge@14.23.5.2859,xaeroworldmap_core@1.12.2-1.0,twilightforest@3.11.1021,simpledivegear@1.1.1,minecraft@1.12.2,usefulbackpacks@1.5.4.85,mousetweaks@2.10.1,baubles@1.5.2,adlods@1.12.2-1.0.8.0,vehicle@0.44.1,vintagefix@0.5.1,fermiumbooter@1.1.1,villagespawnpoint@1.8,roguelike@2.4.6,ezstorage@2.5.0,patchouli@1.0-23.6,xaerominimap@25.0.0,collective@3.0,camera@1.0.10,entityculling@@VER@,offlineskins@1.12.2-v6,FML@8.0.99.99,obfuscate@0.4.2,farsight@1.6,tombstone@4.7.4,atlaslib@1.1.6,coroutil@1.12.1-1.2.37,mekanismtools@1.12.2-9.8.3.390,appleskin@1.0.14,xaerominimap_core@1.12.2-1.0,backtools@7.0.1,aether_legacy@1.5.3.2,cavern@2.3.1,followme@1.1.5a,cosmeticarmorreworked@1.12.2-v5a,movillages@1.5.4,responsiveshields@2.3
+[22:27:35] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:27:35] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Chrisus[/127.179.226.202:58059] logged in with entity id 67898 at (-7.395522858272482, 27.0, -933.7930264324865)
+[22:27:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus joined the game
+[22:27:35] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player Chrisus
+[22:27:35] [Server thread/INFO] [Mekanism]: Sent config to 'Chrisus.'

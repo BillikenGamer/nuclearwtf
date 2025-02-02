@@ -33036,3 +33036,885 @@ Caused by: java.io.FileNotFoundException: https://raw.githubusercontent.com/Modd
 [22:17:15] [Server thread/DEBUG] [twilightforest]: Main tower made a bridge to another tower
 [22:17:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [22:17:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported santydork to Chrisus]
+[22:17:57] [Server thread/DEBUG] [FML]: The world ead53e4 (world) may have leaked: seen 175 times.
+
+[22:17:57] [Server thread/DEBUG] [FML]: The world ca39b63 (world) may have leaked: seen 175 times.
+
+[22:17:57] [Server thread/DEBUG] [FML]: The world 6e4a2c7f (world) may have leaked: seen 175 times.
+
+[22:17:57] [Server thread/DEBUG] [FML]: The world 1ee40cfe (world) may have leaked: seen 175 times.
+
+[22:17:57] [Server thread/DEBUG] [FML]: The world 6fb9dc4b (world) may have leaked: seen 175 times.
+
+[22:17:57] [Server thread/DEBUG] [FML]: The world 32baa85d (world) may have leaked: seen 175 times.
+
+[22:17:57] [Server thread/DEBUG] [FML]: The world 6dec3c03 (world) may have leaked: seen 175 times.
+
+[22:17:57] [Server thread/DEBUG] [FML]: The world 4e801ebc (world) may have leaked: seen 175 times.
+
+[22:17:57] [Server thread/DEBUG] [FML]: The world 58deb543 (world) may have leaked: seen 175 times.
+
+[22:17:57] [Server thread/DEBUG] [FML]: The world 5f0595e5 (world) may have leaked: seen 175 times.
+
+[22:17:57] [Server thread/DEBUG] [FML]: The world e084211 (world) may have leaked: seen 175 times.
+
+[22:17:57] [Server thread/DEBUG] [FML]: The world 6bbe9ea2 (world) may have leaked: seen 175 times.
+
+[22:17:57] [Server thread/DEBUG] [FML]: The world 13415f35 (world) may have leaked: seen 175 times.
+
+[22:17:57] [Server thread/DEBUG] [FML]: The world 1fabc43e (world) may have leaked: seen 175 times.
+
+[22:17:57] [Server thread/DEBUG] [FML]: The world 7f6aac9 (world) may have leaked: seen 175 times.
+
+[22:17:57] [Server thread/DEBUG] [FML]: The world 60cacde8 (world) may have leaked: seen 175 times.
+
+[22:18:02] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:18:13] [Server thread/DEBUG] [adlods]: DepositGenResult { Name = uranium, Size = 526, BlockPos{x=-548, y=27, z=-1195}, Chunk[-35, -75] }
+[22:18:16] [Server thread/DEBUG] [twilightforest]: SMALL_HILL @ chunk [-16, -82]
+[22:18:16] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-25, -77] in dimension 7 (twilight_forest) while populating chunk [-25, -76], causing cascading worldgen lag.
+[22:18:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[22:18:47] [Server thread/DEBUG] [FML]: The world ead53e4 (world) may have leaked: seen 180 times.
+
+[22:18:47] [Server thread/DEBUG] [FML]: The world ca39b63 (world) may have leaked: seen 180 times.
+
+[22:18:47] [Server thread/DEBUG] [FML]: The world 6e4a2c7f (world) may have leaked: seen 180 times.
+
+[22:18:47] [Server thread/DEBUG] [FML]: The world 1ee40cfe (world) may have leaked: seen 180 times.
+
+[22:18:47] [Server thread/DEBUG] [FML]: The world 6fb9dc4b (world) may have leaked: seen 180 times.
+
+[22:18:47] [Server thread/DEBUG] [FML]: The world 32baa85d (world) may have leaked: seen 180 times.
+
+[22:18:47] [Server thread/DEBUG] [FML]: The world 6dec3c03 (world) may have leaked: seen 180 times.
+
+[22:18:47] [Server thread/DEBUG] [FML]: The world 4e801ebc (world) may have leaked: seen 180 times.
+
+[22:18:47] [Server thread/DEBUG] [FML]: The world 58deb543 (world) may have leaked: seen 180 times.
+
+[22:18:47] [Server thread/DEBUG] [FML]: The world 5f0595e5 (world) may have leaked: seen 180 times.
+
+[22:18:47] [Server thread/DEBUG] [FML]: The world e084211 (world) may have leaked: seen 180 times.
+
+[22:18:47] [Server thread/DEBUG] [FML]: The world 6bbe9ea2 (world) may have leaked: seen 180 times.
+
+[22:18:47] [Server thread/DEBUG] [FML]: The world 13415f35 (world) may have leaked: seen 180 times.
+
+[22:18:47] [Server thread/DEBUG] [FML]: The world 1fabc43e (world) may have leaked: seen 180 times.
+
+[22:18:47] [Server thread/DEBUG] [FML]: The world 7f6aac9 (world) may have leaked: seen 180 times.
+
+[22:18:47] [Server thread/DEBUG] [FML]: The world 60cacde8 (world) may have leaked: seen 180 times.
+
+[22:18:47] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:19:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus has made the advancement [Bug Stomper]
+[22:19:32] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:19:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santydork has made the advancement [Bug Stomper]
+[22:19:37] [Server thread/DEBUG] [FML]: The world ead53e4 (world) may have leaked: seen 185 times.
+
+[22:19:37] [Server thread/DEBUG] [FML]: The world ca39b63 (world) may have leaked: seen 185 times.
+
+[22:19:37] [Server thread/DEBUG] [FML]: The world 6e4a2c7f (world) may have leaked: seen 185 times.
+
+[22:19:37] [Server thread/DEBUG] [FML]: The world 1ee40cfe (world) may have leaked: seen 185 times.
+
+[22:19:37] [Server thread/DEBUG] [FML]: The world 6fb9dc4b (world) may have leaked: seen 185 times.
+
+[22:19:37] [Server thread/DEBUG] [FML]: The world 32baa85d (world) may have leaked: seen 185 times.
+
+[22:19:37] [Server thread/DEBUG] [FML]: The world 6dec3c03 (world) may have leaked: seen 185 times.
+
+[22:19:37] [Server thread/DEBUG] [FML]: The world 4e801ebc (world) may have leaked: seen 185 times.
+
+[22:19:37] [Server thread/DEBUG] [FML]: The world 58deb543 (world) may have leaked: seen 185 times.
+
+[22:19:37] [Server thread/DEBUG] [FML]: The world 5f0595e5 (world) may have leaked: seen 185 times.
+
+[22:19:37] [Server thread/DEBUG] [FML]: The world e084211 (world) may have leaked: seen 185 times.
+
+[22:19:37] [Server thread/DEBUG] [FML]: The world 6bbe9ea2 (world) may have leaked: seen 185 times.
+
+[22:19:37] [Server thread/DEBUG] [FML]: The world 13415f35 (world) may have leaked: seen 185 times.
+
+[22:19:37] [Server thread/DEBUG] [FML]: The world 1fabc43e (world) may have leaked: seen 185 times.
+
+[22:19:37] [Server thread/DEBUG] [FML]: The world 7f6aac9 (world) may have leaked: seen 185 times.
+
+[22:19:37] [Server thread/DEBUG] [FML]: The world 60cacde8 (world) may have leaked: seen 185 times.
+
+[22:20:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santydork> xaero-waypoint:portal 1:P:-925:36:-433:8:false:0:Internal-dim%7-waypoints
+[22:20:17] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:20:27] [Server thread/DEBUG] [FML]: The world ead53e4 (world) may have leaked: seen 190 times.
+
+[22:20:27] [Server thread/DEBUG] [FML]: The world ca39b63 (world) may have leaked: seen 190 times.
+
+[22:20:27] [Server thread/DEBUG] [FML]: The world 6e4a2c7f (world) may have leaked: seen 190 times.
+
+[22:20:27] [Server thread/DEBUG] [FML]: The world 1ee40cfe (world) may have leaked: seen 190 times.
+
+[22:20:27] [Server thread/DEBUG] [FML]: The world 6fb9dc4b (world) may have leaked: seen 190 times.
+
+[22:20:27] [Server thread/DEBUG] [FML]: The world 32baa85d (world) may have leaked: seen 190 times.
+
+[22:20:27] [Server thread/DEBUG] [FML]: The world 6dec3c03 (world) may have leaked: seen 190 times.
+
+[22:20:27] [Server thread/DEBUG] [FML]: The world 4e801ebc (world) may have leaked: seen 190 times.
+
+[22:20:27] [Server thread/DEBUG] [FML]: The world 58deb543 (world) may have leaked: seen 190 times.
+
+[22:20:27] [Server thread/DEBUG] [FML]: The world 5f0595e5 (world) may have leaked: seen 190 times.
+
+[22:20:27] [Server thread/DEBUG] [FML]: The world e084211 (world) may have leaked: seen 190 times.
+
+[22:20:27] [Server thread/DEBUG] [FML]: The world 6bbe9ea2 (world) may have leaked: seen 190 times.
+
+[22:20:27] [Server thread/DEBUG] [FML]: The world 13415f35 (world) may have leaked: seen 190 times.
+
+[22:20:27] [Server thread/DEBUG] [FML]: The world 1fabc43e (world) may have leaked: seen 190 times.
+
+[22:20:27] [Server thread/DEBUG] [FML]: The world 7f6aac9 (world) may have leaked: seen 190 times.
+
+[22:20:27] [Server thread/DEBUG] [FML]: The world 60cacde8 (world) may have leaked: seen 190 times.
+
+[22:21:02] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chrisus moved too quickly! 10.042643930259715,1.0043522406211949,-2.315084230818229
+[22:21:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: santydork moved too quickly! 10.05896881175488,0.8322033533667508,1.173280474623425
+[22:21:04] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 9949ms behind, skipping 198 tick(s)
+[22:21:18] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:21:19] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2037ms behind, skipping 40 tick(s)
+[22:21:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] xh
+[22:21:28] [Server thread/DEBUG] [adlods]: DepositGenResult { Name = aluminum, Size = 1109, BlockPos{x=-137, y=24, z=-961}, Chunk[-9, -61] }
+[22:21:28] [Server thread/DEBUG] [twilightforest]: HEDGE_MAZE @ chunk [0, -61]
+[22:21:31] [Server thread/DEBUG] [twilightforest]: HEDGE_MAZE @ chunk [1, -81]
+[22:21:31] [Server thread/DEBUG] [FML]: The world ead53e4 (world) may have leaked: seen 195 times.
+
+[22:21:31] [Server thread/DEBUG] [FML]: The world ca39b63 (world) may have leaked: seen 195 times.
+
+[22:21:31] [Server thread/DEBUG] [FML]: The world 6e4a2c7f (world) may have leaked: seen 195 times.
+
+[22:21:31] [Server thread/DEBUG] [FML]: The world 1ee40cfe (world) may have leaked: seen 195 times.
+
+[22:21:31] [Server thread/DEBUG] [FML]: The world 6fb9dc4b (world) may have leaked: seen 195 times.
+
+[22:21:31] [Server thread/DEBUG] [FML]: The world 32baa85d (world) may have leaked: seen 195 times.
+
+[22:21:31] [Server thread/DEBUG] [FML]: The world 6dec3c03 (world) may have leaked: seen 195 times.
+
+[22:21:31] [Server thread/DEBUG] [FML]: The world 4e801ebc (world) may have leaked: seen 195 times.
+
+[22:21:31] [Server thread/DEBUG] [FML]: The world 58deb543 (world) may have leaked: seen 195 times.
+
+[22:21:31] [Server thread/DEBUG] [FML]: The world 5f0595e5 (world) may have leaked: seen 195 times.
+
+[22:21:31] [Server thread/DEBUG] [FML]: The world e084211 (world) may have leaked: seen 195 times.
+
+[22:21:31] [Server thread/DEBUG] [FML]: The world 6bbe9ea2 (world) may have leaked: seen 195 times.
+
+[22:21:31] [Server thread/DEBUG] [FML]: The world 13415f35 (world) may have leaked: seen 195 times.
+
+[22:21:31] [Server thread/DEBUG] [FML]: The world 1fabc43e (world) may have leaked: seen 195 times.
+
+[22:21:31] [Server thread/DEBUG] [FML]: The world 7f6aac9 (world) may have leaked: seen 195 times.
+
+[22:21:31] [Server thread/DEBUG] [FML]: The world 60cacde8 (world) may have leaked: seen 195 times.
+
+[22:21:33] [Server thread/DEBUG] [adlods]: DepositGenResult { Name = lapis, Size = 480, BlockPos{x=-73, y=11, z=-947}, Chunk[-5, -60] }
+[22:21:35] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chrisus was kicked for floating too long!
+[22:21:35] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Chrisus lost connection: Flying is not enabled on this server
+[22:21:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus left the game
+[22:21:41] [Server thread/TRACE] [FML]: Handshake channel activating
+[22:21:41] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[22:21:41] [Server thread/DEBUG] [FML]:   Next: HELLO
+[22:21:41] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[22:21:41] [Netty Epoll Server IO #7/INFO] [FML]: Client protocol version 2
+[22:21:41] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $ModList:69 mods->FMLHandshakeServerState$2:HELLO
+[22:21:41] [Netty Epoll Server IO #7/INFO] [FML]: Client attempting to join with 69 mods : extendedrenderer@v1.0,mixinbooter@10.4,trashslot@8.4.10,cgm@0.15.3,hats@7.1.1,wi-zoom@1.0,bountifulbaubles@0.0.1,configmod@v1.0,mmorpg@1.9.6,jei@4.16.1.1013,mekanism@1.12.2-9.8.3.390,bettercaves@1.12.2,forgeendertech@1.12.2-4.5.6.1,mcp@9.42,clumps@3.1.2,controlling@3.0.10,ctm@MC1.12.2-1.0.2.31,xaeroworldmap@1.39.2,artifacts@1.12.2-1.2.4,sereneseasons@1.2.18,zombieawareness@1.12.1-1.11.16,adhooks@1.12.2-3.3.1.0,uteamcore@2.2.5.339,morpheus@1.12.2-3.5.106,mahoutsukai@1.12.2-v1.19.55,resourcify@1.6.1,hordes@1.5.3a,normalasm@5.24,mekanismgenerators@1.12.2-9.8.3.390,ichunutil@7.2.2,hbm@NTM-Extended-1.12.2-2.0.2,skinlayers3d@1.2.0,forge@14.23.5.2859,xaeroworldmap_core@1.12.2-1.0,twilightforest@3.11.1021,simpledivegear@1.1.1,minecraft@1.12.2,usefulbackpacks@1.5.4.85,mousetweaks@2.10.1,baubles@1.5.2,adlods@1.12.2-1.0.8.0,vehicle@0.44.1,vintagefix@0.5.1,fermiumbooter@1.1.1,villagespawnpoint@1.8,roguelike@2.4.6,ezstorage@2.5.0,patchouli@1.0-23.6,xaerominimap@25.0.0,collective@3.0,camera@1.0.10,entityculling@@VER@,offlineskins@1.12.2-v6,FML@8.0.99.99,obfuscate@0.4.2,farsight@1.6,tombstone@4.7.4,atlaslib@1.1.6,coroutil@1.12.1-1.2.37,mekanismtools@1.12.2-9.8.3.390,appleskin@1.0.14,xaerominimap_core@1.12.2-1.0,backtools@7.0.1,aether_legacy@1.5.3.2,cavern@2.3.1,followme@1.1.5a,cosmeticarmorreworked@1.12.2-v5a,movillages@1.5.4,responsiveshields@2.3
+[22:21:41] [Netty Epoll Server IO #7/DEBUG] [FML]:   Next: WAITINGCACK
+[22:21:41] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[22:21:41] [Netty Epoll Server IO #7/DEBUG] [FML]:   Next: COMPLETE
+[22:21:43] [Server thread/DEBUG] [twilightforest]: TROLL_CAVE @ chunk [1, -46]
+[22:21:43] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[22:21:43] [Netty Epoll Server IO #7/DEBUG] [FML]:   Next: DONE
+[22:21:43] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[22:21:43] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:21:43] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Chrisus[/127.179.226.202:33231] logged in with entity id 60024 at (-227.62650619092608, 34.498374157489366, -1028.0304395403896)
+[22:21:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus joined the game
+[22:21:43] [Netty Epoll Server IO #7/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[22:21:43] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player Chrisus
+[22:21:43] [Server thread/INFO] [Mekanism]: Sent config to 'Chrisus.'
+[22:21:53] [Server thread/DEBUG] [adlods]: DepositGenResult { Name = uranium, Size = 748, BlockPos{x=-18, y=24, z=-895}, Chunk[-2, -56] }
+[22:21:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Changing to clear weather]
+[22:21:56] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chrisus moved too quickly! 10.330370953892157,0.5954232828390715,-0.6355799599002694
+[22:21:56] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:22:01] [Server thread/DEBUG] [adlods]: DepositGenResult { Name = coal, Size = 0, BlockPos{x=8, y=39, z=-973}, Chunk[0, -61] }
+[22:22:01] [Server thread/DEBUG] [adlods]: DepositGenResult { Name = coal, Size = 0, BlockPos{x=11, y=60, z=-983}, Chunk[0, -62] }
+[22:22:01] [Server thread/DEBUG] [adlods]: DepositGenResult { Name = coal, Size = 0, BlockPos{x=22, y=73, z=-975}, Chunk[1, -61] }
+[22:22:01] [Server thread/DEBUG] [adlods]: DepositGenResult { Name = coal, Size = 0, BlockPos{x=17, y=35, z=-975}, Chunk[1, -61] }
+[22:22:01] [Server thread/DEBUG] [adlods]: DepositGenResult { Name = coal, Size = 0, BlockPos{x=23, y=42, z=-982}, Chunk[1, -62] }
+[22:22:01] [Server thread/DEBUG] [adlods]: DepositGenResult { Name = coal, Size = 0, BlockPos{x=15, y=77, z=-978}, Chunk[0, -62] }
+[22:22:01] [Server thread/DEBUG] [adlods]: DepositGenResult { Name = coal, Size = 0, BlockPos{x=15, y=36, z=-973}, Chunk[0, -61] }
+[22:22:01] [Server thread/DEBUG] [adlods]: DepositGenResult { Name = coal, Size = 0, BlockPos{x=20, y=57, z=-977}, Chunk[1, -62] }
+[22:22:12] [Server thread/DEBUG] [adlods]: DepositGenResult { Name = cobalt, Size = 0, BlockPos{x=68, y=17, z=-848}, Chunk[4, -53] }
+[22:22:12] [Server thread/DEBUG] [adlods]: DepositGenResult { Name = cobalt, Size = 1303, BlockPos{x=58, y=19, z=-843}, Chunk[3, -53] }
+[22:22:16] [Server thread/DEBUG] [FML]: The world ead53e4 (world) may have leaked: seen 200 times.
+
+[22:22:16] [Server thread/DEBUG] [FML]: The world ca39b63 (world) may have leaked: seen 200 times.
+
+[22:22:16] [Server thread/DEBUG] [FML]: The world 6e4a2c7f (world) may have leaked: seen 200 times.
+
+[22:22:16] [Server thread/DEBUG] [FML]: The world 1ee40cfe (world) may have leaked: seen 200 times.
+
+[22:22:16] [Server thread/DEBUG] [FML]: The world 6fb9dc4b (world) may have leaked: seen 200 times.
+
+[22:22:16] [Server thread/DEBUG] [FML]: The world 32baa85d (world) may have leaked: seen 200 times.
+
+[22:22:16] [Server thread/DEBUG] [FML]: The world 6dec3c03 (world) may have leaked: seen 200 times.
+
+[22:22:16] [Server thread/DEBUG] [FML]: The world 4e801ebc (world) may have leaked: seen 200 times.
+
+[22:22:16] [Server thread/DEBUG] [FML]: The world 58deb543 (world) may have leaked: seen 200 times.
+
+[22:22:16] [Server thread/DEBUG] [FML]: The world 5f0595e5 (world) may have leaked: seen 200 times.
+
+[22:22:16] [Server thread/DEBUG] [FML]: The world e084211 (world) may have leaked: seen 200 times.
+
+[22:22:16] [Server thread/DEBUG] [FML]: The world 6bbe9ea2 (world) may have leaked: seen 200 times.
+
+[22:22:16] [Server thread/DEBUG] [FML]: The world 13415f35 (world) may have leaked: seen 200 times.
+
+[22:22:16] [Server thread/DEBUG] [FML]: The world 1fabc43e (world) may have leaked: seen 200 times.
+
+[22:22:16] [Server thread/DEBUG] [FML]: The world 7f6aac9 (world) may have leaked: seen 200 times.
+
+[22:22:16] [Server thread/DEBUG] [FML]: The world 60cacde8 (world) may have leaked: seen 200 times.
+
+[22:22:16] [Server thread/DEBUG] [adlods]: DepositGenResult { Name = gold, Size = 0, BlockPos{x=99, y=19, z=-871}, Chunk[6, -55] }
+[22:22:16] [Server thread/DEBUG] [adlods]: DepositGenResult { Name = gold, Size = 924, BlockPos{x=92, y=21, z=-872}, Chunk[5, -55] }
+[22:22:21] [Server thread/DEBUG] [adlods]: DepositGenResult { Name = aluminum, Size = 0, BlockPos{x=132, y=18, z=-919}, Chunk[8, -58] }
+[22:22:21] [Server thread/DEBUG] [adlods]: DepositGenResult { Name = aluminum, Size = 0, BlockPos{x=122, y=49, z=-914}, Chunk[7, -58] }
+[22:22:21] [Server thread/DEBUG] [adlods]: DepositGenResult { Name = aluminum, Size = 0, BlockPos{x=122, y=23, z=-919}, Chunk[7, -58] }
+[22:22:21] [Server thread/DEBUG] [adlods]: DepositGenResult { Name = aluminum, Size = 0, BlockPos{x=122, y=43, z=-917}, Chunk[7, -58] }
+[22:22:21] [Server thread/DEBUG] [adlods]: DepositGenResult { Name = aluminum, Size = 0, BlockPos{x=122, y=43, z=-909}, Chunk[7, -57] }
+[22:22:21] [Server thread/DEBUG] [adlods]: DepositGenResult { Name = aluminum, Size = 0, BlockPos{x=124, y=45, z=-914}, Chunk[7, -58] }
+[22:22:21] [Server thread/DEBUG] [adlods]: DepositGenResult { Name = aluminum, Size = 0, BlockPos{x=131, y=19, z=-910}, Chunk[8, -57] }
+[22:22:21] [Server thread/DEBUG] [adlods]: DepositGenResult { Name = aluminum, Size = 0, BlockPos{x=125, y=20, z=-908}, Chunk[7, -57] }
+[22:22:21] [Server thread/DEBUG] [twilightforest]: FINAL_CASTLE @ chunk [16, -48]
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Making castle at 256, -768. center is 264, -759
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Natural center at 256, -768
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining best direction!  center is at 340, -768 and dest is at BlockPos{x=228, y=192, z=-816}. offset is 112, 48 so the best absolute direction is east
+[22:22:21] [Server thread/DEBUG] [twilightforest]: original direction is east
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Our coord mode is south, and direction is east, so our door is going to be at BlockPos{x=6, y=16, z=0} and the new tower will appear at BlockPos{x=340, y=168, z=-792}
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Testing range, uncorrected center is at 256, -768
+[22:22:21] [Server thread/DEBUG] [twilightforest]: tower success!
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining best direction!  center is at 340, -792 and dest is at BlockPos{x=228, y=192, z=-816}. offset is 112, 24 so the best absolute direction is east
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining second direction!  center is at 340, -792 and dest is at BlockPos{x=228, y=192, z=-816}. offset is 112, 24 so the best absolute direction is south
+[22:22:21] [Server thread/DEBUG] [twilightforest]: original direction is south
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Our coord mode is east, and direction is south, so our door is going to be at BlockPos{x=6, y=16, z=12} and the new tower will appear at BlockPos{x=372, y=168, z=-792}
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Testing range, uncorrected center is at 256, -768
+[22:22:21] [Server thread/DEBUG] [twilightforest]: tower success!
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining best direction!  center is at 372, -792 and dest is at BlockPos{x=228, y=192, z=-816}. offset is 144, 24 so the best absolute direction is east
+[22:22:21] [Server thread/DEBUG] [twilightforest]: original direction is east
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Our coord mode is south, and direction is east, so our door is going to be at BlockPos{x=6, y=16, z=0} and the new tower will appear at BlockPos{x=372, y=168, z=-825}
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Testing range, uncorrected center is at 256, -768
+[22:22:21] [Server thread/DEBUG] [twilightforest]: tower success!
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining best direction!  center is at 372, -825 and dest is at BlockPos{x=228, y=192, z=-816}. offset is 144, -9 so the best absolute direction is east
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining second direction!  center is at 372, -825 and dest is at BlockPos{x=228, y=192, z=-816}. offset is 144, -9 so the best absolute direction is north
+[22:22:21] [Server thread/DEBUG] [twilightforest]: original direction is north
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Our coord mode is east, and direction is north, so our door is going to be at BlockPos{x=6, y=0, z=0} and the new tower will appear at BlockPos{x=338, y=160, z=-825}
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Testing range, uncorrected center is at 256, -768
+[22:22:21] [Server thread/DEBUG] [twilightforest]: tower success!
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining best direction!  center is at 338, -825 and dest is at BlockPos{x=228, y=192, z=-816}. offset is 110, -9 so the best absolute direction is east
+[22:22:21] [Server thread/DEBUG] [twilightforest]: original direction is east
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Our coord mode is north, and direction is east, so our door is going to be at BlockPos{x=6, y=16, z=12} and the new tower will appear at BlockPos{x=338, y=176, z=-863}
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Testing range, uncorrected center is at 256, -768
+[22:22:21] [Server thread/DEBUG] [twilightforest]: tower success!
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining best direction!  center is at 338, -863 and dest is at BlockPos{x=228, y=192, z=-816}. offset is 110, -47 so the best absolute direction is east
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining second direction!  center is at 338, -863 and dest is at BlockPos{x=228, y=192, z=-816}. offset is 110, -47 so the best absolute direction is north
+[22:22:21] [Server thread/DEBUG] [twilightforest]: original direction is north
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Our coord mode is east, and direction is north, so our door is going to be at BlockPos{x=6, y=16, z=0} and the new tower will appear at BlockPos{x=310, y=176, z=-863}
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Testing range, uncorrected center is at 256, -768
+[22:22:21] [Server thread/DEBUG] [twilightforest]: tower success!
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining best direction!  center is at 310, -863 and dest is at BlockPos{x=228, y=192, z=-816}. offset is 82, -47 so the best absolute direction is east
+[22:22:21] [Server thread/DEBUG] [twilightforest]: original direction is east
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Our coord mode is north, and direction is east, so our door is going to be at BlockPos{x=6, y=16, z=12} and the new tower will appear at BlockPos{x=310, y=176, z=-898}
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Testing range, uncorrected center is at 256, -768
+[22:22:21] [Server thread/INFO] [twilightforest]: tower out of range
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining second direction!  center is at 310, -863 and dest is at BlockPos{x=228, y=192, z=-816}. offset is 82, -47 so the best absolute direction is north
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining best direction!  center is at 310, -863 and dest is at BlockPos{x=228, y=192, z=-816}. offset is 82, -47 so the best absolute direction is east
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining second direction!  center is at 310, -863 and dest is at BlockPos{x=228, y=192, z=-816}. offset is 82, -47 so the best absolute direction is north
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining third direction!  first is east, and second is north
+[22:22:21] [Server thread/DEBUG] [twilightforest]: original direction is west
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Our coord mode is north, and direction is west, so our door is going to be at BlockPos{x=6, y=8, z=0} and the new tower will appear at BlockPos{x=310, y=168, z=-828}
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Testing range, uncorrected center is at 256, -768
+[22:22:21] [Server thread/DEBUG] [twilightforest]: tower success!
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining best direction!  center is at 310, -828 and dest is at BlockPos{x=228, y=192, z=-816}. offset is 82, -12 so the best absolute direction is east
+[22:22:21] [Server thread/DEBUG] [twilightforest]: original direction is east
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Our coord mode is west, and direction is east, so our door is going to be at BlockPos{x=0, y=0, z=6} and the new tower will appear at BlockPos{x=310, y=168, z=-871}
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Testing range, uncorrected center is at 256, -768
+[22:22:21] [Server thread/INFO] [twilightforest]: tower blocked by twilightforest.structures.finalcastle.ComponentTFFinalCastleMazeTower13@65c91dff
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining second direction!  center is at 310, -828 and dest is at BlockPos{x=228, y=192, z=-816}. offset is 82, -12 so the best absolute direction is north
+[22:22:21] [Server thread/DEBUG] [twilightforest]: original direction is north
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Our coord mode is west, and direction is north, so our door is going to be at BlockPos{x=6, y=0, z=12} and the new tower will appear at BlockPos{x=267, y=168, z=-828}
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Testing range, uncorrected center is at 256, -768
+[22:22:21] [Server thread/DEBUG] [twilightforest]: tower success!
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining best direction!  center is at 267, -828 and dest is at BlockPos{x=228, y=192, z=-816}. offset is 39, -12 so the best absolute direction is east
+[22:22:21] [Server thread/DEBUG] [twilightforest]: original direction is east
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Our coord mode is north, and direction is east, so our door is going to be at BlockPos{x=6, y=16, z=12} and the new tower will appear at BlockPos{x=267, y=168, z=-858}
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Testing range, uncorrected center is at 256, -768
+[22:22:21] [Server thread/DEBUG] [twilightforest]: tower success!
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining best direction!  center is at 267, -858 and dest is at BlockPos{x=228, y=192, z=-816}. offset is 39, -42 so the best absolute direction is north
+[22:22:21] [Server thread/DEBUG] [twilightforest]: original direction is north
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Our coord mode is east, and direction is north, so our door is going to be at BlockPos{x=6, y=24, z=0} and the new tower will appear at BlockPos{x=232, y=184, z=-858}
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Testing range, uncorrected center is at 256, -768
+[22:22:21] [Server thread/DEBUG] [twilightforest]: tower success!
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining best direction!  center is at 232, -858 and dest is at BlockPos{x=228, y=192, z=-816}. offset is 4, -42 so the best absolute direction is north
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining second direction!  center is at 232, -858 and dest is at BlockPos{x=228, y=192, z=-816}. offset is 4, -42 so the best absolute direction is east
+[22:22:21] [Server thread/DEBUG] [twilightforest]: original direction is east
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Our coord mode is north, and direction is east, so our door is going to be at BlockPos{x=6, y=24, z=12} and the new tower will appear at BlockPos{x=232, y=200, z=-900}
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Testing range, uncorrected center is at 256, -768
+[22:22:21] [Server thread/INFO] [twilightforest]: tower out of range
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining best direction!  center is at 232, -858 and dest is at BlockPos{x=228, y=192, z=-816}. offset is 4, -42 so the best absolute direction is north
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining second direction!  center is at 232, -858 and dest is at BlockPos{x=228, y=192, z=-816}. offset is 4, -42 so the best absolute direction is east
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining third direction!  first is north, and second is east
+[22:22:21] [Server thread/DEBUG] [twilightforest]: original direction is west
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Our coord mode is north, and direction is west, so our door is going to be at BlockPos{x=6, y=24, z=0} and the new tower will appear at BlockPos{x=232, y=200, z=-816}
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Testing range, uncorrected center is at 256, -768
+[22:22:21] [Server thread/DEBUG] [twilightforest]: tower success!
+[22:22:21] [Server thread/DEBUG] [twilightforest]: We are within range of our destination, building final tower
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining best direction!  center is at 232, -816 and dest is at BlockPos{x=228, y=192, z=-816}. offset is 4, 0 so the best absolute direction is east
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining second direction!  center is at 232, -816 and dest is at BlockPos{x=228, y=192, z=-816}. offset is 4, 0 so the best absolute direction is south
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining best direction!  center is at 232, -816 and dest is at BlockPos{x=228, y=192, z=-816}. offset is 4, 0 so the best absolute direction is east
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining second direction!  center is at 232, -816 and dest is at BlockPos{x=228, y=192, z=-816}. offset is 4, 0 so the best absolute direction is south
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining third direction!  first is east, and second is south
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Working towards 228,192,-816
+[22:22:21] [Server thread/WARN] [twilightforest]: Maze of color pink is getting a bit excessive.
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleMain at 396,268,-1140
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation48 at 396,227,-1140
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleRoof48Crenellated at 397,292,-1139
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleBossGazebo at 389,302,-1147
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleStairTower at 350,283,-1186
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleRoof9Crenellated at 351,311,-1185
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleLargeTower at 423,293,-1185
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleRoof9Crenellated at 424,326,-1184
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleStairTower at 350,283,-1114
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleRoof9Crenellated at 351,311,-1113
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleStairTower at 422,283,-1114
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleRoof9Crenellated at 423,311,-1113
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleBridge at 474,232,-1151
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleMazeTower13 at 513,261,-1149
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation13 at 514,228,-1148
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleRoof13Crenellated at 514,281,-1148
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleMazeTower13 at 513,253,-1185
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation13 at 514,228,-1184
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleRoof13Crenellated at 514,269,-1184
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleMazeTower13 at 561,261,-1185
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation13 at 562,228,-1184
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleRoof13Conical at 562,292,-1184
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleMazeTower13 at 561,265,-1235
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation13 at 562,240,-1234
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleRoof13Crenellated at 562,281,-1234
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleMazeTower13 at 510,265,-1235
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation13 at 511,240,-1234
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleRoof13Conical at 511,292,-1234
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleMazeTower13 at 510,265,-1292
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation13 at 511,240,-1291
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleRoof13Conical at 511,296,-1291
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleMazeTower13 at 468,265,-1292
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation13 at 469,240,-1291
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleRoof13Conical at 469,288,-1291
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleMazeTower13 at 468,269,-1239
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation13 at 469,252,-1238
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleRoof13Conical at 469,300,-1238
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleMazeTower13 at 404,253,-1239
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation13 at 405,228,-1238
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleRoof13Conical at 405,280,-1238
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleMazeTower13 at 404,273,-1284
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation13 at 405,240,-1283
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleRoof13Conical at 405,304,-1283
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleMazeTower13 at 351,297,-1284
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation13 at 352,264,-1283
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleRoof13Conical at 352,320,-1283
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleMazeTower13 at 351,297,-1221
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation13 at 352,264,-1220
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleRoof13Crenellated at 352,317,-1220
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleEntranceTower at 312,301,-1221
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Tower maze color pink complete!
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining best direction!  center is at 172, -768 and dest is at BlockPos{x=284, y=152, z=-720}. offset is -112, -48 so the best absolute direction is west
+[22:22:21] [Server thread/DEBUG] [twilightforest]: original direction is west
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Our coord mode is north, and direction is west, so our door is going to be at BlockPos{x=6, y=16, z=0} and the new tower will appear at BlockPos{x=172, y=182, z=-744}
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Testing range, uncorrected center is at 256, -768
+[22:22:21] [Server thread/DEBUG] [twilightforest]: tower success!
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining best direction!  center is at 172, -744 and dest is at BlockPos{x=284, y=152, z=-720}. offset is -112, -24 so the best absolute direction is west
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining second direction!  center is at 172, -744 and dest is at BlockPos{x=284, y=152, z=-720}. offset is -112, -24 so the best absolute direction is north
+[22:22:21] [Server thread/DEBUG] [twilightforest]: original direction is north
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Our coord mode is west, and direction is north, so our door is going to be at BlockPos{x=6, y=24, z=12} and the new tower will appear at BlockPos{x=136, y=198, z=-744}
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Testing range, uncorrected center is at 256, -768
+[22:22:21] [Server thread/DEBUG] [twilightforest]: tower success!
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining best direction!  center is at 136, -744 and dest is at BlockPos{x=284, y=152, z=-720}. offset is -148, -24 so the best absolute direction is west
+[22:22:21] [Server thread/DEBUG] [twilightforest]: original direction is west
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Our coord mode is north, and direction is west, so our door is going to be at BlockPos{x=6, y=0, z=0} and the new tower will appear at BlockPos{x=136, y=182, z=-715}
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Testing range, uncorrected center is at 256, -768
+[22:22:21] [Server thread/DEBUG] [twilightforest]: tower success!
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining best direction!  center is at 136, -715 and dest is at BlockPos{x=284, y=152, z=-720}. offset is -148, 5 so the best absolute direction is west
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining second direction!  center is at 136, -715 and dest is at BlockPos{x=284, y=152, z=-720}. offset is -148, 5 so the best absolute direction is south
+[22:22:21] [Server thread/DEBUG] [twilightforest]: original direction is south
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Our coord mode is west, and direction is south, so our door is going to be at BlockPos{x=6, y=8, z=0} and the new tower will appear at BlockPos{x=161, y=182, z=-715}
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Testing range, uncorrected center is at 256, -768
+[22:22:21] [Server thread/DEBUG] [twilightforest]: tower success!
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining best direction!  center is at 161, -715 and dest is at BlockPos{x=284, y=152, z=-720}. offset is -123, 5 so the best absolute direction is west
+[22:22:21] [Server thread/DEBUG] [twilightforest]: original direction is west
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Our coord mode is south, and direction is west, so our door is going to be at BlockPos{x=6, y=8, z=12} and the new tower will appear at BlockPos{x=161, y=190, z=-685}
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Testing range, uncorrected center is at 256, -768
+[22:22:21] [Server thread/DEBUG] [twilightforest]: tower success!
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining best direction!  center is at 161, -685 and dest is at BlockPos{x=284, y=152, z=-720}. offset is -123, 35 so the best absolute direction is west
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining second direction!  center is at 161, -685 and dest is at BlockPos{x=284, y=152, z=-720}. offset is -123, 35 so the best absolute direction is south
+[22:22:21] [Server thread/DEBUG] [twilightforest]: original direction is south
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Our coord mode is west, and direction is south, so our door is going to be at BlockPos{x=6, y=0, z=0} and the new tower will appear at BlockPos{x=188, y=182, z=-685}
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Testing range, uncorrected center is at 256, -768
+[22:22:21] [Server thread/DEBUG] [twilightforest]: tower success!
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining best direction!  center is at 188, -685 and dest is at BlockPos{x=284, y=152, z=-720}. offset is -96, 35 so the best absolute direction is west
+[22:22:21] [Server thread/DEBUG] [twilightforest]: original direction is west
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Our coord mode is south, and direction is west, so our door is going to be at BlockPos{x=6, y=0, z=12} and the new tower will appear at BlockPos{x=188, y=166, z=-663}
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Testing range, uncorrected center is at 256, -768
+[22:22:21] [Server thread/DEBUG] [twilightforest]: tower success!
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining best direction!  center is at 188, -663 and dest is at BlockPos{x=284, y=152, z=-720}. offset is -96, 57 so the best absolute direction is west
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining second direction!  center is at 188, -663 and dest is at BlockPos{x=284, y=152, z=-720}. offset is -96, 57 so the best absolute direction is south
+[22:22:21] [Server thread/DEBUG] [twilightforest]: original direction is south
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Our coord mode is west, and direction is south, so our door is going to be at BlockPos{x=6, y=0, z=0} and the new tower will appear at BlockPos{x=217, y=150, z=-663}
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Testing range, uncorrected center is at 256, -768
+[22:22:21] [Server thread/DEBUG] [twilightforest]: tower success!
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining best direction!  center is at 217, -663 and dest is at BlockPos{x=284, y=152, z=-720}. offset is -67, 57 so the best absolute direction is west
+[22:22:21] [Server thread/DEBUG] [twilightforest]: original direction is west
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Our coord mode is south, and direction is west, so our door is going to be at BlockPos{x=6, y=8, z=12} and the new tower will appear at BlockPos{x=217, y=158, z=-638}
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Testing range, uncorrected center is at 256, -768
+[22:22:21] [Server thread/INFO] [twilightforest]: tower out of range
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining second direction!  center is at 217, -663 and dest is at BlockPos{x=284, y=152, z=-720}. offset is -67, 57 so the best absolute direction is south
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining best direction!  center is at 217, -663 and dest is at BlockPos{x=284, y=152, z=-720}. offset is -67, 57 so the best absolute direction is west
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining second direction!  center is at 217, -663 and dest is at BlockPos{x=284, y=152, z=-720}. offset is -67, 57 so the best absolute direction is south
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining third direction!  first is west, and second is south
+[22:22:21] [Server thread/DEBUG] [twilightforest]: original direction is east
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Our coord mode is south, and direction is east, so our door is going to be at BlockPos{x=6, y=0, z=0} and the new tower will appear at BlockPos{x=217, y=150, z=-688}
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Testing range, uncorrected center is at 256, -768
+[22:22:21] [Server thread/DEBUG] [twilightforest]: tower success!
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining best direction!  center is at 217, -688 and dest is at BlockPos{x=284, y=152, z=-720}. offset is -67, 32 so the best absolute direction is west
+[22:22:21] [Server thread/DEBUG] [twilightforest]: original direction is west
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Our coord mode is east, and direction is west, so our door is going to be at BlockPos{x=0, y=8, z=6} and the new tower will appear at BlockPos{x=217, y=158, z=-662}
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Testing range, uncorrected center is at 256, -768
+[22:22:21] [Server thread/INFO] [twilightforest]: tower blocked by twilightforest.structures.finalcastle.ComponentTFFinalCastleMazeTower13@4137e239
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining second direction!  center is at 217, -688 and dest is at BlockPos{x=284, y=152, z=-720}. offset is -67, 32 so the best absolute direction is south
+[22:22:21] [Server thread/DEBUG] [twilightforest]: original direction is south
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Our coord mode is east, and direction is south, so our door is going to be at BlockPos{x=6, y=0, z=12} and the new tower will appear at BlockPos{x=243, y=150, z=-688}
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Testing range, uncorrected center is at 256, -768
+[22:22:21] [Server thread/DEBUG] [twilightforest]: tower success!
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining best direction!  center is at 243, -688 and dest is at BlockPos{x=284, y=152, z=-720}. offset is -41, 32 so the best absolute direction is west
+[22:22:21] [Server thread/DEBUG] [twilightforest]: original direction is west
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Our coord mode is south, and direction is west, so our door is going to be at BlockPos{x=6, y=8, z=12} and the new tower will appear at BlockPos{x=243, y=158, z=-659}
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Testing range, uncorrected center is at 256, -768
+[22:22:21] [Server thread/DEBUG] [twilightforest]: tower success!
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining best direction!  center is at 243, -659 and dest is at BlockPos{x=284, y=152, z=-720}. offset is -41, 61 so the best absolute direction is south
+[22:22:21] [Server thread/DEBUG] [twilightforest]: original direction is south
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Our coord mode is west, and direction is south, so our door is going to be at BlockPos{x=6, y=8, z=0} and the new tower will appear at BlockPos{x=285, y=166, z=-659}
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Testing range, uncorrected center is at 256, -768
+[22:22:21] [Server thread/DEBUG] [twilightforest]: tower success!
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining best direction!  center is at 285, -659 and dest is at BlockPos{x=284, y=152, z=-720}. offset is 1, 61 so the best absolute direction is south
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining second direction!  center is at 285, -659 and dest is at BlockPos{x=284, y=152, z=-720}. offset is 1, 61 so the best absolute direction is east
+[22:22:21] [Server thread/DEBUG] [twilightforest]: original direction is east
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Our coord mode is south, and direction is east, so our door is going to be at BlockPos{x=6, y=8, z=0} and the new tower will appear at BlockPos{x=285, y=174, z=-700}
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Testing range, uncorrected center is at 256, -768
+[22:22:21] [Server thread/DEBUG] [twilightforest]: tower success!
+[22:22:21] [Server thread/DEBUG] [twilightforest]: We are within range of our destination, building final tower
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Determining best direction!  center is at 285, -700 and dest is at BlockPos{x=284, y=152, z=-720}. offset is 1, 20 so the best absolute direction is south
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Working towards 284,152,-720
+[22:22:21] [Server thread/WARN] [twilightforest]: Maze of color blue is getting a bit excessive.
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleMain at 396,268,-1140
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation48 at 396,227,-1140
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleRoof48Crenellated at 397,292,-1139
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleBossGazebo at 389,302,-1147
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleStairTower at 350,283,-1186
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleRoof9Crenellated at 351,311,-1185
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleLargeTower at 423,293,-1185
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleRoof9Crenellated at 424,326,-1184
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleStairTower at 350,283,-1114
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleRoof9Crenellated at 351,311,-1113
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleStairTower at 422,283,-1114
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleRoof9Crenellated at 423,311,-1113
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleBridge at 474,232,-1151
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleMazeTower13 at 513,261,-1149
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation13 at 514,228,-1148
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleRoof13Crenellated at 514,281,-1148
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleMazeTower13 at 513,253,-1185
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation13 at 514,228,-1184
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleRoof13Crenellated at 514,269,-1184
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleMazeTower13 at 561,261,-1185
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation13 at 562,228,-1184
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleRoof13Conical at 562,292,-1184
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleMazeTower13 at 561,265,-1235
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation13 at 562,240,-1234
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleRoof13Crenellated at 562,281,-1234
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleMazeTower13 at 510,265,-1235
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation13 at 511,240,-1234
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleRoof13Conical at 511,292,-1234
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleMazeTower13 at 510,265,-1292
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation13 at 511,240,-1291
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleRoof13Conical at 511,296,-1291
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleMazeTower13 at 468,265,-1292
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation13 at 469,240,-1291
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleRoof13Conical at 469,288,-1291
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleMazeTower13 at 468,269,-1239
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation13 at 469,252,-1238
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleRoof13Conical at 469,300,-1238
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleMazeTower13 at 404,253,-1239
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation13 at 405,228,-1238
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleRoof13Conical at 405,280,-1238
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleMazeTower13 at 404,273,-1284
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation13 at 405,240,-1283
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleRoof13Conical at 405,304,-1283
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleMazeTower13 at 351,297,-1284
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation13 at 352,264,-1283
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleRoof13Conical at 352,320,-1283
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleMazeTower13 at 351,297,-1221
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation13 at 352,264,-1220
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleRoof13Crenellated at 352,317,-1220
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleEntranceTower at 312,301,-1221
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation13 at 313,276,-1220
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleRoof13Peaked at 313,330,-1220
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleEntranceSideTower at 312,269,-1260
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation13 at 313,228,-1259
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleRoof13Peaked at 313,306,-1259
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleBridge at 311,280,-1241
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleEntranceBottomTower at 312,225,-1221
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleEntranceStairs at 311,192,-1203
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleEntranceStairs at 314,192,-1239
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleEntranceStairs at 330,192,-1220
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleEntranceStairs at 294,192,-1223
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleBridge at 311,232,-1241
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleBridge at 332,304,-1223
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleBridge at 350,304,-1249
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleBridge at 380,280,-1286
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleBridge at 402,256,-1261
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleDamagedTower at 344,245,-1239
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation13 at 345,228,-1238
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation13Thorns at 346,253,-1237
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleBridge at 377,232,-1241
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleBridge at 440,256,-1241
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleBridge at 467,256,-1263
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleDamagedTower at 468,261,-1349
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation13 at 469,228,-1348
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation13Thorns at 471,277,-1346
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleBridge at 467,268,-1317
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleBridge at 490,268,-1293
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleDamagedTower at 573,277,-1292
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation13 at 574,252,-1291
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation13Thorns at 576,289,-1289
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleWreckedTower at 573,285,-1335
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation13Thorns at 576,301,-1333
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleBridge at 572,256,-1313
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleBridge at 546,268,-1293
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleBridge at 509,268,-1260
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleBridge at 538,244,-1236
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleBridge at 560,256,-1208
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleDamagedTower at 561,253,-1133
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation13 at 562,228,-1132
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation13Thorns at 564,265,-1130
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleWreckedTower at 561,265,-1092
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation13Thorns at 564,277,-1090
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleBridge at 560,256,-1112
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleBridge at 560,232,-1157
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleBridge at 539,256,-1187
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleBridge at 512,256,-1168
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleBridge at 321,277,-1151
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleMazeTower13 at 261,282,-1149
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation13 at 262,249,-1148
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleRoof13Crenellated at 262,302,-1148
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleMazeTower13 at 261,294,-1113
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation13 at 262,261,-1112
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleRoof13Crenellated at 262,314,-1112
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleMazeTower13 at 207,298,-1113
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation13 at 208,273,-1112
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleRoof13Conical at 208,317,-1112
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleMazeTower13 at 207,278,-1070
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation13 at 208,261,-1069
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleRoof13Conical at 208,301,-1069
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleMazeTower13 at 245,298,-1070
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation13 at 246,273,-1069
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleRoof13Crenellated at 246,314,-1069
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleMazeTower13 at 245,298,-1025
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation13 at 246,273,-1024
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleRoof13Conical at 246,321,-1024
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleMazeTower13 at 285,274,-1025
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation13 at 286,249,-1024
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleRoof13Conical at 286,297,-1024
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleMazeTower13 at 285,258,-992
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation13 at 286,225,-991
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleRoof13Conical at 286,285,-991
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleMazeTower13 at 329,242,-992
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation13 at 330,225,-991
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleRoof13Conical at 330,261,-991
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleMazeTower13 at 329,250,-1029
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation13 at 330,225,-1028
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleRoof13Crenellated at 330,266,-1028
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleMazeTower13 at 368,242,-1029
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation13 at 369,225,-1028
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleRoof13Conical at 369,273,-1028
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleMazeTower13 at 368,262,-986
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation13 at 369,237,-985
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleRoof13Crenellated at 369,278,-985
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleMazeTower13 at 431,266,-986
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation13 at 432,249,-985
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleRoof13Crenellated at 432,278,-985
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleMazeTower13 at 431,282,-1047
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleFoundation13 at 432,249,-1046
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleRoof13Conical at 432,305,-1046
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Component ComponentTFFinalCastleBellTower21 at 478,302,-1045
+[22:22:21] [Server thread/DEBUG] [twilightforest]: Tower maze color blue complete!
+[22:22:24] [Server thread/DEBUG] [twilightforest]: TROLL_CAVE @ chunk [17, -67]
+[22:22:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported santydork to Chrisus]
+[22:22:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santydork> xaero-waypoint:portal 1:P:-925:36:-433:8:false:0:Internal-dim%7-waypoints
+[22:22:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santydork> xaero-waypoint:portal 1:P:-925:36:-433:8:false:0:Internal-dim%7-waypoints
+[22:22:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santydork> xaero-waypoint:portal 1:P:-925:36:-433:8:false:0:Internal-dim%7-waypoints
+[22:22:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santydork> xaero-waypoint:portal 1:P:-925:36:-433:8:false:0:Internal-dim%7-waypoints
+[22:22:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santydork> xaero-waypoint:portal 1:P:-925:36:-433:8:false:0:Internal-dim%7-waypoints
+[22:22:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:22:45] [Server thread/DEBUG] [adlods]: DepositGenResult { Name = lead, Size = 1162, BlockPos{x=166, y=30, z=-1002}, Chunk[10, -63] }
+[22:22:51] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Chrisus lost connection: Disconnected
+[22:22:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus left the game
+[22:22:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santydork> . xaero-waypoint:portal 1:P:-925:36:-433:8:false:0:Internal-dim%7-waypoints
+[22:22:53] [Server thread/TRACE] [FML]: Handshake channel activating
+[22:22:53] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[22:22:53] [Server thread/DEBUG] [FML]:   Next: HELLO
+[22:22:53] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[22:22:53] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[22:22:53] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ModList:69 mods->FMLHandshakeServerState$2:HELLO
+[22:22:53] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 69 mods : extendedrenderer@v1.0,mixinbooter@10.4,trashslot@8.4.10,cgm@0.15.3,hats@7.1.1,wi-zoom@1.0,bountifulbaubles@0.0.1,configmod@v1.0,mmorpg@1.9.6,jei@4.16.1.1013,mekanism@1.12.2-9.8.3.390,bettercaves@1.12.2,forgeendertech@1.12.2-4.5.6.1,mcp@9.42,clumps@3.1.2,controlling@3.0.10,ctm@MC1.12.2-1.0.2.31,xaeroworldmap@1.39.2,artifacts@1.12.2-1.2.4,sereneseasons@1.2.18,zombieawareness@1.12.1-1.11.16,adhooks@1.12.2-3.3.1.0,uteamcore@2.2.5.339,morpheus@1.12.2-3.5.106,mahoutsukai@1.12.2-v1.19.55,resourcify@1.6.1,hordes@1.5.3a,normalasm@5.24,mekanismgenerators@1.12.2-9.8.3.390,ichunutil@7.2.2,hbm@NTM-Extended-1.12.2-2.0.2,skinlayers3d@1.2.0,forge@14.23.5.2859,xaeroworldmap_core@1.12.2-1.0,twilightforest@3.11.1021,simpledivegear@1.1.1,minecraft@1.12.2,usefulbackpacks@1.5.4.85,mousetweaks@2.10.1,baubles@1.5.2,adlods@1.12.2-1.0.8.0,vehicle@0.44.1,vintagefix@0.5.1,fermiumbooter@1.1.1,villagespawnpoint@1.8,roguelike@2.4.6,ezstorage@2.5.0,patchouli@1.0-23.6,xaerominimap@25.0.0,collective@3.0,camera@1.0.10,entityculling@@VER@,offlineskins@1.12.2-v6,FML@8.0.99.99,obfuscate@0.4.2,farsight@1.6,tombstone@4.7.4,atlaslib@1.1.6,coroutil@1.12.1-1.2.37,mekanismtools@1.12.2-9.8.3.390,appleskin@1.0.14,xaerominimap_core@1.12.2-1.0,backtools@7.0.1,aether_legacy@1.5.3.2,cavern@2.3.1,followme@1.1.5a,cosmeticarmorreworked@1.12.2-v5a,movillages@1.5.4,responsiveshields@2.3
+[22:22:53] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: WAITINGCACK
+[22:22:53] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[22:22:53] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: COMPLETE
+[22:22:55] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[22:22:55] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: DONE
+[22:22:55] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[22:22:55] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:22:55] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Chrisus[/127.179.226.202:49037] logged in with entity id 62059 at (1.510392050900228, 25.0, -935.5461273995297)
+[22:22:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus joined the game
+[22:22:55] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player Chrisus
+[22:22:55] [Server thread/INFO] [Mekanism]: Sent config to 'Chrisus.'
+[22:22:55] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[22:23:00] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <santydork> xaero-waypoint:polla:P:-925:36:-433:8:false:0:Internal-dim%7-waypoints
+[22:23:05] [Server thread/DEBUG] [FML]: The world ead53e4 (world) may have leaked: seen 205 times.
+
+[22:23:05] [Server thread/DEBUG] [FML]: The world ca39b63 (world) may have leaked: seen 205 times.
+
+[22:23:05] [Server thread/DEBUG] [FML]: The world 6e4a2c7f (world) may have leaked: seen 205 times.
+
+[22:23:05] [Server thread/DEBUG] [FML]: The world 1ee40cfe (world) may have leaked: seen 205 times.
+
+[22:23:05] [Server thread/DEBUG] [FML]: The world 6fb9dc4b (world) may have leaked: seen 205 times.
+
+[22:23:05] [Server thread/DEBUG] [FML]: The world 32baa85d (world) may have leaked: seen 205 times.
+
+[22:23:05] [Server thread/DEBUG] [FML]: The world 6dec3c03 (world) may have leaked: seen 205 times.
+
+[22:23:05] [Server thread/DEBUG] [FML]: The world 4e801ebc (world) may have leaked: seen 205 times.
+
+[22:23:05] [Server thread/DEBUG] [FML]: The world 58deb543 (world) may have leaked: seen 205 times.
+
+[22:23:05] [Server thread/DEBUG] [FML]: The world 5f0595e5 (world) may have leaked: seen 205 times.
+
+[22:23:05] [Server thread/DEBUG] [FML]: The world e084211 (world) may have leaked: seen 205 times.
+
+[22:23:05] [Server thread/DEBUG] [FML]: The world 6bbe9ea2 (world) may have leaked: seen 205 times.
+
+[22:23:05] [Server thread/DEBUG] [FML]: The world 13415f35 (world) may have leaked: seen 205 times.
+
+[22:23:05] [Server thread/DEBUG] [FML]: The world 1fabc43e (world) may have leaked: seen 205 times.
+
+[22:23:05] [Server thread/DEBUG] [FML]: The world 7f6aac9 (world) may have leaked: seen 205 times.
+
+[22:23:05] [Server thread/DEBUG] [FML]: The world 60cacde8 (world) may have leaked: seen 205 times.
+
+[22:23:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:23:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Teleported Chrisus to santydork]
+[22:23:55] [Server thread/DEBUG] [FML]: The world ead53e4 (world) may have leaked: seen 210 times.
+
+[22:23:55] [Server thread/DEBUG] [FML]: The world ca39b63 (world) may have leaked: seen 210 times.
+
+[22:23:55] [Server thread/DEBUG] [FML]: The world 6e4a2c7f (world) may have leaked: seen 210 times.
+
+[22:23:55] [Server thread/DEBUG] [FML]: The world 1ee40cfe (world) may have leaked: seen 210 times.
+
+[22:23:55] [Server thread/DEBUG] [FML]: The world 6fb9dc4b (world) may have leaked: seen 210 times.
+
+[22:23:55] [Server thread/DEBUG] [FML]: The world 32baa85d (world) may have leaked: seen 210 times.
+
+[22:23:55] [Server thread/DEBUG] [FML]: The world 6dec3c03 (world) may have leaked: seen 210 times.
+
+[22:23:55] [Server thread/DEBUG] [FML]: The world 4e801ebc (world) may have leaked: seen 210 times.
+
+[22:23:55] [Server thread/DEBUG] [FML]: The world 58deb543 (world) may have leaked: seen 210 times.
+
+[22:23:55] [Server thread/DEBUG] [FML]: The world 5f0595e5 (world) may have leaked: seen 210 times.
+
+[22:23:55] [Server thread/DEBUG] [FML]: The world e084211 (world) may have leaked: seen 210 times.
+
+[22:23:55] [Server thread/DEBUG] [FML]: The world 6bbe9ea2 (world) may have leaked: seen 210 times.
+
+[22:23:55] [Server thread/DEBUG] [FML]: The world 13415f35 (world) may have leaked: seen 210 times.
+
+[22:23:55] [Server thread/DEBUG] [FML]: The world 1fabc43e (world) may have leaked: seen 210 times.
+
+[22:23:55] [Server thread/DEBUG] [FML]: The world 7f6aac9 (world) may have leaked: seen 210 times.
+
+[22:23:55] [Server thread/DEBUG] [FML]: The world 60cacde8 (world) may have leaked: seen 210 times.
+
+[22:24:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:24:45] [Server thread/DEBUG] [FML]: The world ead53e4 (world) may have leaked: seen 215 times.
+
+[22:24:45] [Server thread/DEBUG] [FML]: The world ca39b63 (world) may have leaked: seen 215 times.
+
+[22:24:45] [Server thread/DEBUG] [FML]: The world 6e4a2c7f (world) may have leaked: seen 215 times.
+
+[22:24:45] [Server thread/DEBUG] [FML]: The world 1ee40cfe (world) may have leaked: seen 215 times.
+
+[22:24:45] [Server thread/DEBUG] [FML]: The world 6fb9dc4b (world) may have leaked: seen 215 times.
+
+[22:24:45] [Server thread/DEBUG] [FML]: The world 32baa85d (world) may have leaked: seen 215 times.
+
+[22:24:45] [Server thread/DEBUG] [FML]: The world 6dec3c03 (world) may have leaked: seen 215 times.
+
+[22:24:45] [Server thread/DEBUG] [FML]: The world 4e801ebc (world) may have leaked: seen 215 times.
+
+[22:24:45] [Server thread/DEBUG] [FML]: The world 58deb543 (world) may have leaked: seen 215 times.
+
+[22:24:45] [Server thread/DEBUG] [FML]: The world 5f0595e5 (world) may have leaked: seen 215 times.
+
+[22:24:45] [Server thread/DEBUG] [FML]: The world e084211 (world) may have leaked: seen 215 times.
+
+[22:24:45] [Server thread/DEBUG] [FML]: The world 6bbe9ea2 (world) may have leaked: seen 215 times.
+
+[22:24:45] [Server thread/DEBUG] [FML]: The world 13415f35 (world) may have leaked: seen 215 times.
+
+[22:24:45] [Server thread/DEBUG] [FML]: The world 1fabc43e (world) may have leaked: seen 215 times.
+
+[22:24:45] [Server thread/DEBUG] [FML]: The world 7f6aac9 (world) may have leaked: seen 215 times.
+
+[22:24:45] [Server thread/DEBUG] [FML]: The world 60cacde8 (world) may have leaked: seen 215 times.
+
+[22:24:55] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:25:35] [Server thread/DEBUG] [FML]: The world ead53e4 (world) may have leaked: seen 220 times.
+
+[22:25:35] [Server thread/DEBUG] [FML]: The world ca39b63 (world) may have leaked: seen 220 times.
+
+[22:25:35] [Server thread/DEBUG] [FML]: The world 6e4a2c7f (world) may have leaked: seen 220 times.
+
+[22:25:35] [Server thread/DEBUG] [FML]: The world 1ee40cfe (world) may have leaked: seen 220 times.
+
+[22:25:35] [Server thread/DEBUG] [FML]: The world 6fb9dc4b (world) may have leaked: seen 220 times.
+
+[22:25:35] [Server thread/DEBUG] [FML]: The world 32baa85d (world) may have leaked: seen 220 times.
+
+[22:25:35] [Server thread/DEBUG] [FML]: The world 6dec3c03 (world) may have leaked: seen 220 times.
+
+[22:25:35] [Server thread/DEBUG] [FML]: The world 4e801ebc (world) may have leaked: seen 220 times.
+
+[22:25:35] [Server thread/DEBUG] [FML]: The world 58deb543 (world) may have leaked: seen 220 times.
+
+[22:25:35] [Server thread/DEBUG] [FML]: The world 5f0595e5 (world) may have leaked: seen 220 times.
+
+[22:25:35] [Server thread/DEBUG] [FML]: The world e084211 (world) may have leaked: seen 220 times.
+
+[22:25:35] [Server thread/DEBUG] [FML]: The world 6bbe9ea2 (world) may have leaked: seen 220 times.
+
+[22:25:35] [Server thread/DEBUG] [FML]: The world 13415f35 (world) may have leaked: seen 220 times.
+
+[22:25:35] [Server thread/DEBUG] [FML]: The world 1fabc43e (world) may have leaked: seen 220 times.
+
+[22:25:35] [Server thread/DEBUG] [FML]: The world 7f6aac9 (world) may have leaked: seen 220 times.
+
+[22:25:35] [Server thread/DEBUG] [FML]: The world 60cacde8 (world) may have leaked: seen 220 times.
+
+[22:25:40] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:26:25] [Server thread/DEBUG] [FML]: The world ead53e4 (world) may have leaked: seen 225 times.
+
+[22:26:25] [Server thread/DEBUG] [FML]: The world ca39b63 (world) may have leaked: seen 225 times.
+
+[22:26:25] [Server thread/DEBUG] [FML]: The world 6e4a2c7f (world) may have leaked: seen 225 times.
+
+[22:26:25] [Server thread/DEBUG] [FML]: The world 1ee40cfe (world) may have leaked: seen 225 times.
+
+[22:26:25] [Server thread/DEBUG] [FML]: The world 6fb9dc4b (world) may have leaked: seen 225 times.
+
+[22:26:25] [Server thread/DEBUG] [FML]: The world 32baa85d (world) may have leaked: seen 225 times.
+
+[22:26:25] [Server thread/DEBUG] [FML]: The world 6dec3c03 (world) may have leaked: seen 225 times.
+
+[22:26:25] [Server thread/DEBUG] [FML]: The world 4e801ebc (world) may have leaked: seen 225 times.
+
+[22:26:25] [Server thread/DEBUG] [FML]: The world 58deb543 (world) may have leaked: seen 225 times.
+
+[22:26:25] [Server thread/DEBUG] [FML]: The world 5f0595e5 (world) may have leaked: seen 225 times.
+
+[22:26:25] [Server thread/DEBUG] [FML]: The world e084211 (world) may have leaked: seen 225 times.
+
+[22:26:25] [Server thread/DEBUG] [FML]: The world 6bbe9ea2 (world) may have leaked: seen 225 times.
+
+[22:26:25] [Server thread/DEBUG] [FML]: The world 13415f35 (world) may have leaked: seen 225 times.
+
+[22:26:25] [Server thread/DEBUG] [FML]: The world 1fabc43e (world) may have leaked: seen 225 times.
+
+[22:26:25] [Server thread/DEBUG] [FML]: The world 7f6aac9 (world) may have leaked: seen 225 times.
+
+[22:26:25] [Server thread/DEBUG] [FML]: The world 60cacde8 (world) may have leaked: seen 225 times.
+
+[22:26:25] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:26:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported santydork to Chrisus]
+[22:27:10] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:27:15] [Server thread/DEBUG] [FML]: The world ead53e4 (world) may have leaked: seen 230 times.
+
+[22:27:15] [Server thread/DEBUG] [FML]: The world ca39b63 (world) may have leaked: seen 230 times.
+
+[22:27:15] [Server thread/DEBUG] [FML]: The world 6e4a2c7f (world) may have leaked: seen 230 times.
+
+[22:27:15] [Server thread/DEBUG] [FML]: The world 1ee40cfe (world) may have leaked: seen 230 times.
+
+[22:27:15] [Server thread/DEBUG] [FML]: The world 6fb9dc4b (world) may have leaked: seen 230 times.
+
+[22:27:15] [Server thread/DEBUG] [FML]: The world 32baa85d (world) may have leaked: seen 230 times.
+
+[22:27:15] [Server thread/DEBUG] [FML]: The world 6dec3c03 (world) may have leaked: seen 230 times.
+
+[22:27:15] [Server thread/DEBUG] [FML]: The world 4e801ebc (world) may have leaked: seen 230 times.
+
+[22:27:15] [Server thread/DEBUG] [FML]: The world 58deb543 (world) may have leaked: seen 230 times.
+
+[22:27:15] [Server thread/DEBUG] [FML]: The world 5f0595e5 (world) may have leaked: seen 230 times.
+
+[22:27:15] [Server thread/DEBUG] [FML]: The world e084211 (world) may have leaked: seen 230 times.
+
+[22:27:15] [Server thread/DEBUG] [FML]: The world 6bbe9ea2 (world) may have leaked: seen 230 times.
+
+[22:27:15] [Server thread/DEBUG] [FML]: The world 13415f35 (world) may have leaked: seen 230 times.
+
+[22:27:15] [Server thread/DEBUG] [FML]: The world 1fabc43e (world) may have leaked: seen 230 times.
+
+[22:27:15] [Server thread/DEBUG] [FML]: The world 7f6aac9 (world) may have leaked: seen 230 times.
+
+[22:27:15] [Server thread/DEBUG] [FML]: The world 60cacde8 (world) may have leaked: seen 230 times.
+
+[22:27:30] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Chrisus lost connection: Disconnected
+[22:27:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus left the game
+[22:27:32] [Server thread/TRACE] [FML]: Handshake channel activating
+[22:27:32] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[22:27:32] [Server thread/DEBUG] [FML]:   Next: HELLO
+[22:27:33] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[22:27:33] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[22:27:33] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:69 mods->FMLHandshakeServerState$2:HELLO
+[22:27:33] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 69 mods : extendedrenderer@v1.0,mixinbooter@10.4,trashslot@8.4.10,cgm@0.15.3,hats@7.1.1,wi-zoom@1.0,bountifulbaubles@0.0.1,configmod@v1.0,mmorpg@1.9.6,jei@4.16.1.1013,mekanism@1.12.2-9.8.3.390,bettercaves@1.12.2,forgeendertech@1.12.2-4.5.6.1,mcp@9.42,clumps@3.1.2,controlling@3.0.10,ctm@MC1.12.2-1.0.2.31,xaeroworldmap@1.39.2,artifacts@1.12.2-1.2.4,sereneseasons@1.2.18,zombieawareness@1.12.1-1.11.16,adhooks@1.12.2-3.3.1.0,uteamcore@2.2.5.339,morpheus@1.12.2-3.5.106,mahoutsukai@1.12.2-v1.19.55,resourcify@1.6.1,hordes@1.5.3a,normalasm@5.24,mekanismgenerators@1.12.2-9.8.3.390,ichunutil@7.2.2,hbm@NTM-Extended-1.12.2-2.0.2,skinlayers3d@1.2.0,forge@14.23.5.2859,xaeroworldmap_core@1.12.2-1.0,twilightforest@3.11.1021,simpledivegear@1.1.1,minecraft@1.12.2,usefulbackpacks@1.5.4.85,mousetweaks@2.10.1,baubles@1.5.2,adlods@1.12.2-1.0.8.0,vehicle@0.44.1,vintagefix@0.5.1,fermiumbooter@1.1.1,villagespawnpoint@1.8,roguelike@2.4.6,ezstorage@2.5.0,patchouli@1.0-23.6,xaerominimap@25.0.0,collective@3.0,camera@1.0.10,entityculling@@VER@,offlineskins@1.12.2-v6,FML@8.0.99.99,obfuscate@0.4.2,farsight@1.6,tombstone@4.7.4,atlaslib@1.1.6,coroutil@1.12.1-1.2.37,mekanismtools@1.12.2-9.8.3.390,appleskin@1.0.14,xaerominimap_core@1.12.2-1.0,backtools@7.0.1,aether_legacy@1.5.3.2,cavern@2.3.1,followme@1.1.5a,cosmeticarmorreworked@1.12.2-v5a,movillages@1.5.4,responsiveshields@2.3
+[22:27:33] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[22:27:33] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[22:27:33] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[22:27:35] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[22:27:35] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[22:27:35] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[22:27:35] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:27:35] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Chrisus[/127.179.226.202:58059] logged in with entity id 67898 at (-7.395522858272482, 27.0, -933.7930264324865)
+[22:27:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus joined the game
+[22:27:35] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player Chrisus
+[22:27:35] [Server thread/INFO] [Mekanism]: Sent config to 'Chrisus.'
+[22:27:35] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
