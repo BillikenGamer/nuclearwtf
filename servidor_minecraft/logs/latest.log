@@ -976,3 +976,36 @@
 [23:38:20] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [23:38:32] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [72, 15] in dimension 0 (overworld) while populating chunk [72, 14], causing cascading worldgen lag.
 [23:38:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:38:47] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [56, 15] in dimension 0 (overworld) while populating chunk [57, 15], causing cascading worldgen lag.
+[23:38:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:38:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Teleported Chrisus to -882.5, 62.5, -536.5]
+[23:38:59] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [62, 17] in dimension 0 (overworld) while populating chunk [63, 17], causing cascading worldgen lag.
+[23:38:59] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:39:03] [Server thread/INFO] [morpheus]: Chrisus is now sleeping. 1/2 (50%)
+[23:39:03] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chrisus moved wrongly!
+[23:40:14] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [73, 25] in dimension 0 (overworld) while populating chunk [72, 25], causing cascading worldgen lag.
+[23:40:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:40:27] [Server thread/INFO] [roguelike]: Trying to spawn dungeon at chunkX 60 and chunkZ 30...
+[23:40:27] [Server thread/INFO] [roguelike]: Trying to spawn dungeon with id builtin:forest at {"x": 1173, "y": 0, "z": 412}...
+[23:40:29] [Server thread/INFO] [roguelike]: Successfully generated dungeon with id builtin:forest at {"x": 1173, "y": 0, "z": 412}.
+[23:40:29] [Server thread/INFO] [roguelike]: Task Dungeon.generate() completed in 2303 milliseconds.
+[23:40:29] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2483ms behind, skipping 49 tick(s)
+[23:40:29] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [67, 30] in dimension 0 (overworld) while populating chunk [68, 30], causing cascading worldgen lag.
+[23:40:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:40:30] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [78, 18] in dimension 0 (overworld) while populating chunk [78, 19], causing cascading worldgen lag.
+[23:40:30] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:40:31] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [67, 31] in dimension 0 (overworld) while populating chunk [68, 31], causing cascading worldgen lag.
+[23:40:31] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:40:40] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [67, 33] in dimension 0 (overworld) while populating chunk [68, 33], causing cascading worldgen lag.
+[23:40:40] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:41:05] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [66, 35] in dimension 0 (overworld) while populating chunk [67, 35], causing cascading worldgen lag.
+[23:41:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:41:10] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [83, 15] in dimension 0 (overworld) while populating chunk [83, 16], causing cascading worldgen lag.
+[23:41:10] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:41:15] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [84, 21] in dimension 0 (overworld) while populating chunk [84, 22], causing cascading worldgen lag.
+[23:41:15] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:41:16] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [83, 16] in dimension 0 (overworld) while populating chunk [84, 17], causing cascading worldgen lag.
+[23:41:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:41:16] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [83, 15] in dimension 0 (overworld) while populating chunk [84, 17], causing cascading worldgen lag.
+[23:41:16] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:41:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported santydork to -884.5, 62.5, -540.5]
