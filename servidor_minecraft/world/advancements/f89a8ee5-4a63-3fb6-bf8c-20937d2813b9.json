@@ -507,6 +507,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/biomes/dense_twilight_forest": {
+    "criteria": {
+      "discover": "2025-02-02 23:04:08 +0000"
+    },
+    "done": true
+  },
   "aether_legacy:recipes/combat/iron_gloves": {
     "criteria": {
       "has_iron_ingot": "2025-01-26 00:19:39 +0000"
@@ -952,6 +958,7 @@
       "skeleton": "2025-01-25 22:35:47 +0000",
       "husk": "2025-01-27 00:33:33 +0000",
       "zombie": "2025-01-25 22:31:22 +0000",
+      "cave_spider": "2025-02-02 22:59:05 +0000",
       "witch": "2025-01-26 00:43:38 +0000",
       "spider": "2025-01-25 22:40:41 +0000",
       "creeper": "2025-01-26 01:38:34 +0000",
@@ -986,6 +993,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_at_least_9_redstone": "2025-01-26 01:39:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/death_tome": {
+    "criteria": {
+      "hurt": "2025-02-02 23:07:16 +0000"
     },
     "done": true
   },
@@ -1040,6 +1053,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-01-26 01:39:40 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/minotaur": {
+    "criteria": {
+      "hurt_by_indirect": "2025-02-02 22:58:00 +0000"
     },
     "done": true
   },
@@ -1346,6 +1365,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2025-01-26 23:42:50 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/lich": {
+    "criteria": {
+      "hurt_by_indirect": "2025-02-02 23:08:07 +0000"
     },
     "done": true
   },
@@ -1694,6 +1719,12 @@
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2025-01-27 00:39:21 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/lich_tower": {
+    "criteria": {
+      "discover": "2025-02-02 23:06:18 +0000"
     },
     "done": true
   },

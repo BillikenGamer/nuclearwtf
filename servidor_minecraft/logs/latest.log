@@ -565,3 +565,27 @@
 [22:57:00] [Server thread/INFO] [Mekanism]: Sent config to 'Chrisus.'
 [22:57:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported santydork to Chrisus]
 [22:57:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Teleported Chrisus to santydork]
+[23:00:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Teleported santydork to Chrisus]
+[23:02:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Teleported Chrisus to -924.5, 36.5, -432.5]
+[23:02:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported santydork to Chrisus]
+[23:02:50] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-63, -13] in dimension 7 (twilight_forest) while populating chunk [-62, -13], causing cascading worldgen lag.
+[23:02:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:03:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Server] hh
+[23:03:47] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-64, 4] in dimension 7 (twilight_forest) while populating chunk [-64, 3], causing cascading worldgen lag.
+[23:03:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:03:47] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-65, 4] in dimension 7 (twilight_forest) while populating chunk [-64, 4], causing cascading worldgen lag.
+[23:03:47] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:04:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Teleported Chrisus to santydork]
+[23:04:31] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4436ms behind, skipping 88 tick(s)
+[23:04:52] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2907ms behind, skipping 58 tick(s)
+[23:05:16] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 7931ms behind, skipping 158 tick(s)
+[23:05:34] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 4573ms behind, skipping 91 tick(s)
+[23:05:54] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-59, 34] in dimension 7 (twilight_forest) while populating chunk [-60, 34], causing cascading worldgen lag.
+[23:05:54] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[23:05:54] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3236ms behind, skipping 64 tick(s)
+[23:06:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Teleported Chrisus to santydork]
+[23:07:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported santydork to Chrisus]
+[23:07:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santydork blew up
+[23:07:54] [Server thread/INFO] [tombstone]: The last known grave of santydork is at location [name:Last Grave, x:-989, y:98, z:501] in the dimension 7
+[23:07:54] [Server thread/INFO] [tombstone]: santydork has successfully been saved
+[23:08:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported santydork to -986.5, 98.5, 501.5]

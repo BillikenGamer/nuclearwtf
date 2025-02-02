@@ -168,6 +168,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stonebrick": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-02 23:05:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-01-27 00:34:55 +0000"
@@ -519,6 +525,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/biomes/dense_twilight_forest": {
+    "criteria": {
+      "discover": "2025-02-02 23:03:51 +0000"
+    },
+    "done": true
+  },
   "aether_legacy:recipes/combat/iron_gloves": {
     "criteria": {
       "has_iron_ingot": "2025-01-26 00:01:57 +0000"
@@ -540,6 +552,12 @@
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_bonemeal": "2025-01-26 01:28:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-02-02 23:05:43 +0000"
     },
     "done": true
   },
@@ -705,6 +723,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/animals": {
+    "criteria": {
+      "0": "2025-02-02 23:02:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-01-25 23:58:54 +0000"
@@ -738,6 +762,12 @@
   "minecraft:recipes/decorations/gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-01-26 01:40:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-02-02 23:06:31 +0000"
     },
     "done": true
   },
@@ -1036,6 +1066,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/bighorn_sheep": {
+    "criteria": {
+      "hurt": "2025-02-02 23:02:32 +0000"
+    },
+    "done": true
+  },
   "twilightforest:alt/treasures/naga_armor_set": {
     "criteria": {
       "ingredient": "2025-02-02 22:37:45 +0000"
@@ -1063,6 +1099,12 @@
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-01-26 01:40:04 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/minotaur": {
+    "criteria": {
+      "hurt_by_indirect": "2025-02-02 22:59:18 +0000"
     },
     "done": true
   },
@@ -1117,6 +1159,12 @@
   "aether_legacy:recipes/tools/iron_ring": {
     "criteria": {
       "has_iron": "2025-01-26 00:01:57 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/foods/meef": {
+    "criteria": {
+      "raw": "2025-02-02 22:59:57 +0000"
     },
     "done": true
   },
@@ -1732,6 +1780,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/major_landmarks/lich_tower": {
+    "criteria": {
+      "discover": "2025-02-02 23:06:12 +0000"
+    },
+    "done": true
+  },
   "twilightforest:alt/entities/arthopods": {
     "criteria": {
       "1": "2025-02-02 22:19:35 +0000"
@@ -1771,6 +1825,12 @@
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-01-27 01:35:12 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/foods/any": {
+    "criteria": {
+      "2": "2025-02-02 22:59:57 +0000"
     },
     "done": true
   },
@@ -2037,6 +2097,12 @@
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-01-25 23:58:54 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/slime_beetle": {
+    "criteria": {
+      "hurt_by_indirect": "2025-02-02 23:00:49 +0000"
     },
     "done": true
   },
