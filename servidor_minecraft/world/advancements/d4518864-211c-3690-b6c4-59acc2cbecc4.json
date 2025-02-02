@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/major_landmarks/mushroom_tower": {
+    "criteria": {
+      "discover": "2025-02-02 22:11:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-26 00:29:34 +0000"
@@ -437,8 +443,11 @@
   },
   "twilightforest:arborist": {
     "criteria": {
+      "twilight_oak_planks": "2025-02-02 22:08:18 +0000",
       "twilight_oak_log": "2025-02-02 22:03:20 +0000",
-      "canopy_log": "2025-02-02 22:06:43 +0000"
+      "canopy_log": "2025-02-02 22:06:43 +0000",
+      "twilight_oak_leaves": "2025-02-02 22:09:05 +0000",
+      "mine_planks": "2025-02-02 22:16:29 +0000"
     },
     "done": false
   },
@@ -817,6 +826,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-01-25 23:23:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-02-02 22:11:30 +0000"
     },
     "done": true
   },
@@ -1457,6 +1472,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/biomes/firefly_forest": {
+    "criteria": {
+      "discover": "2025-02-02 22:15:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-01-26 00:11:24 +0000"
@@ -1681,6 +1702,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/biomes/twilight_swamp": {
+    "criteria": {
+      "0": "2025-02-02 22:16:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-01-25 23:58:54 +0000"
@@ -1714,6 +1741,12 @@
   "hbm:progress_adv": {
     "criteria": {
       "crafting_table": "2025-01-26 23:04:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/deep_mushroom_forest": {
+    "criteria": {
+      "discover": "2025-02-02 22:07:18 +0000"
     },
     "done": true
   },

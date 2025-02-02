@@ -89,6 +89,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/major_landmarks/mushroom_tower": {
+    "criteria": {
+      "discover": "2025-02-02 22:12:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-01-25 22:27:26 +0000"
@@ -437,8 +443,12 @@
   },
   "twilightforest:arborist": {
     "criteria": {
+      "twilight_oak_log": "2025-02-02 22:08:29 +0000",
+      "mangrove_slab": "2025-02-02 22:11:40 +0000",
       "canopy_log": "2025-02-02 22:06:15 +0000",
-      "robust_oak_sapling": "2025-02-02 22:03:51 +0000"
+      "twilight_oak_leaves": "2025-02-02 22:09:05 +0000",
+      "robust_oak_sapling": "2025-02-02 22:03:51 +0000",
+      "dark_slab": "2025-02-02 22:11:51 +0000"
     },
     "done": false
   },
@@ -1458,6 +1468,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/biomes/firefly_forest": {
+    "criteria": {
+      "discover": "2025-02-02 22:15:35 +0000"
+    },
+    "done": true
+  },
   "hbm:progress_anvil": {
     "criteria": {
       "crafting_table": "2025-01-28 21:52:41 +0000"
@@ -1663,6 +1679,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/biomes/twilight_swamp": {
+    "criteria": {
+      "0": "2025-02-02 22:16:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-01-25 22:31:43 +0000"
@@ -1696,6 +1718,12 @@
   "hbm:progress_adv": {
     "criteria": {
       "crafting_table": "2025-01-26 23:16:32 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/deep_mushroom_forest": {
+    "criteria": {
+      "discover": "2025-02-02 22:07:17 +0000"
     },
     "done": true
   },
