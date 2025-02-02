@@ -567,6 +567,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/scepters": {
+    "criteria": {
+      "3": "2025-02-02 23:11:52 +0000"
+    },
+    "done": true
+  },
   "sereneseasons:recipes/buildingblocks/greenhouse_glass": {
     "criteria": {
       "has_glass": "2025-01-26 01:39:40 +0000"
@@ -624,6 +630,12 @@
   "twilightforest:alt/biomes/twilight_forest": {
     "criteria": {
       "discover": "2025-02-02 22:51:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/zombie_scepter": {
+    "criteria": {
+      "scepter": "2025-02-02 23:11:55 +0000"
     },
     "done": true
   },
@@ -710,6 +722,12 @@
       "has_water_bucket": "2025-01-26 01:11:34 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_trophy_pedestal": {
+    "criteria": {
+      "kill_lich": "2025-02-02 23:11:45 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
@@ -1302,6 +1320,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/shield_scepter": {
+    "criteria": {
+      "scepter": "2025-02-02 23:11:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_bonemeal": "2025-01-26 01:28:07 +0000"
@@ -1819,6 +1843,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_labyrinth": {
+    "criteria": {
+      "kill_lich": "2025-02-02 23:11:45 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2025-01-25 22:31:43 +0000"
@@ -1918,6 +1948,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-26 01:39:40 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/lich_zombies": {
+    "criteria": {
+      "hurt_by_indirect_alt": "2025-02-02 23:11:37 +0000"
     },
     "done": true
   },
@@ -2035,6 +2071,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "previous_progression": "2025-02-02 23:11:45 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-01-25 22:31:43 +0000"
@@ -2091,9 +2133,10 @@
   },
   "twilightforest:progress_lich": {
     "criteria": {
+      "kill_lich": "2025-02-02 23:11:45 +0000",
       "kill_naga": "2025-02-02 22:37:44 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {

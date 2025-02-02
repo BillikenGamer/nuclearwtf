@@ -1414,6 +1414,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/lich": {
+    "criteria": {
+      "hurt_by_indirect": "2025-02-02 23:08:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2025-01-25 23:59:43 +0000"
@@ -1983,6 +1989,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-26 01:40:04 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/lich_zombies": {
+    "criteria": {
+      "hurt_by_indirect_alt": "2025-02-02 23:11:39 +0000"
     },
     "done": true
   },

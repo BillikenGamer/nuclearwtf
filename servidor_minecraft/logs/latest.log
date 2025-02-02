@@ -589,3 +589,12 @@
 [23:07:54] [Server thread/INFO] [tombstone]: The last known grave of santydork is at location [name:Last Grave, x:-989, y:98, z:501] in the dimension 7
 [23:07:54] [Server thread/INFO] [tombstone]: santydork has successfully been saved
 [23:08:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported santydork to -986.5, 98.5, 501.5]
+[23:11:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santydork was slain by Lich Minion
+[23:11:44] [Server thread/INFO] [tombstone]: The last known grave of santydork is at location [name:Last Grave, x:-992, y:98, z:499] in the dimension 7
+[23:11:44] [Server thread/INFO] [tombstone]: santydork has successfully been saved
+[23:11:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus has reached the goal [Bring Out Your Dead]
+[23:11:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported santydork to -990.5, 98.5, 497.5]
+[23:12:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Teleported Chrisus to -924.5, 36.5, -432.5]
+[23:12:20] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chrisus moved too quickly! 59.668112376633985,32.878703159460805,-93.1197407935822
+[23:12:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported santydork to -924.5, 36.5, -432.5]
+[23:12:44] [Server thread/INFO] [FML]: Unloading dimension 7
