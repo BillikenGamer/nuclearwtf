@@ -681,6 +681,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/fire_beetle": {
+    "criteria": {
+      "hurt_by_indirect": "2025-02-02 23:54:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2025-01-26 00:15:41 +0000"
@@ -1282,6 +1288,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/minotaur_axe_gold": {
+    "criteria": {
+      "axe": "2025-02-02 23:53:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-02-02 23:25:10 +0000"
@@ -1375,6 +1387,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2025-01-26 00:05:53 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/minotaur_axes": {
+    "criteria": {
+      "gold": "2025-02-02 23:53:53 +0000"
     },
     "done": true
   },
