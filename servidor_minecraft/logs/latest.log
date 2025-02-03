@@ -413,3 +413,47 @@
 [00:36:11] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
 [00:36:21] [Server thread/WARN] [net.minecraft.world.storage.loot.LootTable]: Tried to over-fill a container
 [00:36:26] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 3400ms behind, skipping 68 tick(s)
+[00:37:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Teleported Chrisus to santydork]
+[00:37:33] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-63, -107] in dimension 7 (twilight_forest) while populating chunk [-63, -106], causing cascading worldgen lag.
+[00:37:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:37:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported santydork to -989.5, 36.5, -1322.5]
+[00:37:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Teleported Chrisus to santydork]
+[00:38:02] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-69, -76] in dimension 7 (twilight_forest) while populating chunk [-70, -77], causing cascading worldgen lag.
+[00:38:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:38:02] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-70, -76] in dimension 7 (twilight_forest) while populating chunk [-70, -77], causing cascading worldgen lag.
+[00:38:02] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:38:03] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 5412ms behind, skipping 108 tick(s)
+[00:38:03] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-72, -76] in dimension 7 (twilight_forest) while populating chunk [-72, -77], causing cascading worldgen lag.
+[00:38:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:39:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Teleported Chrisus to santydork]
+[00:39:57] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-89, -86] in dimension 7 (twilight_forest) while populating chunk [-88, -86], causing cascading worldgen lag.
+[00:39:57] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:42:05] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus has reached the goal [Alpha Fur]
+[00:42:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Teleported Chrisus to santydork]
+[00:43:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Teleported Chrisus to santydork]
+[00:44:08] [Server thread/WARN] [FML]: HBM's Nuclear Tech - Extended Edition loaded a new chunk [-67, -111] in dimension 7 (twilight_forest) while populating chunk [-68, -111], causing cascading worldgen lag.
+[00:44:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:44:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Set own game mode to Creative Mode]
+[00:45:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Object successfully summoned]
+[00:45:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Set own game mode to Survival Mode]
+[00:45:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Set own game mode to Creative Mode]
+[00:45:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Object successfully summoned]
+[00:47:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santydork has reached the goal [Alpha Fur]
+[00:47:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Set own game mode to Survival Mode]
+[00:49:46] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: santydork lost connection: Disconnected
+[00:49:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santydork left the game
+[00:49:56] [Netty Epoll Server IO #6/INFO] [FML]: Client protocol version 2
+[00:49:56] [Netty Epoll Server IO #6/INFO] [FML]: Client attempting to join with 68 mods : extendedrenderer@v1.0,mixinbooter@10.4,trashslot@8.4.10,cgm@0.15.3,hats@7.1.1,wi-zoom@1.0,bountifulbaubles@0.0.1,configmod@v1.0,jei@4.16.1.1013,mekanism@1.12.2-9.8.3.390,bettercaves@1.12.2,forgeendertech@1.12.2-4.5.6.1,mcp@9.42,clumps@3.1.2,controlling@3.0.10,ctm@MC1.12.2-1.0.2.31,xaeroworldmap@1.39.2,artifacts@1.12.2-1.2.4,sereneseasons@1.2.18,zombieawareness@1.12.1-1.11.16,adhooks@1.12.2-3.3.1.0,uteamcore@2.2.5.339,morpheus@1.12.2-3.5.106,mahoutsukai@1.12.2-v1.19.55,resourcify@1.6.1,hordes@1.5.3a,normalasm@5.24,mekanismgenerators@1.12.2-9.8.3.390,ichunutil@7.2.2,hbm@NTM-Extended-1.12.2-2.0.2,skinlayers3d@1.2.0,forge@14.23.5.2859,xaeroworldmap_core@1.12.2-1.0,twilightforest@3.11.1021,simpledivegear@1.1.1,minecraft@1.12.2,usefulbackpacks@1.5.4.85,mousetweaks@2.10.1,baubles@1.5.2,adlods@1.12.2-1.0.8.0,vehicle@0.44.1,vintagefix@0.5.1,fermiumbooter@1.1.1,villagespawnpoint@1.8,roguelike@2.4.6,ezstorage@2.5.0,patchouli@1.0-23.6,xaerominimap@25.0.0,collective@3.0,camera@1.0.10,entityculling@@VER@,offlineskins@1.12.2-v6,FML@8.0.99.99,obfuscate@0.4.2,farsight@1.6,tombstone@4.7.4,atlaslib@1.1.6,coroutil@1.12.1-1.2.37,mekanismtools@1.12.2-9.8.3.390,appleskin@1.0.14,xaerominimap_core@1.12.2-1.0,backtools@7.0.1,aether_legacy@1.5.3.2,cavern@2.3.1,followme@1.1.5a,cosmeticarmorreworked@1.12.2-v5a,movillages@1.5.4,responsiveshields@2.3
+[00:49:57] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:49:57] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: santydork[/127.158.131.211:38623] logged in with entity id 47017 at (-1270.1955160451462, 121.5, -1761.3222291107045)
+[00:49:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santydork joined the game
+[00:49:57] [Server thread/INFO] [bountifulbaubles]: Attempting to sync config to player santydork
+[00:49:57] [Server thread/INFO] [Mekanism]: Sent config to 'santydork.'
+[00:53:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Given [Bedrock] * 1 to santydork]
+[00:54:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported santydork to Chrisus]
+[00:55:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Given Haste (ID 3) * 0 to Chrisus for 10000 seconds]
+[00:55:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Set own game mode to Spectator Mode]
+[00:55:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported santydork to Chrisus]
+[00:55:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Set own game mode to Survival Mode]
+[00:57:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Set own game mode to Spectator Mode]
+[00:57:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Set own game mode to Spectator Mode]
