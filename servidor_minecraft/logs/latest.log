@@ -473,3 +473,8 @@
 [01:03:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported santydork to -924.5, 36.5, -432.5]
 [01:03:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: santydork moved too quickly! 59.702070686580555,33.0,-93.1619266440141
 [01:04:29] [Server thread/INFO] [FML]: Unloading dimension 7
+[01:10:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santydork has made the advancement [Teflon]
+[01:13:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus has made the advancement [Enchanter]
+[01:16:43] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Given Haste (ID 3) * 255 to Chrisus for 100000 seconds]
+[01:17:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Given Haste (ID 3) * 0 to Chrisus for 30 seconds]
+[01:17:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Took all effects from Chrisus]

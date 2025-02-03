@@ -2363,6 +2363,12 @@
     },
     "done": true
   },
+  "hbm:progress_polymer": {
+    "criteria": {
+      "crafting_table": "2025-02-03 01:10:53 +0000"
+    },
+    "done": true
+  },
   "twilightforest:alt/biomes/twilight_swamp": {
     "criteria": {
       "0": "2025-02-02 22:16:55 +0000"
