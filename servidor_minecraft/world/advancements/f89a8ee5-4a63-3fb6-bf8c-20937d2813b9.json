@@ -585,6 +585,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/minotaur_axe_gold": {
+    "criteria": {
+      "axe": "2025-02-03 00:00:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2025-01-26 00:15:40 +0000"
@@ -648,6 +654,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2025-01-26 00:19:39 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/minotaur_axes": {
+    "criteria": {
+      "gold": "2025-02-03 00:00:50 +0000"
     },
     "done": true
   },
@@ -1126,6 +1138,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-01-25 22:31:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime": {
+    "criteria": {
+      "has_at_least_9_slime_ball": "2025-02-03 00:02:49 +0000"
     },
     "done": true
   },
@@ -2012,6 +2030,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-01-25 22:59:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_the_recipe": "2025-02-03 00:02:49 +0000"
     },
     "done": true
   },

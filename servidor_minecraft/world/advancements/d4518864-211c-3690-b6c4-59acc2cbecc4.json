@@ -259,6 +259,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/maze_slime": {
+    "criteria": {
+      "hurt_by_indirect": "2025-02-03 00:01:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-01-26 00:20:12 +0000"
@@ -1612,6 +1618,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-02-02 23:59:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_banner": {
     "criteria": {
       "has_red_wool": "2025-01-27 15:28:58 +0000"
@@ -1843,6 +1855,12 @@
   "aether_legacy:recipes/tools/gold_ring": {
     "criteria": {
       "has_gold": "2025-01-27 00:34:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-02-02 23:59:42 +0000"
     },
     "done": true
   },
