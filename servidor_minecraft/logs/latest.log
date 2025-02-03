@@ -457,3 +457,19 @@
 [00:55:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Set own game mode to Survival Mode]
 [00:57:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Set own game mode to Spectator Mode]
 [00:57:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Set own game mode to Spectator Mode]
+[00:57:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Set own game mode to Survival Mode]
+[00:57:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Set own game mode to Survival Mode]
+[00:59:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus has reached the goal [Clear Skies]
+[01:00:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santydork has reached the goal [Clear Skies]
+[01:00:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Set own game mode to Spectator Mode]
+[01:00:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported santydork to Chrisus]
+[01:00:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santydork fell from a high place
+[01:00:48] [Server thread/INFO] [tombstone]: The last known grave of santydork is at location [name:Last Grave, x:-1241, y:68, z:-1716] in the dimension 7
+[01:00:48] [Server thread/INFO] [tombstone]: santydork has successfully been saved
+[01:00:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Set own game mode to Survival Mode]
+[01:01:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported santydork to -1240.5, 68.5, -1715.5]
+[01:03:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Teleported Chrisus to -924.5, 36.5, -432.5]
+[01:03:25] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Chrisus moved too quickly! 56.66191067926843,33.0,-94.17875352296471
+[01:03:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported santydork to -924.5, 36.5, -432.5]
+[01:03:31] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: santydork moved too quickly! 59.702070686580555,33.0,-93.1619266440141
+[01:04:29] [Server thread/INFO] [FML]: Unloading dimension 7

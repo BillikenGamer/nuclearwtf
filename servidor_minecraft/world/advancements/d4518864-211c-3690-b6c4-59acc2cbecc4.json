@@ -295,6 +295,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/triple_bow": {
+    "criteria": {
+      "bow": "2025-02-03 01:00:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_bonemeal": "2025-01-26 01:28:20 +0000"
@@ -563,9 +569,10 @@
   },
   "twilightforest:progress_glacier": {
     "criteria": {
-      "previous_progression": "2025-02-03 00:47:29 +0000"
+      "previous_progression": "2025-02-03 00:47:29 +0000",
+      "trophy": "2025-02-03 01:00:17 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:twilight_hunter": {
     "criteria": {
@@ -887,7 +894,8 @@
   },
   "twilightforest:progress_merge": {
     "criteria": {
-      "hydra": "2025-02-03 00:20:41 +0000"
+      "hydra": "2025-02-03 00:20:41 +0000",
+      "snow_queen": "2025-02-03 01:00:17 +0000"
     },
     "done": false
   },
@@ -900,6 +908,12 @@
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-01-27 15:00:34 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/snow_queen": {
+    "criteria": {
+      "hurt": "2025-02-03 00:57:34 +0000"
     },
     "done": true
   },
@@ -1170,6 +1184,12 @@
   "twilightforest:alt/treasures/tools": {
     "criteria": {
       "5": "2025-02-03 00:49:45 +0000"
+    },
+    "done": true
+  },
+  "cavern:recipes/packed_ice_recipes": {
+    "criteria": {
+      "packed_ice": "2025-02-03 00:59:16 +0000"
     },
     "done": true
   },
@@ -1601,6 +1621,12 @@
   "minecraft:recipes/decorations/black_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-01-26 01:40:04 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/ice_crystal": {
+    "criteria": {
+      "hurt_by_indirect": "2025-02-03 00:57:38 +0000"
     },
     "done": true
   },
@@ -2195,6 +2221,12 @@
   "hbm:progress_steel": {
     "criteria": {
       "crafting_table": "2025-01-26 00:48:39 +0000"
+    },
+    "done": true
+  },
+  "cavern:recipes/ice_recipes": {
+    "criteria": {
+      "ice": "2025-02-03 01:01:32 +0000"
     },
     "done": true
   },

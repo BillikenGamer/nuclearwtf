@@ -300,6 +300,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/triple_bow": {
+    "criteria": {
+      "bow": "2025-02-03 00:59:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_bonemeal": "2025-01-26 01:28:07 +0000"
@@ -563,9 +569,10 @@
   },
   "twilightforest:progress_glacier": {
     "criteria": {
+      "queen": "2025-02-03 00:59:15 +0000",
       "previous_progression": "2025-02-03 00:42:05 +0000"
     },
-    "done": false
+    "done": true
   },
   "twilightforest:twilight_hunter": {
     "criteria": {
@@ -899,7 +906,8 @@
   },
   "twilightforest:progress_merge": {
     "criteria": {
-      "hydra": "2025-02-03 00:21:32 +0000"
+      "hydra": "2025-02-03 00:21:32 +0000",
+      "snow_queen": "2025-02-03 00:59:15 +0000"
     },
     "done": false
   },
@@ -918,6 +926,12 @@
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-02-03 00:44:49 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/snow_queen": {
+    "criteria": {
+      "hurt": "2025-02-03 00:57:38 +0000"
     },
     "done": true
   },
@@ -1636,6 +1650,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone": {
     "criteria": {
       "has_sandstone": "2025-02-02 23:30:22 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/ice_crystal": {
+    "criteria": {
+      "hurt_by_indirect": "2025-02-03 00:57:39 +0000"
     },
     "done": true
   },
