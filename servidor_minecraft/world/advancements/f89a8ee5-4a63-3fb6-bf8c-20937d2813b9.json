@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/hydra": {
+    "criteria": {
+      "hurt": "2025-02-03 00:14:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-26 01:39:40 +0000"
@@ -597,6 +603,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/minoshroom": {
+    "criteria": {
+      "hurt_by_indirect": "2025-02-03 00:11:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-01-27 00:39:21 +0000"
@@ -624,6 +636,12 @@
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-01-26 01:39:40 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/minotaur_axe_diamond": {
+    "criteria": {
+      "axe": "2025-02-03 00:12:45 +0000"
     },
     "done": true
   },
@@ -963,9 +981,10 @@
   },
   "twilightforest:progress_labyrinth": {
     "criteria": {
+      "meef": "2025-02-03 00:12:32 +0000",
       "kill_lich": "2025-02-02 23:11:45 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
@@ -1333,6 +1352,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-02-03 00:12:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-01-26 00:15:40 +0000"
@@ -1462,6 +1487,12 @@
       "has_glass": "2025-01-26 01:39:40 +0000"
     },
     "done": true
+  },
+  "twilightforest:progress_hydra": {
+    "criteria": {
+      "stroganoff": "2025-02-03 00:12:32 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
@@ -2081,6 +2112,12 @@
     },
     "done": true
   },
+  "twilightforest:twilight_dinner": {
+    "criteria": {
+      "meef_stroganoff": "2025-02-03 00:12:32 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-01-26 01:39:53 +0000"
@@ -2186,6 +2223,12 @@
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-01-29 00:32:48 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/steeleaf_tool_set": {
+    "criteria": {
+      "pickaxe": "2025-02-03 00:12:00 +0000"
     },
     "done": true
   },

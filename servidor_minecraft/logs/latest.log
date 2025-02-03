@@ -23,3 +23,13 @@
 [00:08:39] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id twilightforest:twilight_litch
 [00:08:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Object successfully summoned]
 [00:09:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santydork has reached the goal [Bring Out Your Dead]
+[00:09:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported santydork to Chrisus]
+[00:09:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Set own game mode to Survival Mode]
+[00:09:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported santydork to Chrisus]
+[00:11:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Teleported Chrisus to santydork]
+[00:12:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Chrisus has reached the goal [Mighty Stroganoff]
+[00:12:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santydork has reached the goal [Mighty Stroganoff]
+[00:13:23] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Teleported Chrisus to -924.5, 36.5, -432.5]
+[00:13:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported santydork to Chrisus]
+[00:14:11] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported santydork to -615.5, 36.5, -577.5]
+[00:14:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Teleported Chrisus to santydork]
