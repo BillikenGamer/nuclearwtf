@@ -483,3 +483,38 @@
 [01:29:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Chrisus: Teleported Chrisus to -882.5, 62.5, -536.5]
 [01:33:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Given [Flint and Steel] * 1 to santydork]
 [01:37:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported santydork to -1129.5, 70.5, -696.5]
+[01:37:46] [Server thread/INFO] [hordes]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@7548c8f5]Trying to start horde event on day 40 with nextDay 40 and time 18000
+[01:37:46] [Server thread/INFO] [hordes]: Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@6fa33e08
+[01:37:46] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+[01:37:46] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombieVillager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+[01:37:46] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.passive.EntityZombieHorse,weight=3,minDay=20,maxDay=0] to hordespawn on day 20
+[01:37:46] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityHusk,weight=40,minDay=20,maxDay=0] to hordespawn on day 20
+[01:37:46] [Server thread/INFO] [hordes]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@7548c8f5]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@7548c8f5 ignoring light level
+[01:37:46] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.passive.EntityZombieHorse,weight=3,minDay=20,maxDay=0] to hordespawn on day 40
+[01:37:46] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityHusk,weight=40,minDay=20,maxDay=0] to hordespawn on day 40
+[01:38:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported santydork to -884.5, 62.5, -540.5]
+[01:38:36] [Server thread/INFO] [hordes]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@7548c8f5]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@7548c8f5 ignoring light level
+[01:38:36] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.passive.EntityZombieHorse,weight=3,minDay=20,maxDay=0] to hordespawn on day 40
+[01:38:36] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityHusk,weight=40,minDay=20,maxDay=0] to hordespawn on day 40
+[01:39:11] [Server thread/INFO] [morpheus]: santydork is now sleeping. 1/2 (50%)
+[01:39:26] [Server thread/INFO] [hordes]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@7548c8f5]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@7548c8f5 ignoring light level
+[01:39:26] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.passive.EntityZombieHorse,weight=3,minDay=20,maxDay=0] to hordespawn on day 40
+[01:39:26] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityHusk,weight=40,minDay=20,maxDay=0] to hordespawn on day 40
+[01:39:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported santydork to -1129.5, 70.5, -696.5]
+[01:39:39] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported santydork to -884.5, 62.5, -540.5]
+[01:40:16] [Server thread/INFO] [hordes]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@7548c8f5]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@7548c8f5 ignoring light level
+[01:40:16] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.passive.EntityZombieHorse,weight=3,minDay=20,maxDay=0] to hordespawn on day 40
+[01:40:16] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityHusk,weight=40,minDay=20,maxDay=0] to hordespawn on day 40
+[01:40:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported santydork to -1129.5, 70.5, -696.5]
+[01:41:06] [Server thread/INFO] [hordes]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@7548c8f5]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@7548c8f5 ignoring light level
+[01:41:06] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.passive.EntityZombieHorse,weight=3,minDay=20,maxDay=0] to hordespawn on day 40
+[01:41:06] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityHusk,weight=40,minDay=20,maxDay=0] to hordespawn on day 40
+[01:41:06] [Server thread/INFO] [hordes]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@7548c8f5]Can't spawn wave because max cap has been reached
+[01:41:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [santydork: Teleported santydork to -884.5, 62.5, -540.5]
+[01:41:56] [Server thread/INFO] [hordes]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@7548c8f5]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@7548c8f5 ignoring light level
+[01:41:56] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.passive.EntityZombieHorse,weight=3,minDay=20,maxDay=0] to hordespawn on day 40
+[01:41:56] [Server thread/INFO] [hordes]: Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityHusk,weight=40,minDay=20,maxDay=0] to hordespawn on day 40
+[01:41:56] [Server thread/INFO] [hordes]: [net.smileycorp.hordes.hordeevent.capability.HordeEvent@7548c8f5]Can't spawn wave because max cap has been reached
+[01:43:36] [Server thread/INFO] [FML]: Loading dimension 7 (world) (net.minecraft.server.dedicated.DedicatedServer@5d18a7c2)
+[01:44:59] [Server thread/INFO] [FML]: Unloading dimension 7
+[01:45:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: santydork has made the advancement [Centripetal Force]

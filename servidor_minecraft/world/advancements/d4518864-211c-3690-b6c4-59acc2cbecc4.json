@@ -531,6 +531,12 @@
     },
     "done": true
   },
+  "hbm:progress_centrifuge_1": {
+    "criteria": {
+      "crafting_table": "2025-02-03 01:45:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2025-01-26 01:40:04 +0000"

@@ -59,3 +59,29 @@ Loaded wearable protection minecraft:diamond_boots with modifier 0.86
 Loaded wearable protection minecraft:diamond_leggings with modifier 0.86
 Loaded wearable protection minecraft:diamond_chestplate with modifier 0.86
 Loaded wearable protection minecraft:diamond_helmet with modifier 0.86
+[net.smileycorp.hordes.hordeevent.capability.HordeEvent@7548c8f5]Trying to start horde event on day 40 with nextDay 40 and time 18000
+Applying script hordes:default for event net.smileycorp.hordes.common.event.HordeBuildSpawnDataEvent@6fa33e08
+Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombie,weight=35,minDay=0,maxDay=20] to hordespawn on day 20
+Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityZombieVillager,weight=1,minDay=0,maxDay=20] to hordespawn on day 20
+Adding entry HordeSpawnEntry[type=class net.minecraft.entity.passive.EntityZombieHorse,weight=3,minDay=20,maxDay=0] to hordespawn on day 20
+Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityHusk,weight=40,minDay=20,maxDay=0] to hordespawn on day 20
+[net.smileycorp.hordes.hordeevent.capability.HordeEvent@7548c8f5]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@7548c8f5 ignoring light level
+Adding entry HordeSpawnEntry[type=class net.minecraft.entity.passive.EntityZombieHorse,weight=3,minDay=20,maxDay=0] to hordespawn on day 40
+Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityHusk,weight=40,minDay=20,maxDay=0] to hordespawn on day 40
+[net.smileycorp.hordes.hordeevent.capability.HordeEvent@7548c8f5]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@7548c8f5 ignoring light level
+Adding entry HordeSpawnEntry[type=class net.minecraft.entity.passive.EntityZombieHorse,weight=3,minDay=20,maxDay=0] to hordespawn on day 40
+Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityHusk,weight=40,minDay=20,maxDay=0] to hordespawn on day 40
+[net.smileycorp.hordes.hordeevent.capability.HordeEvent@7548c8f5]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@7548c8f5 ignoring light level
+Adding entry HordeSpawnEntry[type=class net.minecraft.entity.passive.EntityZombieHorse,weight=3,minDay=20,maxDay=0] to hordespawn on day 40
+Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityHusk,weight=40,minDay=20,maxDay=0] to hordespawn on day 40
+[net.smileycorp.hordes.hordeevent.capability.HordeEvent@7548c8f5]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@7548c8f5 ignoring light level
+Adding entry HordeSpawnEntry[type=class net.minecraft.entity.passive.EntityZombieHorse,weight=3,minDay=20,maxDay=0] to hordespawn on day 40
+Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityHusk,weight=40,minDay=20,maxDay=0] to hordespawn on day 40
+[net.smileycorp.hordes.hordeevent.capability.HordeEvent@7548c8f5]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@7548c8f5 ignoring light level
+Adding entry HordeSpawnEntry[type=class net.minecraft.entity.passive.EntityZombieHorse,weight=3,minDay=20,maxDay=0] to hordespawn on day 40
+Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityHusk,weight=40,minDay=20,maxDay=0] to hordespawn on day 40
+[net.smileycorp.hordes.hordeevent.capability.HordeEvent@7548c8f5]Can't spawn wave because max cap has been reached
+[net.smileycorp.hordes.hordeevent.capability.HordeEvent@7548c8f5]Unable to find unlit pos for horde net.smileycorp.hordes.hordeevent.capability.HordeEvent@7548c8f5 ignoring light level
+Adding entry HordeSpawnEntry[type=class net.minecraft.entity.passive.EntityZombieHorse,weight=3,minDay=20,maxDay=0] to hordespawn on day 40
+Adding entry HordeSpawnEntry[type=class net.minecraft.entity.monster.EntityHusk,weight=40,minDay=20,maxDay=0] to hordespawn on day 40
+[net.smileycorp.hordes.hordeevent.capability.HordeEvent@7548c8f5]Can't spawn wave because max cap has been reached
